@@ -4,6 +4,7 @@
     python3 ~/Projects/지식창고/scripts/sync_hints.py          # 최신 파일
     python3 ~/Projects/지식창고/scripts/sync_hints.py --dry-run # 복사만, 커밋·푸시 안 함
 각 저장소에서는 data/topic_hints.json 한 파일만 커밋한다 (다른 작업 중인 파일은 건드리지 않음).
+먼저 지식창고 자체(공개 저장소 woodykim88/jisikchanggo)의 변경을 커밋·푸시한다. 접속정보.md는 .gitignore로 제외.
 로컬에서 도는 채널(Aside 네이버 블로그·건강노트 3D릴스, 베리굿)은 지식창고를 직접 읽는다.
 """
 from __future__ import annotations
@@ -51,8 +52,23 @@ def sync(repo: Path, data: dict, dry_run: bool) -> str:
     return '푸시함'
 
 
+def publish_self() -> str:
+    git(ROOT, 'add', '-A')
+    if not git(ROOT, 'diff', '--cached', '--name-only'):
+        return '변경 없음'
+    git(ROOT, 'commit', '-m', 'docs: 키워드 조사 기록 갱신')
+    git(ROOT, 'pull', '--rebase', '--autostash', '-q')
+    git(ROOT, 'push', '-q')
+    return '푸시함'
+
+
 def main() -> None:
     dry_run = '--dry-run' in sys.argv
+    if not dry_run:
+        try:
+            print(f'[지식창고] {publish_self()}')
+        except subprocess.CalledProcessError as e:
+            print(f'[지식창고] 실패: {e.stderr.strip()[:200]}')
     source = latest_hints()
     data = json.loads(source.read_text(encoding='utf-8'))
     print(f'[소스] {source.name} (조사일 {data["date"]})')
