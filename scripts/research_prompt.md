@@ -6,9 +6,9 @@
 1. 씨앗 수집: `~/Projects/블로그/구글블로그-AI뉴스/.venv/bin/python scripts/collect_seeds.py` (달력, 블로그 최근 30편, 급상승 키워드, 최근 48시간 기사)
 2. 1차 거르기: 시의성·행동변화·꿀팁이 있는 소재 20~25개 + 이번 달~다음 달 계절 소재. 정치·사건사고·기업 실적·소수 대상·투자 권유는 뺀다.
 3. 검색어로 바꿔 조회: `python3 scripts/query_planner.py 키워드1 키워드2 ...` (사람이 실제 치는 말, 띄어쓰기 없이. 1차 20개 안팎, 유망한 소재는 롱테일로 2차 10~15개). 종료 코드 3이면 카카오 로그인이 풀린 것 → 즉시 멈춘다.
-4. 점수: 소재 정의 JSON을 조사데이터/YYYY-MM-DD_topics.json으로 쓰고 `python3 scripts/score.py 조사데이터/YYYY-MM-DD_topics.json`. roots는 소재와 직접 관련된 뿌리 단어(쿠팡·구글 같은 넓은 말이 섞이지 않게 exclude 활용), timeliness·action은 0~3을 오늘 기사 근거로 판단, 최근 블로그 글과 겹치면 penalty.
+4. 점수: 소재 정의 JSON을 조사데이터/YYYY-MM-DD_topics.json으로 쓰고 `python3 scripts/score.py 조사데이터/YYYY-MM-DD_topics.json`. format은 계산기로 답이 나오는 소재("○○ 계산", 금액·기간 계산)면 "calculator", 날짜·일정을 정리하는 소재("○월 일정", 신청 기간·마감 캘린더)면 "calendar", 아니면 빈 문자열 — 이 블로그에서 실제로 상위 노출된 유형이라 가점. roots는 소재와 직접 관련된 뿌리 단어(쿠팡·구글 같은 넓은 말이 섞이지 않게 exclude 활용), timeliness·action은 0~3을 오늘 기사 근거로 판단, 최근 블로그 글과 겹치면 penalty.
 5. 키워드리스트.md 맨 아래에 "## YYYY-MM-DD (요일) 글감 후보 TOP 10" 섹션을 이전 형식대로 추가: 표 + 소재별(대표 검색어·롱테일, 왜 지금(기사 근거), 할 일·꿀팁 각도, 주의) + 입찰 0원 트래픽형 따로 + "채널별 배분" 표.
-6. hints/YYYY-MM-DD.json 작성 (형식은 hints/의 이전 파일과 같게). 채널 키: blog(구글 블로그, 검색형 생활경제+AI), honjasseobom(생활필수품·생활비), healthnote(건강), haru(30대 여성 직장인 토끼 캐릭터, 공감 장면 각도, 돈 조언 금지). keywords는 기사 제목에 실제 등장할 짧은 단어 2~6개.
+6. hints/YYYY-MM-DD.json 작성 (형식은 hints/의 이전 파일과 같게). 채널 키: blog(구글 블로그, 검색형 생활경제+AI), honjasseobom(생활필수품·생활비), healthnote(건강), haru(30대 여성 직장인 토끼 캐릭터, 공감 장면 각도, 돈 조언 금지). keywords는 기사 제목에 실제 등장할 짧은 단어 2~6개. blog 소재가 계산기형·일정형이면 angle에 "계산기형"·"일정형"을 밝혀 글이 계산 방법·날짜표 중심이 되게 한다(계산기 사이트 tools.woodyway88.com 연결 각도).
 7. `python3 scripts/sync_hints.py` 실행 (지식창고 공개 저장소 + 봇 4곳 푸시).
 
 원칙

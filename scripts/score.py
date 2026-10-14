@@ -1,8 +1,11 @@
 """소재 점수 계산. 소재 정의(JSON)를 받아 조사데이터에서 관련 키워드만 묶어 점수를 매긴다.
 
     python3 score.py topics.json
-topics.json: [{"name": "...", "roots": ["독감"], "exclude": [], "timeliness": 0-3, "action": 0-3, "penalty": 0-1}, ...]
-점수 = 수요 30(로그) + 최고입찰가 20(로그) + 롱테일 10 + 시의성 20 + 행동·꿀팁 20 − 감점 10×penalty
+topics.json: [{"name": "...", "roots": ["독감"], "exclude": [], "timeliness": 0-3, "action": 0-3, "penalty": 0-1,
+               "format": "calculator|calendar|"}, ...]
+점수 = 수요 30(로그) + 최고입찰가 20(로그) + 롱테일 10 + 시의성 20 + 행동·꿀팁 20 − 감점 10×penalty + 형식 가점
+형식 가점(2026-10-15): 계산기형·일정형 +8. Search Console에서 "실업급여 계산기 2026" 1위, "11월 마케팅 캘린더" 3.4위처럼
+이 블로그에서 실제로 상위 노출된 유형이다 (일반 정보형 "퇴직금 계산 방법"은 72위).
 결과는 조사데이터/YYYY-MM-DD_score.json (순위, 수요, 입찰가, 롱테일, 상위 키워드)
 """
 import json
@@ -12,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+FORMAT_BONUS = {'calculator': 8, 'calendar': 8}
 
 
 def num(s: str) -> int:
@@ -33,10 +37,11 @@ def main() -> None:
         bid = max([v[1] for v in seen.values()] or [0])
         longtail = sum(1 for v in seen.values() if v[0] >= 100)
         score = (30 * min(math.log10(max(demand, 1)) / 6, 1) + 20 * min(math.log10(max(bid, 1)) / 4, 1)
-                 + 10 * min(longtail / 30, 1) + 20 * t['timeliness'] / 3 + 20 * t['action'] / 3 - 10 * t.get('penalty', 0))
+                 + 10 * min(longtail / 30, 1) + 20 * t['timeliness'] / 3 + 20 * t['action'] / 3 - 10 * t.get('penalty', 0)
+                 + FORMAT_BONUS.get(t.get('format', ''), 0))
         top = sorted(seen.items(), key=lambda x: -x[1][0])[:8]
         results.append({'name': t['name'], 'score': round(score, 1), 'demand': demand, 'bid': bid, 'longtail': longtail,
-                        'timeliness': t['timeliness'], 'action': t['action'],
+                        'timeliness': t['timeliness'], 'action': t['action'], 'format': t.get('format', ''),
                         'top_keywords': [{'keyword': k, 'requests': v[0], 'bid': v[1]} for k, v in top]})
     results.sort(key=lambda r: -r['score'])
     out = ROOT / '조사데이터' / f'{day}_score.json'
