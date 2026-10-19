@@ -1,0 +1,908 @@
+[
+ {
+  "name": "2027 수능 날짜·시간표",
+  "score": 94.9,
+  "demand": 94192,
+  "bid": 5590,
+  "longtail": 40,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능일정",
+    "requests": 44714,
+    "bid": 70
+   },
+   {
+    "keyword": "수능",
+    "requests": 17554,
+    "bid": 750
+   },
+   {
+    "keyword": "수능일",
+    "requests": 6059,
+    "bid": 120
+   },
+   {
+    "keyword": "2026수능날짜",
+    "requests": 3883,
+    "bid": 200
+   },
+   {
+    "keyword": "수능날짜",
+    "requests": 2579,
+    "bid": 70
+   },
+   {
+    "keyword": "수시발표일정",
+    "requests": 2423,
+    "bid": 0
+   },
+   {
+    "keyword": "2026년수능일정",
+    "requests": 1943,
+    "bid": 200
+   },
+   {
+    "keyword": "2027수능날짜",
+    "requests": 1623,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "지역별 단풍 절정 시기·화담숲 예약",
+  "score": 94.0,
+  "demand": 343544,
+  "bid": 1000,
+  "longtail": 55,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "단풍시기",
+    "requests": 211776,
+    "bid": 0
+   },
+   {
+    "keyword": "화담숲",
+    "requests": 42245,
+    "bid": 460
+   },
+   {
+    "keyword": "화담숲홈페이지",
+    "requests": 14865,
+    "bid": 0
+   },
+   {
+    "keyword": "화담숲예약하기",
+    "requests": 11159,
+    "bid": 750
+   },
+   {
+    "keyword": "2026년단풍시기",
+    "requests": 6680,
+    "bid": 0
+   },
+   {
+    "keyword": "설악산단풍",
+    "requests": 5500,
+    "bid": 1000
+   },
+   {
+    "keyword": "단풍절정시기",
+    "requests": 4924,
+    "bid": 120
+   },
+   {
+    "keyword": "화담숲단풍절정시기",
+    "requests": 4408,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "자동차보험 갱신·비교",
+  "score": 86.7,
+  "demand": 2821355,
+  "bid": 35500,
+  "longtail": 122,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "자동차보험료비교견적",
+    "requests": 211141,
+    "bid": 11880
+   },
+   {
+    "keyword": "자동차보험",
+    "requests": 112768,
+    "bid": 24400
+   },
+   {
+    "keyword": "자동차보험비교견적사이트",
+    "requests": 91773,
+    "bid": 12050
+   },
+   {
+    "keyword": "다이렉트자동차보험비교견적",
+    "requests": 88084,
+    "bid": 27900
+   },
+   {
+    "keyword": "자동차보험비교견적",
+    "requests": 85126,
+    "bid": 23700
+   },
+   {
+    "keyword": "다이렉트자동차보험",
+    "requests": 78503,
+    "bid": 35500
+   },
+   {
+    "keyword": "자동차다이렉트보험",
+    "requests": 77647,
+    "bid": 12000
+   },
+   {
+    "keyword": "자동차보험료계산",
+    "requests": 77508,
+    "bid": 4760
+   }
+  ]
+ },
+ {
+  "name": "독감 예방접종 비용·무료 대상",
+  "score": 84.7,
+  "demand": 278530,
+  "bid": 310,
+  "longtail": 53,
+  "timeliness": 3,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종시기",
+    "requests": 99598,
+    "bid": 200
+   },
+   {
+    "keyword": "독감무료접종대상나이",
+    "requests": 40395,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종무료대상날짜",
+    "requests": 23592,
+    "bid": 0
+   },
+   {
+    "keyword": "코로나예방접종",
+    "requests": 19052,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종무료대상",
+    "requests": 15557,
+    "bid": 0
+   },
+   {
+    "keyword": "65세이상독감예방접종시기",
+    "requests": 10673,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종비용",
+    "requests": 9597,
+    "bid": 170
+   },
+   {
+    "keyword": "무료독감접종일정",
+    "requests": 7485,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기·카드공제 계산",
+  "score": 83.6,
+  "demand": 11890,
+  "bid": 5070,
+  "longtail": 32,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산간소화서비스",
+    "requests": 1582,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산부양가족기본공제요건",
+    "requests": 910,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 622,
+    "bid": 180
+   },
+   {
+    "keyword": "연말정산신용카드공제계산법",
+    "requests": 449,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산연금저축소득공제",
+    "requests": 449,
+    "bid": 770
+   },
+   {
+    "keyword": "연말정산카드공제한도",
+    "requests": 429,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 422,
+    "bid": 5070
+   },
+   {
+    "keyword": "연말정산연금저축공제한도",
+    "requests": 360,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연봉 실수령액 계산",
+  "score": 74.9,
+  "demand": 32776,
+  "bid": 1600,
+  "longtail": 25,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "급여계산기",
+    "requests": 6024,
+    "bid": 1080
+   },
+   {
+    "keyword": "연봉계산기",
+    "requests": 5407,
+    "bid": 250
+   },
+   {
+    "keyword": "연봉실수령액",
+    "requests": 4615,
+    "bid": 1600
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 3160,
+    "bid": 900
+   },
+   {
+    "keyword": "연봉실수령액계산기",
+    "requests": 3131,
+    "bid": 0
+   },
+   {
+    "keyword": "실수령액계산기",
+    "requests": 2468,
+    "bid": 430
+   },
+   {
+    "keyword": "월급실수령액계산기",
+    "requests": 1771,
+    "bid": 420
+   },
+   {
+    "keyword": "연봉실수령액표",
+    "requests": 778,
+    "bid": 100
+   }
+  ]
+ },
+ {
+  "name": "비대면진료 초진 규칙 변경",
+  "score": 71.7,
+  "demand": 6706,
+  "bid": 110,
+  "longtail": 7,
+  "timeliness": 3,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "닥터나우",
+    "requests": 2261,
+    "bid": 0
+   },
+   {
+    "keyword": "나만의닥터",
+    "requests": 1404,
+    "bid": 0
+   },
+   {
+    "keyword": "비대면진료",
+    "requests": 747,
+    "bid": 110
+   },
+   {
+    "keyword": "굿닥",
+    "requests": 543,
+    "bid": 70
+   },
+   {
+    "keyword": "닥터나우비대면진료",
+    "requests": 433,
+    "bid": 0
+   },
+   {
+    "keyword": "비대면진료방법",
+    "requests": 316,
+    "bid": 0
+   },
+   {
+    "keyword": "비대면진료앱",
+    "requests": 147,
+    "bid": 70
+   },
+   {
+    "keyword": "비대면진료관련주",
+    "requests": 99,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "청년미래적금 2차 계좌개설 일정",
+  "score": 69.9,
+  "demand": 112098,
+  "bid": 0,
+  "longtail": 25,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "청년미래적금가입조건",
+    "requests": 56066,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금",
+    "requests": 23193,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금신청",
+    "requests": 11118,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금2차",
+    "requests": 7486,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금신청기간",
+    "requests": 6451,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금신청방법",
+    "requests": 1430,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금2차신청",
+    "requests": 1259,
+    "bid": 0
+   },
+   {
+    "keyword": "청년미래적금가입조건대학생",
+    "requests": 898,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "난방비·전기장판 전기세",
+  "score": 64.9,
+  "demand": 887,
+  "bid": 1680,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "전기세납부",
+    "requests": 184,
+    "bid": 0
+   },
+   {
+    "keyword": "난방비지원신청",
+    "requests": 153,
+    "bid": 0
+   },
+   {
+    "keyword": "난방비지원대상확인",
+    "requests": 82,
+    "bid": 0
+   },
+   {
+    "keyword": "기초생활수급자난방비지원",
+    "requests": 55,
+    "bid": 0
+   },
+   {
+    "keyword": "전기히터10평",
+    "requests": 53,
+    "bid": 90
+   },
+   {
+    "keyword": "취약계층난방비지원",
+    "requests": 51,
+    "bid": 0
+   },
+   {
+    "keyword": "이사할때도시가스전기세수도세",
+    "requests": 44,
+    "bid": 90
+   },
+   {
+    "keyword": "전기세감면대상",
+    "requests": 43,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타",
+  "score": 64.7,
+  "demand": 5728,
+  "bid": 2060,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 2231,
+    "bid": 500
+   },
+   {
+    "keyword": "블랙프라이데이세일기간",
+    "requests": 1003,
+    "bid": 120
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 658,
+    "bid": 110
+   },
+   {
+    "keyword": "광군제",
+    "requests": 481,
+    "bid": 850
+   },
+   {
+    "keyword": "블랙프라이데이가전제품세일",
+    "requests": 342,
+    "bid": 110
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 232,
+    "bid": 180
+   },
+   {
+    "keyword": "코리아블랙프라이데이",
+    "requests": 141,
+    "bid": 180
+   },
+   {
+    "keyword": "올리브영블랙프라이데이",
+    "requests": 118,
+    "bid": 100
+   }
+  ]
+ },
+ {
+  "name": "수능 도시락·선물",
+  "score": 64.1,
+  "demand": 4519,
+  "bid": 1980,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "보온도시락",
+    "requests": 1349,
+    "bid": 700
+   },
+   {
+    "keyword": "수능선물",
+    "requests": 731,
+    "bid": 740
+   },
+   {
+    "keyword": "써모스보온도시락",
+    "requests": 549,
+    "bid": 1980
+   },
+   {
+    "keyword": "수능도시락메뉴",
+    "requests": 425,
+    "bid": 110
+   },
+   {
+    "keyword": "수능도시락",
+    "requests": 370,
+    "bid": 430
+   },
+   {
+    "keyword": "도시락반찬메뉴",
+    "requests": 335,
+    "bid": 110
+   },
+   {
+    "keyword": "수능도시락메뉴추천",
+    "requests": 191,
+    "bid": 0
+   },
+   {
+    "keyword": "수능도시락통",
+    "requests": 182,
+    "bid": 100
+   }
+  ]
+ },
+ {
+  "name": "11월 달력·일정",
+  "score": 63.2,
+  "demand": 15886,
+  "bid": 200,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 10919,
+    "bid": 120
+   },
+   {
+    "keyword": "2026년11월달력",
+    "requests": 3270,
+    "bid": 0
+   },
+   {
+    "keyword": "2025년11월달력",
+    "requests": 403,
+    "bid": 0
+   },
+   {
+    "keyword": "11월11일",
+    "requests": 224,
+    "bid": 200
+   },
+   {
+    "keyword": "11월3일",
+    "requests": 128,
+    "bid": 0
+   },
+   {
+    "keyword": "11월공휴일",
+    "requests": 113,
+    "bid": 0
+   },
+   {
+    "keyword": "2024년11월달력",
+    "requests": 113,
+    "bid": 0
+   },
+   {
+    "keyword": "2023년11월달력",
+    "requests": 112,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추 예약",
+  "score": 63.0,
+  "demand": 6051,
+  "bid": 260,
+  "longtail": 16,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "김장배추추비주는시기",
+    "requests": 1052,
+    "bid": 0
+   },
+   {
+    "keyword": "김장시기",
+    "requests": 754,
+    "bid": 120
+   },
+   {
+    "keyword": "김장배추심는시기",
+    "requests": 520,
+    "bid": 0
+   },
+   {
+    "keyword": "김장배추약치는시기",
+    "requests": 368,
+    "bid": 0
+   },
+   {
+    "keyword": "김장무파종시기",
+    "requests": 362,
+    "bid": 0
+   },
+   {
+    "keyword": "김장배추모종심는시기",
+    "requests": 357,
+    "bid": 120
+   },
+   {
+    "keyword": "김장무추비주는시기",
+    "requests": 288,
+    "bid": 0
+   },
+   {
+    "keyword": "김장갓심는시기",
+    "requests": 264,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "종부세 계산·고지 일정",
+  "score": 61.3,
+  "demand": 1260,
+  "bid": 90,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종부세계산방법",
+    "requests": 448,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산기",
+    "requests": 298,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세특례신청",
+    "requests": 129,
+    "bid": 0
+   },
+   {
+    "keyword": "공동명의종부세계산방법",
+    "requests": 106,
+    "bid": 0
+   },
+   {
+    "keyword": "다주택자종부세계산방법",
+    "requests": 88,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세부과기준",
+    "requests": 67,
+    "bid": 0
+   },
+   {
+    "keyword": "1가구2주택종부세계산방법",
+    "requests": 52,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산",
+    "requests": 38,
+    "bid": 90
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이",
+  "score": 54.6,
+  "demand": 1908,
+  "bid": 2410,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로데이",
+    "requests": 1087,
+    "bid": 140
+   },
+   {
+    "keyword": "롯데빼빼로",
+    "requests": 159,
+    "bid": 160
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 135,
+    "bid": 1000
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 119,
+    "bid": 2410
+   },
+   {
+    "keyword": "빼빼로데이뜻",
+    "requests": 77,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이선물추천",
+    "requests": 76,
+    "bid": 100
+   },
+   {
+    "keyword": "빼빼로데이유래",
+    "requests": 43,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이날짜",
+    "requests": 42,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "은행 해킹 피해 보상",
+  "score": 54.2,
+  "demand": 7022,
+  "bid": 0,
+  "longtail": 5,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "국민은행해킹",
+    "requests": 4306,
+    "bid": 0
+   },
+   {
+    "keyword": "5대은행해킹",
+    "requests": 2193,
+    "bid": 0
+   },
+   {
+    "keyword": "우리은행해킹",
+    "requests": 261,
+    "bid": 0
+   },
+   {
+    "keyword": "은행보안",
+    "requests": 151,
+    "bid": 0
+   },
+   {
+    "keyword": "시중은행해킹",
+    "requests": 111,
+    "bid": 0
+   },
+   {
+    "keyword": "은행해킹보상",
+    "requests": 0,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "한복문화주간 할인",
+  "score": 53.7,
+  "demand": 102,
+  "bid": 2500,
+  "longtail": 0,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "하객한복",
+    "requests": 46,
+    "bid": 2500
+   },
+   {
+    "keyword": "한복문화주간",
+    "requests": 34,
+    "bid": 0
+   },
+   {
+    "keyword": "한복문화주간행사",
+    "requests": 18,
+    "bid": 0
+   },
+   {
+    "keyword": "전주한복문화주간",
+    "requests": 4,
+    "bid": 0
+   },
+   {
+    "keyword": "제9회한복문화주간",
+    "requests": 0,
+    "bid": 0
+   },
+   {
+    "keyword": "전주한복문화주간전주한복결",
+    "requests": 0,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "육아휴직 급여 계산",
+  "score": 52.9,
+  "demand": 609,
+  "bid": 100,
+  "longtail": 3,
+  "timeliness": 0,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "가족돌봄휴직",
+    "requests": 186,
+    "bid": 70
+   },
+   {
+    "keyword": "육아휴직급여계산기",
+    "requests": 130,
+    "bid": 0
+   },
+   {
+    "keyword": "육아휴직급여계산법",
+    "requests": 103,
+    "bid": 0
+   },
+   {
+    "keyword": "육아휴직급여신청방법",
+    "requests": 89,
+    "bid": 0
+   },
+   {
+    "keyword": "육아휴직급여계산",
+    "requests": 70,
+    "bid": 100
+   },
+   {
+    "keyword": "육아휴직급여금액",
+    "requests": 31,
+    "bid": 0
+   }
+  ]
+ }
+]

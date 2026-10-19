@@ -1,0 +1,20 @@
+[
+ {"name": "2027 수능 날짜·시간표", "roots": ["수능", "수시"], "exclude": ["도시락", "선물"], "timeliness": 3, "action": 2, "format": "calendar"},
+ {"name": "수능 도시락·선물", "roots": ["수능도시락", "수능선물", "보온도시락", "도시락반찬", "도시락메뉴"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "지역별 단풍 절정 시기·화담숲 예약", "roots": ["단풍", "화담숲", "화담채"], "timeliness": 3, "action": 2, "format": "calendar"},
+ {"name": "자동차보험 갱신·비교", "roots": ["자동차보험", "자동차다이렉트", "다이렉트자동차", "자동차책임보험"], "timeliness": 1, "action": 3, "format": ""},
+ {"name": "독감 예방접종 비용·무료 대상", "roots": ["독감", "코로나예방접종"], "timeliness": 3, "action": 3, "penalty": 0.5, "format": ""},
+ {"name": "연말정산 미리보기·카드공제 계산", "roots": ["연말정산", "신용카드소득공제", "신용카드공제", "카드공제"], "timeliness": 1, "action": 3, "format": "calculator"},
+ {"name": "연봉 실수령액 계산", "roots": ["실수령액", "연봉계산기", "월급계산기", "급여계산기", "연봉표"], "timeliness": 1, "action": 2, "format": "calculator"},
+ {"name": "비대면진료 초진 규칙 변경", "roots": ["비대면", "닥터나우", "굿닥", "나만의닥터", "약처방"], "timeliness": 3, "action": 3, "format": ""},
+ {"name": "청년미래적금 2차 계좌개설 일정", "roots": ["청년미래적금"], "timeliness": 3, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "종부세 계산·고지 일정", "roots": ["종부세"], "timeliness": 2, "action": 2, "format": "calculator"},
+ {"name": "김장 시기·절임배추 예약", "roots": ["김장", "절임배추", "배추절임"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "블랙프라이데이·코리아세일페스타", "roots": ["블랙프라이데이", "코리아세일페스타", "광군제"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "11월 달력·일정", "roots": ["11월달력", "11월공휴일", "11월3일", "11월11일"], "timeliness": 2, "action": 1, "format": "calendar"},
+ {"name": "빼빼로데이", "roots": ["빼빼로"], "timeliness": 2, "action": 1, "format": ""},
+ {"name": "난방비·전기장판 전기세", "roots": ["난방비", "전기장판", "전기세", "전기히터", "전기온수"], "timeliness": 2, "action": 3, "format": ""},
+ {"name": "은행 해킹 피해 보상", "roots": ["해킹", "은행보안"], "timeliness": 3, "action": 2, "format": ""},
+ {"name": "육아휴직 급여 계산", "roots": ["육아휴직", "가족돌봄"], "timeliness": 0, "action": 3, "format": "calculator"},
+ {"name": "한복문화주간 할인", "roots": ["한복"], "timeliness": 3, "action": 1, "format": ""}
+]
