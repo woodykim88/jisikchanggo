@@ -2,7 +2,7 @@
 
     python3 query_planner.py 키워드1 키워드2 ...
     python3 query_planner.py --check     # 로그인 상태만 확인
-로그인이 풀려 있으면 종료 코드 3 (사용자가 Ego 브라우저에서 직접 로그인해야 한다. 비밀번호는 다루지 않음).
+Aside 브라우저(aside repl)로 조회한다. 로그인이 풀려 있으면 종료 코드 3 (사용자가 Aside에서 직접 로그인해야 한다. 비밀번호는 다루지 않음).
 열: 키워드, 모바일 광고요청수·클릭수·클릭률·평균경쟁광고수·최고입찰가, PC 같은 5개.
 """
 import json
@@ -12,47 +12,58 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PLANNER_URL = 'https://keywordad.kakao.com/1011514/keyword-planner'
+# 광고계정 ID가 들어간 주소라 공개 저장소에 두지 않는다 (planner_url.local은 .gitignore)
+PLANNER_URL = (ROOT / 'planner_url.local').read_text(encoding='utf-8').strip()
 LOGIN_EXIT = 3
+CHUNK = 12  # aside repl 한 번은 120초 제한 — 키워드당 약 3초라 12개씩 나눈다
 
-JS = r'''
+JS = r"""
 const args = __ARGS__;
-const task = await taskSpace("지식창고 키워드 조사");
-const page = task.page("p1");
+for (const t of [...tabs]) if (t.url().includes('keyword-planner')) await closeTab(t);
+const p = await openTab(args.url);
+await sleep(2500);
 const out = {};
 try {
-  await page.goto(args.url);
-  await page.waitForLoadState();
-  await page.waitForTimeout(2500);
-  if ((await page.url()).includes("accounts.kakao.com")) { console.log("@@LOGIN@@"); }
+  if (p.url().includes('accounts.kakao.com')) { console.log('@@LOGIN@@'); }
   else {
+    const box = p.locator('form input').first();
     for (const kw of args.keywords) {
-      await page.fill("loc=css:form input", kw);
-      await page.press("loc=css:form input", "Enter");
-      await page.waitForTimeout(2500);
-      out[kw] = await page.evaluate(() => [...document.querySelectorAll("table")].slice(1)
-        .flatMap(t => [...t.querySelectorAll("tr")]).map(r => [...r.querySelectorAll("td")].map(c => c.innerText.trim()))
+      await box.fill(kw);
+      await box.press('Enter');
+      await sleep(2500);
+      out[kw] = await p.evaluate(() => [...document.querySelectorAll('table')].slice(1)
+        .flatMap(t => [...t.querySelectorAll('tr')]).map(r => [...r.querySelectorAll('td')].map(c => c.innerText.trim()))
         .filter(c => c.length >= 10).map(c => c.slice(1)));
     }
-    console.log("@@DATA@@" + JSON.stringify(out));
+    console.log('@@DATA@@' + JSON.stringify(out));
   }
 } finally {
-  await task.finish({ keep: [] });
+  await closeTab(p);
 }
-'''
+"""
 
 
-def run(keywords: list[str]) -> dict | None:
-    # ego-browser는 환경변수를 스크립트에 넘기지 않으므로 JSON을 코드에 직접 넣는다 (JSON은 JS 리터럴로 안전)
+def run_chunk(keywords: list[str]) -> dict | None:
+    # JSON을 코드에 직접 넣는다 (JSON은 JS 리터럴로 안전). aside repl은 오류에도 종료 코드 0이라 표식으로 판단한다
     script = JS.replace('__ARGS__', json.dumps({'url': PLANNER_URL, 'keywords': keywords}, ensure_ascii=False))
-    proc = subprocess.run(['ego-browser', 'nodejs'], input=script, capture_output=True, text=True,
-                          timeout=60 + 8 * len(keywords))
-    text = proc.stdout + proc.stderr  # ego-browser는 console.log를 stderr로 내보낼 때가 있다
+    proc = subprocess.run(['aside', 'repl', script], capture_output=True, text=True, timeout=150)
+    text = proc.stdout + proc.stderr
     if '@@LOGIN@@' in text:
         return None
     if '@@DATA@@' not in text:
-        sys.exit(f'플래너 조회 실패: {text[-500:]}')
+        hint = ' (Aside 앱이 켜져 있어야 합니다)' if "isn't running" in text else ''
+        sys.exit(f'플래너 조회 실패{hint}: {text[-500:]}')
     return json.loads(text.split('@@DATA@@', 1)[1].strip().splitlines()[0])
+
+
+def run(keywords: list[str]) -> dict | None:
+    merged = {}
+    for i in range(0, len(keywords), CHUNK):
+        data = run_chunk(keywords[i:i + CHUNK])
+        if data is None:
+            return None
+        merged = {**merged, **data}
+    return merged
 
 
 def main() -> None:
