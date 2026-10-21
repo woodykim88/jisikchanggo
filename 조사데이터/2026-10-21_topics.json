@@ -1,0 +1,219 @@
+[
+ {
+  "name": "김장 시기·절임배추 예약",
+  "roots": [
+   "김장",
+   "절임배추",
+   "배추절임"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar"
+ },
+ {
+  "name": "2027 수능 시간표·D-day",
+  "roots": [
+   "수능"
+  ],
+  "exclude": [
+   "도시락",
+   "선물"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "penalty": 0.5,
+  "format": "calendar"
+ },
+ {
+  "name": "11월 달력·공휴일·기념일",
+  "roots": [
+   "11월달력",
+   "11월공휴일",
+   "11월11일"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar"
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "roots": [
+   "블랙프라이데이",
+   "블프",
+   "코리아세일페스타",
+   "광군제"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar"
+ },
+ {
+  "name": "전월세 전환율 계산",
+  "roots": [
+   "전월세",
+   "월세전환",
+   "전세전환"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator"
+ },
+ {
+  "name": "청년 전세대출·전세대출 이자 계산",
+  "roots": [
+   "전세대출",
+   "청년전세",
+   "버팀목"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator"
+ },
+ {
+  "name": "종부세 계산·고지 일정",
+  "roots": [
+   "종부세",
+   "종합부동산세"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator"
+ },
+ {
+  "name": "연차수당 계산 (연말 미사용 연차)",
+  "roots": [
+   "연차수당",
+   "연차계산",
+   "연차발생"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "penalty": 0.3,
+  "format": "calculator"
+ },
+ {
+  "name": "자동차보험 갱신·비교",
+  "roots": [
+   "자동차보험",
+   "다이렉트자동차",
+   "자동차다이렉트"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "에너지바우처·난방비 지원",
+  "roots": [
+   "에너지바우처",
+   "난방비"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "겨울 타이어·윈터타이어 교체",
+  "roots": [
+   "윈터타이어",
+   "스노우타이어",
+   "겨울타이어",
+   "타이어교체"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "대상포진·독감 예방접종",
+  "roots": [
+   "대상포진예방",
+   "대상포진백신",
+   "독감예방접종",
+   "독감무료"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "penalty": 0.5,
+  "format": ""
+ },
+ {
+  "name": "할로윈 코스튬·행사",
+  "roots": [
+   "할로윈"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "빼빼로데이",
+  "roots": [
+   "빼빼로"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "보일러·전기온수기 겨울 점검",
+  "roots": [
+   "보일러",
+   "온수기"
+  ],
+  "timeliness": 1,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "챗GPT 채팅 잠금 기능",
+  "roots": [
+   "챗GPT잠금",
+   "챗지피티잠금",
+   "채팅잠금"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "카톡 업데이트 글씨 굵게",
+  "roots": [
+   "카톡업데이트",
+   "카카오톡업데이트"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "신형 투싼 가격",
+  "roots": [
+   "투싼"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "조류독감·계란값",
+  "roots": [
+   "조류독감",
+   "조류인플루엔자",
+   "계란값",
+   "달걀값"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "roots": [
+   "건강검진"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar"
+ }
+]
