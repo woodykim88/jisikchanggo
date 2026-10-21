@@ -1,4 +1,4 @@
-# 텔레그램 알림 (run_research.sh·check_login.sh가 source). 토큰은 자동화-워치독 .env에서 읽는다.
+# 텔레그램 알림 (run_research.sh가 source). 토큰은 자동화-워치독 .env에서 읽는다.
 ENV_FILE="$HOME/Projects/도구/자동화-워치독/.env"
 
 notify() {
@@ -10,10 +10,3 @@ notify() {
     "https://api.telegram.org/bot$token/sendMessage"
 }
 
-# Aside 앱이 꺼져 있으면 켠다 (키워드 플래너는 Aside 브라우저로 조회)
-ensure_aside() {
-  if ! aside repl "console.log('ok')" 2>&1 | grep -q '^ok'; then
-    open -ga Aside
-    sleep 20
-  fi
-}

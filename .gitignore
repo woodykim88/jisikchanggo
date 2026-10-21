@@ -4,5 +4,5 @@
 .env
 .DS_Store
 logs/
-planner_url.local
+*.local
 __pycache__/

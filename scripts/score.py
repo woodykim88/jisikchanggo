@@ -3,7 +3,7 @@
     python3 score.py topics.json
 topics.json: [{"name": "...", "roots": ["독감"], "exclude": [], "timeliness": 0-3, "action": 0-3, "penalty": 0-1,
                "format": "calculator|calendar|"}, ...]
-점수 = 수요 30(로그) + 최고입찰가 20(로그) + 롱테일 10 + 시의성 20 + 행동·꿀팁 20 − 감점 10×penalty + 형식 가점
+점수 = 수요 30(로그) + 1위 입찰가 20(로그) + 롱테일 10 + 시의성 20 + 행동·꿀팁 20 − 감점 10×penalty + 형식 가점
 형식 가점(2026-10-15): 계산기형·일정형 +8. Search Console에서 "실업급여 계산기 2026" 1위, "11월 마케팅 캘린더" 3.4위처럼
 이 블로그에서 실제로 상위 노출된 유형이다 (일반 정보형 "퇴직금 계산 방법"은 72위).
 결과는 조사데이터/YYYY-MM-DD_score.json (순위, 수요, 입찰가, 롱테일, 상위 키워드)
@@ -16,6 +16,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 FORMAT_BONUS = {'calculator': 8, 'calendar': 8}
+# 2026-10-21 네이버 검색광고 API(월간 검색수)로 바꾸며 상향: 카카오 광고요청수보다 수십 배 크다.
+# 수요 1천만, 1위 입찰가 10만원에서 만점, 월 1,000회 이상 연관 키워드를 롱테일로 센다. 10/15·10/20 점수(카카오)와 직접 비교 금지.
+DEMAND_LOG_CAP = 7
+BID_LOG_CAP = 5
+LONGTAIL_MIN = 1000
 
 
 def num(s: str) -> int:
@@ -35,8 +40,8 @@ def main() -> None:
                     seen[r[0]] = (num(r[1]) + num(r[6]), max(num(r[5]), num(r[10])))
         demand = sum(v[0] for v in seen.values())
         bid = max([v[1] for v in seen.values()] or [0])
-        longtail = sum(1 for v in seen.values() if v[0] >= 100)
-        score = (30 * min(math.log10(max(demand, 1)) / 6, 1) + 20 * min(math.log10(max(bid, 1)) / 4, 1)
+        longtail = sum(1 for v in seen.values() if v[0] >= LONGTAIL_MIN)
+        score = (30 * min(math.log10(max(demand, 1)) / DEMAND_LOG_CAP, 1) + 20 * min(math.log10(max(bid, 1)) / BID_LOG_CAP, 1)
                  + 10 * min(longtail / 30, 1) + 20 * t['timeliness'] / 3 + 20 * t['action'] / 3 - 10 * t.get('penalty', 0)
                  + FORMAT_BONUS.get(t.get('format', ''), 0))
         top = sorted(seen.items(), key=lambda x: -x[1][0])[:8]

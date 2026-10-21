@@ -10,17 +10,16 @@ source scripts/notify.sh
   echo "=== $(date '+%F %T') 시작"
   # 잠자기에서 막 깨면 네트워크가 늦게 붙는다(10/16 ERR_INTERNET_DISCONNECTED). 최대 10분 기다림.
   for _ in $(seq 1 30); do
-    curl -s -m 5 -o /dev/null https://keywordad.kakao.com && break
+    curl -s -m 5 -o /dev/null https://api.searchad.naver.com && break
     sleep 20
   done
-  ensure_aside
-  python3 scripts/query_planner.py --check
+  python3 scripts/naver_keywords.py --check
   code=$?
   if [ $code -eq 3 ]; then
-    notify "⚠️ 카카오 로그인이 풀려 조사를 건너뜁니다. Aside 브라우저에서 keywordad.kakao.com 로그인 후 Claude Code에 '조사해'라고 해 주세요."
+    notify "⚠️ 네이버 검색광고 API 키 문제로 조사를 건너뜁니다. 로그: $LOG"
     exit 0
   elif [ $code -ne 0 ]; then
-    notify "⚠️ 키워드 플래너 확인 실패(코드 $code). 로그: $LOG"
+    notify "⚠️ 네이버 검색광고 API 확인 실패(코드 $code). 로그: $LOG"
     exit 0
   fi
   out=$(claude -p "$(cat scripts/research_prompt.md)" --model opus --max-budget-usd 8 --no-session-persistence \
