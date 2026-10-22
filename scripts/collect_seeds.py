@@ -1,12 +1,12 @@
 """씨앗 수집: 블로그봇 수집기로 최근 48시간 후보·트렌드·달력·최근 발행 글을 출력한다.
-블로그봇 가상환경으로 실행: ~/Projects/블로그/구글블로그-AI뉴스/.venv/bin/python collect_seeds.py
+블로그봇 가상환경으로 실행: ~/Projects/블로그/구글블로그-정보마스터/.venv/bin/python collect_seeds.py
 """
 import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-BLOG = Path(__file__).resolve().parents[2] / '블로그' / '구글블로그-AI뉴스'
+BLOG = Path(__file__).resolve().parents[2] / '블로그' / '구글블로그-정보마스터'
 os.chdir(BLOG)
 sys.path.insert(0, str(BLOG))
 

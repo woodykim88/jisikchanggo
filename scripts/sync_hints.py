@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PROJECTS = ROOT.parent
 REPOS = {
-    'blog': PROJECTS / '블로그' / '구글블로그-AI뉴스',
+    'blog': PROJECTS / '블로그' / '구글블로그-정보마스터',
     'honjasseobom': PROJECTS / '스레드' / '혼자써봄 생활필수품 뉴스',
     'healthnote': PROJECTS / '스레드' / '건강노트 건강소식 뉴스',
     'haru': PROJECTS / '스레드' / '하루뉴스',
