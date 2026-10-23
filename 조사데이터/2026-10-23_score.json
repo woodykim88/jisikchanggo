@@ -1,0 +1,758 @@
+[
+ {
+  "name": "전기히터·온풍기 전기요금 계산",
+  "score": 87.0,
+  "demand": 142790,
+  "bid": 53670,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전기히터",
+    "requests": 34390,
+    "bid": 6860
+   },
+   {
+    "keyword": "온풍기",
+    "requests": 33500,
+    "bid": 12530
+   },
+   {
+    "keyword": "가정용온풍기",
+    "requests": 19480,
+    "bid": 1170
+   },
+   {
+    "keyword": "팬히터",
+    "requests": 15950,
+    "bid": 810
+   },
+   {
+    "keyword": "전기난로",
+    "requests": 11720,
+    "bid": 53670
+   },
+   {
+    "keyword": "미니온풍기",
+    "requests": 4830,
+    "bid": 0
+   },
+   {
+    "keyword": "사무실온풍기",
+    "requests": 4190,
+    "bid": 0
+   },
+   {
+    "keyword": "가정용전기난로",
+    "requests": 3780,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "단풍 절정 시기·명소",
+  "score": 81.3,
+  "demand": 265040,
+  "bid": 860,
+  "longtail": 15,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "설악산단풍",
+    "requests": 65100,
+    "bid": 610
+   },
+   {
+    "keyword": "내장산단풍",
+    "requests": 58490,
+    "bid": 860
+   },
+   {
+    "keyword": "가을단풍명소",
+    "requests": 55760,
+    "bid": 430
+   },
+   {
+    "keyword": "단풍시기",
+    "requests": 24590,
+    "bid": 370
+   },
+   {
+    "keyword": "주왕산단풍",
+    "requests": 15880,
+    "bid": 420
+   },
+   {
+    "keyword": "내장산단풍시기",
+    "requests": 10460,
+    "bid": 0
+   },
+   {
+    "keyword": "단풍명소",
+    "requests": 7170,
+    "bid": 500
+   },
+   {
+    "keyword": "가을단풍",
+    "requests": 5640,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 시간표·D-day",
+  "score": 78.9,
+  "demand": 275105,
+  "bid": 11780,
+  "longtail": 15,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능디데이",
+    "requests": 153500,
+    "bid": 4280
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 42650,
+    "bid": 1480
+   },
+   {
+    "keyword": "수능일",
+    "requests": 41700,
+    "bid": 2700
+   },
+   {
+    "keyword": "수능특강",
+    "requests": 10260,
+    "bid": 0
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 3480,
+    "bid": 0
+   },
+   {
+    "keyword": "수능등급컷",
+    "requests": 3410,
+    "bid": 0
+   },
+   {
+    "keyword": "수능기출",
+    "requests": 3370,
+    "bid": 0
+   },
+   {
+    "keyword": "수능시험",
+    "requests": 3280,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추 예약",
+  "score": 75.8,
+  "demand": 149150,
+  "bid": 1460,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 48340,
+    "bid": 1460
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 31280,
+    "bid": 1440
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 9770,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 8900,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 6540,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 6200,
+    "bid": 0
+   },
+   {
+    "keyword": "김장",
+    "requests": 6190,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 5940,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "정시 원서접수·입시 일정",
+  "score": 74.9,
+  "demand": 41840,
+  "bid": 15790,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수시원서접수",
+    "requests": 10830,
+    "bid": 15790
+   },
+   {
+    "keyword": "수시발표",
+    "requests": 6200,
+    "bid": 4520
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 5700,
+    "bid": 12260
+   },
+   {
+    "keyword": "정시",
+    "requests": 4320,
+    "bid": 0
+   },
+   {
+    "keyword": "한국사능력검정시험기출문제",
+    "requests": 3430,
+    "bid": 0
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 2800,
+    "bid": 0
+   },
+   {
+    "keyword": "수시원서접수기간",
+    "requests": 1740,
+    "bid": 0
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 1500,
+    "bid": 1220
+   }
+  ]
+ },
+ {
+  "name": "월급 실수령액·시급 계산",
+  "score": 72.9,
+  "demand": 408100,
+  "bid": 6160,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "시급계산기",
+    "requests": 146000,
+    "bid": 6160
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 95400,
+    "bid": 5920
+   },
+   {
+    "keyword": "실수령액계산기",
+    "requests": 79600,
+    "bid": 290
+   },
+   {
+    "keyword": "4대보험",
+    "requests": 60500,
+    "bid": 3380
+   },
+   {
+    "keyword": "월급실수령액",
+    "requests": 18000,
+    "bid": 370
+   },
+   {
+    "keyword": "월급세후계산기",
+    "requests": 8600,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기·환급 계산",
+  "score": 72.7,
+  "demand": 46850,
+  "bid": 8180,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산",
+    "requests": 18130,
+    "bid": 8180
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 9310,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 5430,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 5090,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 3720,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급",
+    "requests": 3620,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금",
+    "requests": 1550,
+    "bid": 830
+   }
+  ]
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "score": 69.0,
+  "demand": 141040,
+  "bid": 11400,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 76300,
+    "bid": 11400
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 44300,
+    "bid": 0
+   },
+   {
+    "keyword": "건강검진센터",
+    "requests": 20440,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감 예방접종 가격",
+  "score": 68.8,
+  "demand": 754130,
+  "bid": 4580,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 693900,
+    "bid": 4580
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 60230,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "전월세 전환율 계산",
+  "score": 68.4,
+  "demand": 6430,
+  "bid": 390,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전월세전환율",
+    "requests": 6430,
+    "bid": 390
+   }
+  ]
+ },
+ {
+  "name": "보일러·전기온수기 점검",
+  "score": 67.6,
+  "demand": 84540,
+  "bid": 4250,
+  "longtail": 16,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "전기온수기",
+    "requests": 22190,
+    "bid": 4250
+   },
+   {
+    "keyword": "경동나비엔보일러",
+    "requests": 13660,
+    "bid": 2780
+   },
+   {
+    "keyword": "대성셀틱보일러",
+    "requests": 12140,
+    "bid": 2150
+   },
+   {
+    "keyword": "도시가스보일러",
+    "requests": 6500,
+    "bid": 2910
+   },
+   {
+    "keyword": "전기보일러",
+    "requests": 4560,
+    "bid": 0
+   },
+   {
+    "keyword": "보일러교체비용",
+    "requests": 4040,
+    "bid": 0
+   },
+   {
+    "keyword": "보일러교체",
+    "requests": 3380,
+    "bid": 0
+   },
+   {
+    "keyword": "기름보일러",
+    "requests": 3150,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "score": 65.9,
+  "demand": 93450,
+  "bid": 1160,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 57900,
+    "bid": 1020
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 14420,
+    "bid": 580
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 6890,
+    "bid": 680
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 4220,
+    "bid": 990
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 3980,
+    "bid": 1160
+   },
+   {
+    "keyword": "블프",
+    "requests": 2820,
+    "bid": 0
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 2130,
+    "bid": 0
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 1090,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "대상포진 예방접종 가격",
+  "score": 64.5,
+  "demand": 45080,
+  "bid": 7670,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 25330,
+    "bid": 7670
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 19750,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "청년안심주택·LH 임대주택 공고",
+  "score": 63.8,
+  "demand": 182710,
+  "bid": 1660,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "LH임대주택",
+    "requests": 72700,
+    "bid": 1300
+   },
+   {
+    "keyword": "청년안심주택",
+    "requests": 41700,
+    "bid": 1660
+   },
+   {
+    "keyword": "행복주택",
+    "requests": 37100,
+    "bid": 0
+   },
+   {
+    "keyword": "LH행복주택",
+    "requests": 21980,
+    "bid": 0
+   },
+   {
+    "keyword": "공공임대주택",
+    "requests": 9230,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "11월 달력·축제 일정",
+  "score": 62.6,
+  "demand": 171830,
+  "bid": 740,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 143300,
+    "bid": 180
+   },
+   {
+    "keyword": "11월축제",
+    "requests": 28530,
+    "bid": 740
+   }
+  ]
+ },
+ {
+  "name": "겨울 타이어 교체",
+  "score": 58.8,
+  "demand": 25785,
+  "bid": 5400,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "타이어교체",
+    "requests": 12130,
+    "bid": 5400
+   },
+   {
+    "keyword": "윈터타이어",
+    "requests": 5250,
+    "bid": 3590
+   },
+   {
+    "keyword": "스노우타이어",
+    "requests": 1740,
+    "bid": 4310
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 1300,
+    "bid": 1100
+   },
+   {
+    "keyword": "윈터타이어보관",
+    "requests": 750,
+    "bid": 0
+   },
+   {
+    "keyword": "미쉐린윈터타이어",
+    "requests": 470,
+    "bid": 0
+   },
+   {
+    "keyword": "스노우타이어가격",
+    "requests": 440,
+    "bid": 0
+   },
+   {
+    "keyword": "넥센윈터타이어",
+    "requests": 420,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "기념우표 구매 방법",
+  "score": 57.3,
+  "demand": 12740,
+  "bid": 1000,
+  "longtail": 3,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "우표",
+    "requests": 6450,
+    "bid": 490
+   },
+   {
+    "keyword": "우표파는곳",
+    "requests": 3110,
+    "bid": 1000
+   },
+   {
+    "keyword": "기념우표",
+    "requests": 1250,
+    "bid": 150
+   },
+   {
+    "keyword": "우표수집",
+    "requests": 860,
+    "bid": 0
+   },
+   {
+    "keyword": "우표판매",
+    "requests": 210,
+    "bid": 0
+   },
+   {
+    "keyword": "우표사는곳",
+    "requests": 200,
+    "bid": 0
+   },
+   {
+    "keyword": "옛날우표",
+    "requests": 140,
+    "bid": 0
+   },
+   {
+    "keyword": "독도우표",
+    "requests": 140,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이 선물·만들기",
+  "score": 47.0,
+  "demand": 61800,
+  "bid": 620,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 29870,
+    "bid": 620
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 14340,
+    "bid": 470
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 6800,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 3610,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 2930,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 2020,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이이벤트",
+    "requests": 540,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로주문",
+    "requests": 540,
+    "bid": 0
+   }
+  ]
+ }
+]

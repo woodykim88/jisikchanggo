@@ -1,0 +1,20 @@
+[
+ {"name": "월급 실수령액·시급 계산", "roots": ["실수령", "월급계산", "월급세후", "시급계산", "4대보험"], "timeliness": 1, "action": 3, "penalty": 0.3, "format": "calculator"},
+ {"name": "단풍 절정 시기·명소", "roots": ["단풍"], "timeliness": 3, "action": 2, "format": "calendar"},
+ {"name": "김장 시기·절임배추 예약", "roots": ["김장", "절임배추"], "timeliness": 2, "action": 3, "penalty": 0.5, "format": "calendar"},
+ {"name": "2027 수능 시간표·D-day", "roots": ["수능"], "exclude": ["초콜릿", "선물", "2024", "2025"], "timeliness": 3, "action": 2, "penalty": 0.7, "format": "calendar"},
+ {"name": "정시 원서접수·입시 일정", "roots": ["정시", "수시원서", "수시발표", "수능성적"], "timeliness": 2, "action": 2, "format": "calendar"},
+ {"name": "대상포진 예방접종 가격", "roots": ["대상포진예방", "대상포진백신"], "timeliness": 2, "action": 3, "penalty": 0.5, "format": ""},
+ {"name": "전기히터·온풍기 전기요금 계산", "roots": ["전기히터", "온풍기", "전기난로", "전기세", "팬히터", "전기요금"], "timeliness": 2, "action": 3, "format": "calculator"},
+ {"name": "11월 달력·축제 일정", "roots": ["11월"], "timeliness": 2, "action": 1, "format": "calendar"},
+ {"name": "블랙프라이데이·코리아세일페스타 기간", "roots": ["블랙프라이데이", "블프", "코리아세일페스타", "광군제"], "exclude": ["무신사"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "연말정산 미리보기·환급 계산", "roots": ["연말정산"], "timeliness": 1, "action": 3, "format": "calculator"},
+ {"name": "청년안심주택·LH 임대주택 공고", "roots": ["청년안심주택", "LH임대", "행복주택", "공공분양", "공공임대"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "전월세 전환율 계산", "roots": ["전월세", "월세전환", "전세전환"], "timeliness": 2, "action": 3, "format": "calculator"},
+ {"name": "겨울 타이어 교체", "roots": ["윈터타이어", "스노우타이어", "겨울타이어", "타이어교체"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": ""},
+ {"name": "빼빼로데이 선물·만들기", "roots": ["빼빼로"], "timeliness": 1, "action": 1, "format": ""},
+ {"name": "기념우표 구매 방법", "roots": ["우표"], "timeliness": 3, "action": 1, "format": ""},
+ {"name": "독감 예방접종 가격", "roots": ["독감예방접종", "독감무료"], "timeliness": 2, "action": 3, "penalty": 0.5, "format": ""},
+ {"name": "국가건강검진 연말 마감", "roots": ["건강검진"], "timeliness": 1, "action": 3, "penalty": 0.5, "format": "calendar"},
+ {"name": "보일러·전기온수기 점검", "roots": ["보일러", "전기온수기", "온수매트"], "timeliness": 2, "action": 2, "format": ""}
+]
