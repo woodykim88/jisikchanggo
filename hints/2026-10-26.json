@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "source": "지식창고/키워드리스트.md 2026-10-26 (네이버 검색광고 API)",
+  "channels": {
+    "blog": [
+      {"topic": "에너지바우처 신청·지원 금액", "keywords": ["에너지바우처", "난방비", "난방비 지원", "취약계층"], "angle": "일정형: 신청 마감 12/31, 동절기 사용 시작(10/1·10/3)~2027-05-31 날짜표와 가구원 수별 2026년 지원 금액표, 대상 확인 순서",
+       "howto": {"query": "에너지바우처 신청 기간", "kind": "schedule", "slug": "energy-voucher-application-period", "area": "지원금·혜택", "tool": "",
+                 "sources": [{"name": "에너지바우처 누리집 메인(신청기간·사용기간)", "url": "https://www.energyv.or.kr/"},
+                             {"name": "에너지바우처 누리집 지원 대상 및 금액", "url": "https://www.energyv.or.kr/info/support_info.do"}]}},
+      {"topic": "해외직구 관부가세 계산", "keywords": ["해외직구", "관세", "블랙프라이데이", "직구", "면세한도"], "angle": "계산기형: 150달러(미국 200달러) 목록통관 면세 기준, 넘으면 물품가격+국제배송료+보험 전체 과세, 관세·부가세 계산 예시, tools.woodyway88.com 연결",
+       "howto": {"query": "해외직구 관부가세 계산", "kind": "case", "slug": "overseas-direct-purchase-customs-tax", "area": "절약꿀팁", "tool": "",
+                 "sources": [{"name": "관세청 해외직구물품 예상세액 조회", "url": "https://www.customs.go.kr/kcs/ad/tax/BuyTaxCalculation.do?mode=add"}]}},
+      {"topic": "대출 이자 계산(상환 방식별)", "keywords": ["대출", "금리", "신용대출", "주담대", "대출 문턱"], "angle": "계산기형: 원리금균등·원금균등·만기일시 월 납입액·총이자 비교 예시, 금리 0.5%p 차이 영향, tools.woodyway88.com 연결"},
+      {"topic": "근로장려금 기한 후 신청", "keywords": ["근로장려금", "장려금", "국세청", "홈택스"], "angle": "일정형: 기한 후 신청 마감과 감액, 홈택스 신청 순서 (2026년 기준 마감일·감액률은 국세청 공지로 확인)"},
+      {"topic": "종부세 고지 전 확인", "keywords": ["종부세", "종합부동산세", "재산세"], "angle": "계산기형: 고지서 받기 전 공제·세액 확인, tools.woodyway88.com 종부세 계산기 연결"}
+    ],
+    "honjasseobom": [
+      {"topic": "블프 해외직구 관부가세", "keywords": ["블랙프라이데이", "해외직구", "관세", "직구"], "angle": "블프 직구 150달러 넘기지 않게 나눠 사는 법과 넘었을 때 세금"},
+      {"topic": "블랙프라이데이·코세페 기간", "keywords": ["블랙프라이데이", "코리아세일페스타", "블프"], "angle": "블프 전에 살 것·기다릴 것"},
+      {"topic": "에너지바우처·난방비 지원", "keywords": ["에너지바우처", "난방비"], "angle": "부모님 집 난방비 지원 대상인지 확인"}
+    ],
+    "healthnote": [
+      {"topic": "대상포진·독감 예방접종", "keywords": ["대상포진", "독감", "예방접종", "백신"], "angle": "대상포진 백신 질문형, 독감과 같이 맞아도 되나"}
+    ],
+    "haru": [
+      {"topic": "할로윈데이", "keywords": ["할로윈"], "angle": "회사 할로윈 소품 하나 해볼까 망설이는 토끼"},
+      {"topic": "빼빼로데이", "keywords": ["빼빼로"], "angle": "사무실에 빼빼로 돌릴까 말까 고민하는 토끼"},
+      {"topic": "수능날 출근", "keywords": ["수능"], "angle": "수능날 늦은 출근에 괜히 수험생 시절이 떠오르는 토끼"}
+    ]
+  }
+}

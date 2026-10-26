@@ -1,0 +1,871 @@
+[
+ {
+  "name": "대출 이자 계산(원리금균등·만기일시)",
+  "score": 84.9,
+  "demand": 906710,
+  "bid": 6900,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 327500,
+    "bid": 2520
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 276500,
+    "bid": 2340
+   },
+   {
+    "keyword": "이자계산기",
+    "requests": 166800,
+    "bid": 2440
+   },
+   {
+    "keyword": "금리계산기",
+    "requests": 44360,
+    "bid": 6900
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 42900,
+    "bid": 2520
+   },
+   {
+    "keyword": "원리금균등상환계산기",
+    "requests": 23440,
+    "bid": 0
+   },
+   {
+    "keyword": "대출이자",
+    "requests": 14720,
+    "bid": 0
+   },
+   {
+    "keyword": "이자계산",
+    "requests": 10490,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "실업급여 신청·조건",
+  "score": 78.6,
+  "demand": 437720,
+  "bid": 32640,
+  "longtail": 15,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "실업급여조건",
+    "requests": 110500,
+    "bid": 390
+   },
+   {
+    "keyword": "실업급여",
+    "requests": 101400,
+    "bid": 3560
+   },
+   {
+    "keyword": "실업급여계산기",
+    "requests": 91700,
+    "bid": 2370
+   },
+   {
+    "keyword": "실업급여신청",
+    "requests": 66800,
+    "bid": 3290
+   },
+   {
+    "keyword": "실업급여신청방법",
+    "requests": 41500,
+    "bid": 2930
+   },
+   {
+    "keyword": "실업급여신청기간",
+    "requests": 5960,
+    "bid": 70
+   },
+   {
+    "keyword": "정년퇴직실업급여",
+    "requests": 3090,
+    "bid": 32640
+   },
+   {
+    "keyword": "고용보험실업급여조건",
+    "requests": 2930,
+    "bid": 110
+   }
+  ]
+ },
+ {
+  "name": "해외직구 관부가세 계산·블프 직구",
+  "score": 78.5,
+  "demand": 54270,
+  "bid": 3490,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "관부가세계산기",
+    "requests": 12960,
+    "bid": 140
+   },
+   {
+    "keyword": "관세",
+    "requests": 12390,
+    "bid": 2540
+   },
+   {
+    "keyword": "배대지",
+    "requests": 9200,
+    "bid": 2230
+   },
+   {
+    "keyword": "해외직구",
+    "requests": 7760,
+    "bid": 3490
+   },
+   {
+    "keyword": "직구사이트",
+    "requests": 3480,
+    "bid": 0
+   },
+   {
+    "keyword": "해외직구사이트",
+    "requests": 3030,
+    "bid": 0
+   },
+   {
+    "keyword": "관부가세",
+    "requests": 2870,
+    "bid": 1170
+   },
+   {
+    "keyword": "해외직구관세",
+    "requests": 1320,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "에너지바우처·난방비 지원 신청",
+  "score": 78.4,
+  "demand": 81700,
+  "bid": 4670,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "에너지바우처",
+    "requests": 71200,
+    "bid": 230
+   },
+   {
+    "keyword": "에너지바우처대상",
+    "requests": 4340,
+    "bid": 180
+   },
+   {
+    "keyword": "에너지바우처신청",
+    "requests": 4080,
+    "bid": 70
+   },
+   {
+    "keyword": "난방비지원",
+    "requests": 1350,
+    "bid": 4670
+   },
+   {
+    "keyword": "에너지지원금",
+    "requests": 180,
+    "bid": 790
+   },
+   {
+    "keyword": "에너지바우처조회",
+    "requests": 150,
+    "bid": 110
+   },
+   {
+    "keyword": "전기바우처",
+    "requests": 140,
+    "bid": 180
+   },
+   {
+    "keyword": "에너지바우처업무포털",
+    "requests": 125,
+    "bid": 170
+   }
+  ]
+ },
+ {
+  "name": "근로장려금 기한 후 신청 마감",
+  "score": 78.3,
+  "demand": 72200,
+  "bid": 4090,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "근로장려금",
+    "requests": 56700,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금대상",
+    "requests": 8630,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금조건",
+    "requests": 1520,
+    "bid": 190
+   },
+   {
+    "keyword": "근로장려금신청방법",
+    "requests": 1460,
+    "bid": 210
+   },
+   {
+    "keyword": "근로장려금기한후신청",
+    "requests": 1450,
+    "bid": 260
+   },
+   {
+    "keyword": "근로장려금계산기",
+    "requests": 430,
+    "bid": 190
+   },
+   {
+    "keyword": "국세청근로장려금상담센터",
+    "requests": 400,
+    "bid": 70
+   },
+   {
+    "keyword": "국가근로장려금",
+    "requests": 220,
+    "bid": 4090
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 시간표·성적 발표 일정",
+  "score": 76.2,
+  "demand": 302810,
+  "bid": 7000,
+  "longtail": 12,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능디데이",
+    "requests": 151300,
+    "bid": 3890
+   },
+   {
+    "keyword": "수능일",
+    "requests": 47800,
+    "bid": 2830
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 45590,
+    "bid": 1440
+   },
+   {
+    "keyword": "수능선물",
+    "requests": 22920,
+    "bid": 0
+   },
+   {
+    "keyword": "수능특강",
+    "requests": 10450,
+    "bid": 0
+   },
+   {
+    "keyword": "올해수능",
+    "requests": 5640,
+    "bid": 840
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 4140,
+    "bid": 1980
+   },
+   {
+    "keyword": "수능시험",
+    "requests": 3690,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "할로윈데이 코스튬·소품",
+  "score": 73.6,
+  "demand": 901220,
+  "bid": 720,
+  "longtail": 31,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "할로윈데이",
+    "requests": 383000,
+    "bid": 720
+   },
+   {
+    "keyword": "할로윈",
+    "requests": 216500,
+    "bid": 640
+   },
+   {
+    "keyword": "할로윈코스튬",
+    "requests": 86540,
+    "bid": 590
+   },
+   {
+    "keyword": "할로윈의상",
+    "requests": 20840,
+    "bid": 0
+   },
+   {
+    "keyword": "할로윈소품",
+    "requests": 18700,
+    "bid": 0
+   },
+   {
+    "keyword": "할로윈사탕",
+    "requests": 14610,
+    "bid": 0
+   },
+   {
+    "keyword": "할로윈축제",
+    "requests": 13280,
+    "bid": 0
+   },
+   {
+    "keyword": "어린이할로윈코스튬",
+    "requests": 11890,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "월급 실수령액·4대보험 계산",
+  "score": 73.5,
+  "demand": 488980,
+  "bid": 7380,
+  "longtail": 12,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "시급계산기",
+    "requests": 148000,
+    "bid": 6280
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 96700,
+    "bid": 6060
+   },
+   {
+    "keyword": "실업급여계산기",
+    "requests": 91700,
+    "bid": 2370
+   },
+   {
+    "keyword": "4대보험",
+    "requests": 60700,
+    "bid": 3230
+   },
+   {
+    "keyword": "급여계산기",
+    "requests": 57200,
+    "bid": 7380
+   },
+   {
+    "keyword": "월급실수령액",
+    "requests": 18150,
+    "bid": 360
+   },
+   {
+    "keyword": "시급계산",
+    "requests": 3810,
+    "bid": 0
+   },
+   {
+    "keyword": "월급계산",
+    "requests": 3480,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·재산세 계산",
+  "score": 72.2,
+  "demand": 65730,
+  "bid": 30310,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "재산세",
+    "requests": 41100,
+    "bid": 30310
+   },
+   {
+    "keyword": "종부세",
+    "requests": 6420,
+    "bid": 2440
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 5440,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 4740,
+    "bid": 0
+   },
+   {
+    "keyword": "재산세계산기",
+    "requests": 4400,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산기",
+    "requests": 3630,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "정시 원서접수·입시 일정",
+  "score": 71.2,
+  "demand": 28160,
+  "bid": 27380,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "정시원서접수",
+    "requests": 5940,
+    "bid": 12300
+   },
+   {
+    "keyword": "정시",
+    "requests": 4380,
+    "bid": 27380
+   },
+   {
+    "keyword": "한국사능력검정시험기출문제",
+    "requests": 3450,
+    "bid": 0
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 2950,
+    "bid": 10350
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 1630,
+    "bid": 1320
+   },
+   {
+    "keyword": "서울여대정시등급",
+    "requests": 1380,
+    "bid": 70
+   },
+   {
+    "keyword": "정시컨설팅",
+    "requests": 1310,
+    "bid": 0
+   },
+   {
+    "keyword": "정시3등급대학",
+    "requests": 1090,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "자동차보험 갱신·비교",
+  "score": 70.3,
+  "demand": 439870,
+  "bid": 40980,
+  "longtail": 23,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "자동차보험",
+    "requests": 115100,
+    "bid": 39400
+   },
+   {
+    "keyword": "자동차보험비교",
+    "requests": 63600,
+    "bid": 31520
+   },
+   {
+    "keyword": "자동차보험료비교견적사이트",
+    "requests": 55500,
+    "bid": 31510
+   },
+   {
+    "keyword": "원데이자동차보험",
+    "requests": 28960,
+    "bid": 1640
+   },
+   {
+    "keyword": "다이렉트자동차보험",
+    "requests": 26650,
+    "bid": 40980
+   },
+   {
+    "keyword": "디비자동차보험",
+    "requests": 24080,
+    "bid": 13400
+   },
+   {
+    "keyword": "자동차보험다이렉트",
+    "requests": 15390,
+    "bid": 0
+   },
+   {
+    "keyword": "다이렉트자동차보험비교견적사이트",
+    "requests": 14910,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "대상포진·독감 예방접종 가격",
+  "score": 69.5,
+  "demand": 763120,
+  "bid": 7940,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 656700,
+    "bid": 4280
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 61190,
+    "bid": 2250
+   },
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 25330,
+    "bid": 7940
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 19900,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "미사용 연차수당 계산",
+  "score": 67.8,
+  "demand": 72870,
+  "bid": 2500,
+  "longtail": 5,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 27500,
+    "bid": 2270
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 23630,
+    "bid": 2220
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 15140,
+    "bid": 0
+   },
+   {
+    "keyword": "연차계산법",
+    "requests": 4150,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산",
+    "requests": 1930,
+    "bid": 70
+   },
+   {
+    "keyword": "미사용연차수당",
+    "requests": 520,
+    "bid": 2500
+   }
+  ]
+ },
+ {
+  "name": "청년도약계좌·청년 지원 정책",
+  "score": 66.9,
+  "demand": 198400,
+  "bid": 9220,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "청년도약계좌",
+    "requests": 83600,
+    "bid": 760
+   },
+   {
+    "keyword": "국민취업지원제도",
+    "requests": 79600,
+    "bid": 9220
+   },
+   {
+    "keyword": "청년지원금",
+    "requests": 17770,
+    "bid": 3310
+   },
+   {
+    "keyword": "중소기업청년지원금",
+    "requests": 9200,
+    "bid": 0
+   },
+   {
+    "keyword": "경기도청년지원금",
+    "requests": 8230,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "score": 66.0,
+  "demand": 117155,
+  "bid": 1160,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 73500,
+    "bid": 910
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 16860,
+    "bid": 600
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 8180,
+    "bid": 670
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 5320,
+    "bid": 1130
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 5130,
+    "bid": 1160
+   },
+   {
+    "keyword": "블프",
+    "requests": 3680,
+    "bid": 870
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 2340,
+    "bid": 0
+   },
+   {
+    "keyword": "삼성전자블랙프라이데이",
+    "requests": 630,
+    "bid": 140
+   }
+  ]
+ },
+ {
+  "name": "도시가스 요금·난방비 절약",
+  "score": 63.8,
+  "demand": 3425,
+  "bid": 4670,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "난방비지원",
+    "requests": 1350,
+    "bid": 4670
+   },
+   {
+    "keyword": "도시가스요금",
+    "requests": 1220,
+    "bid": 1110
+   },
+   {
+    "keyword": "전기장판전기세",
+    "requests": 390,
+    "bid": 790
+   },
+   {
+    "keyword": "난방비",
+    "requests": 350,
+    "bid": 1600
+   },
+   {
+    "keyword": "난방비지원신청",
+    "requests": 90,
+    "bid": 920
+   },
+   {
+    "keyword": "난방비지원금신청",
+    "requests": 25,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "11월 달력·축제",
+  "score": 62.9,
+  "demand": 208610,
+  "bid": 740,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 172800,
+    "bid": 150
+   },
+   {
+    "keyword": "11월축제",
+    "requests": 35810,
+    "bid": 740
+   }
+  ]
+ },
+ {
+  "name": "김장 시기",
+  "score": 60.1,
+  "demand": 3190,
+  "bid": 400,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "김장시기",
+    "requests": 3190,
+    "bid": 400
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이 선물",
+  "score": 48.0,
+  "demand": 87510,
+  "bid": 740,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 40330,
+    "bid": 620
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 20000,
+    "bid": 510
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 10130,
+    "bid": 740
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 5870,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 4320,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 3080,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로주문",
+    "requests": 840,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이이벤트",
+    "requests": 770,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "통장 대여·금융사기 예방",
+  "score": 26.7,
+  "demand": 0,
+  "bid": 0,
+  "longtail": 0,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": []
+ }
+]

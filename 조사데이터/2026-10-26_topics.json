@@ -1,0 +1,22 @@
+[
+ {"name": "대출 이자 계산(원리금균등·만기일시)", "roots": ["대출계산", "대출이자", "이자계산", "대출금리계산", "금리계산", "원리금"], "timeliness": 2, "action": 3, "format": "calculator"},
+ {"name": "월급 실수령액·4대보험 계산", "roots": ["실수령", "월급계산", "급여계산", "시급계산", "4대보험"], "timeliness": 1, "action": 3, "penalty": 0.5, "format": "calculator"},
+ {"name": "해외직구 관부가세 계산·블프 직구", "roots": ["관부가세", "관세", "직구", "배대지"], "exclude": ["관세사"], "timeliness": 2, "action": 3, "format": "calculator"},
+ {"name": "블랙프라이데이·코리아세일페스타 기간", "roots": ["블랙프라이데이", "블프", "코리아세일페스타"], "exclude": ["무신사", "나이키"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "2027 수능 시간표·성적 발표 일정", "roots": ["수능"], "exclude": ["2025", "2024"], "timeliness": 3, "action": 2, "penalty": 0.8, "format": "calendar"},
+ {"name": "정시 원서접수·입시 일정", "roots": ["정시", "수시발표", "수능성적"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": "calendar"},
+ {"name": "에너지바우처·난방비 지원 신청", "roots": ["에너지바우처", "난방비지원", "에너지지원", "전기바우처"], "timeliness": 2, "action": 3, "format": "calendar"},
+ {"name": "근로장려금 기한 후 신청 마감", "roots": ["근로장려금"], "timeliness": 2, "action": 3, "format": "calendar"},
+ {"name": "종부세 고지·재산세 계산", "roots": ["종부세", "종합부동산세", "재산세"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": "calculator"},
+ {"name": "미사용 연차수당 계산", "roots": ["연차수당", "연차발생", "연차계산"], "timeliness": 1, "action": 3, "penalty": 0.3, "format": "calculator"},
+ {"name": "11월 달력·축제", "roots": ["11월"], "timeliness": 2, "action": 1, "format": "calendar"},
+ {"name": "할로윈데이 코스튬·소품", "roots": ["할로윈"], "timeliness": 3, "action": 1, "format": ""},
+ {"name": "빼빼로데이 선물", "roots": ["빼빼로"], "timeliness": 1, "action": 1, "format": ""},
+ {"name": "대상포진·독감 예방접종 가격", "roots": ["대상포진예방", "대상포진백신", "독감예방접종"], "timeliness": 2, "action": 3, "penalty": 0.6, "format": ""},
+ {"name": "김장 시기", "roots": ["김장", "절임배추"], "timeliness": 2, "action": 3, "penalty": 0.7, "format": "calendar"},
+ {"name": "청년도약계좌·청년 지원 정책", "roots": ["청년도약", "청년지원", "국민취업지원"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "자동차보험 갱신·비교", "roots": ["자동차보험"], "exclude": ["DB", "동부", "캐롯", "현대", "삼성", "KB"], "timeliness": 1, "action": 2, "format": ""},
+ {"name": "실업급여 신청·조건", "roots": ["실업급여"], "timeliness": 2, "action": 3, "penalty": 1.0, "format": "calculator"},
+ {"name": "도시가스 요금·난방비 절약", "roots": ["도시가스요금", "난방비", "가스요금", "전기장판"], "timeliness": 2, "action": 3, "format": ""},
+ {"name": "통장 대여·금융사기 예방", "roots": ["통장대여", "대포통장", "금융사기"], "timeliness": 2, "action": 2, "format": ""}
+]
