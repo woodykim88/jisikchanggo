@@ -1,0 +1,21 @@
+[
+ {"name": "대출 이자 계산(상환 방식별)", "roots": ["대출계산", "대출이자", "이자계산", "대출금리계산", "금리계산", "원리금"], "timeliness": 2, "action": 3, "penalty": 0.3, "format": "calculator"},
+ {"name": "연봉·월급 실수령액 계산", "roots": ["실수령", "연봉계산", "월급계산", "급여계산", "사대보험계산", "4대보험", "소득세계산"], "exclude": ["실업급여"], "timeliness": 1, "action": 3, "penalty": 0.5, "format": "calculator"},
+ {"name": "연금저축·IRP 연말 세액공제 한도", "roots": ["연금저축", "IRP", "세액공제", "연금계좌"], "exclude": ["퇴직연금DC"], "timeliness": 2, "action": 3, "penalty": 0.2, "format": "calculator"},
+ {"name": "자동차보험 갱신·비교", "roots": ["자동차보험", "다이렉트", "보험료비교"], "timeliness": 1, "action": 3, "format": ""},
+ {"name": "국가건강검진 연내 마감", "roots": ["건강검진", "국가검진", "검진대상"], "timeliness": 2, "action": 3, "format": "calendar"},
+ {"name": "독감·대상포진 접종", "roots": ["독감", "대상포진", "예방접종"], "exclude": ["대상포진증상"], "timeliness": 2, "action": 3, "penalty": 0.8, "format": ""},
+ {"name": "해외직구 관부가세·블프 직구", "roots": ["관부가세", "직구", "배대지", "면세한도"], "exclude": ["관세사"], "timeliness": 2, "action": 3, "penalty": 0.3, "format": "calculator"},
+ {"name": "블랙프라이데이·코세페 기간", "roots": ["블랙프라이데이", "블프", "코리아세일페스타"], "exclude": ["무신사"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "미국 서머타임 해제·미국 증시 시간 변경", "roots": ["서머타임", "개장시간", "미국주식시간", "미장시간", "프리마켓"], "timeliness": 3, "action": 2, "format": "calendar"},
+ {"name": "종부세 고지·재산세", "roots": ["종부세", "종합부동산세", "재산세"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": "calculator"},
+ {"name": "노란우산공제 소득공제", "roots": ["노란우산", "노란공제"], "timeliness": 1, "action": 2, "format": ""},
+ {"name": "겨울철 차량 점검(타이어·부동액)", "roots": ["윈터타이어", "스노우타이어", "스노우체인", "부동액", "타이어교체주기"], "timeliness": 1, "action": 3, "format": ""},
+ {"name": "요소수 매점매석 금지 종료", "roots": ["요소수", "ADBLUE"], "timeliness": 2, "action": 1, "format": ""},
+ {"name": "김장 시기·절임배추", "roots": ["김장", "절임배추"], "timeliness": 2, "action": 2, "penalty": 0.8, "format": "calendar"},
+ {"name": "빼빼로데이", "roots": ["빼빼로"], "timeliness": 2, "action": 1, "format": ""},
+ {"name": "11월 달력", "roots": ["11월달력"], "timeliness": 2, "action": 1, "format": "calendar"},
+ {"name": "도시가스 요금·난방비", "roots": ["도시가스요금", "가스요금", "난방비"], "timeliness": 1, "action": 2, "format": ""},
+ {"name": "수도 동파 예방", "roots": ["동파", "수도"], "timeliness": 0, "action": 3, "format": ""},
+ {"name": "첫눈", "roots": ["첫눈"], "timeliness": 1, "action": 0, "format": ""}
+]

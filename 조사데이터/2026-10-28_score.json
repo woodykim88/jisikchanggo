@@ -1,0 +1,800 @@
+[
+ {
+  "name": "연금저축·IRP 연말 세액공제 한도",
+  "score": 86.0,
+  "demand": 199560,
+  "bid": 8080,
+  "longtail": 25,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "IRP계좌",
+    "requests": 31690,
+    "bid": 7480
+   },
+   {
+    "keyword": "연금저축",
+    "requests": 27860,
+    "bid": 5910
+   },
+   {
+    "keyword": "연금저축펀드",
+    "requests": 16690,
+    "bid": 8080
+   },
+   {
+    "keyword": "IRP",
+    "requests": 16170,
+    "bid": 5160
+   },
+   {
+    "keyword": "IRP퇴직연금",
+    "requests": 15300,
+    "bid": 4090
+   },
+   {
+    "keyword": "IRP계좌개설",
+    "requests": 13020,
+    "bid": 0
+   },
+   {
+    "keyword": "연금저축계좌",
+    "requests": 9870,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직연금IRP",
+    "requests": 6550,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "대출 이자 계산(상환 방식별)",
+  "score": 82.3,
+  "demand": 956650,
+  "bid": 6840,
+  "longtail": 9,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 340700,
+    "bid": 2490
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 286900,
+    "bid": 2320
+   },
+   {
+    "keyword": "이자계산기",
+    "requests": 172900,
+    "bid": 2410
+   },
+   {
+    "keyword": "금리계산기",
+    "requests": 46400,
+    "bid": 6840
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 44600,
+    "bid": 2490
+   },
+   {
+    "keyword": "원리금균등상환계산기",
+    "requests": 24370,
+    "bid": 0
+   },
+   {
+    "keyword": "대출이자",
+    "requests": 15280,
+    "bid": 0
+   },
+   {
+    "keyword": "원리금균등계산기",
+    "requests": 14490,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "국가건강검진 연내 마감",
+  "score": 81.4,
+  "demand": 176420,
+  "bid": 11600,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 85600,
+    "bid": 11600
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 51000,
+    "bid": 4430
+   },
+   {
+    "keyword": "건강검진센터",
+    "requests": 23040,
+    "bid": 0
+   },
+   {
+    "keyword": "국민건강검진",
+    "requests": 16780,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "자동차보험 갱신·비교",
+  "score": 80.2,
+  "demand": 712700,
+  "bid": 40570,
+  "longtail": 31,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "자동차보험",
+    "requests": 119000,
+    "bid": 39010
+   },
+   {
+    "keyword": "DB자동차보험",
+    "requests": 104500,
+    "bid": 11280
+   },
+   {
+    "keyword": "자동차보험비교",
+    "requests": 65900,
+    "bid": 31210
+   },
+   {
+    "keyword": "자동차보험료비교견적사이트",
+    "requests": 57700,
+    "bid": 31200
+   },
+   {
+    "keyword": "DB다이렉트",
+    "requests": 40800,
+    "bid": 18920
+   },
+   {
+    "keyword": "동부자동차보험",
+    "requests": 39120,
+    "bid": 7180
+   },
+   {
+    "keyword": "캐롯자동차보험",
+    "requests": 38900,
+    "bid": 220
+   },
+   {
+    "keyword": "원데이자동차보험",
+    "requests": 27840,
+    "bid": 1620
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진 접종",
+  "score": 74.9,
+  "demand": 1155610,
+  "bid": 77110,
+  "longtail": 12,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 660500,
+    "bid": 4240
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 147400,
+    "bid": 77110
+   },
+   {
+    "keyword": "독감",
+    "requests": 79000,
+    "bid": 6060
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 63430,
+    "bid": 2230
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 62250,
+    "bid": 0
+   },
+   {
+    "keyword": "백일해예방접종",
+    "requests": 34830,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 26030,
+    "bid": 7860
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 20510,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연봉·월급 실수령액 계산",
+  "score": 74.2,
+  "demand": 722490,
+  "bid": 7310,
+  "longtail": 12,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연봉계산기",
+    "requests": 326700,
+    "bid": 210
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 101100,
+    "bid": 6000
+   },
+   {
+    "keyword": "실수령액계산기",
+    "requests": 83000,
+    "bid": 290
+   },
+   {
+    "keyword": "연봉실수령액",
+    "requests": 69900,
+    "bid": 160
+   },
+   {
+    "keyword": "급여계산기",
+    "requests": 60200,
+    "bid": 7310
+   },
+   {
+    "keyword": "양도소득세계산기",
+    "requests": 21810,
+    "bid": 0
+   },
+   {
+    "keyword": "사대보험계산기",
+    "requests": 16610,
+    "bid": 0
+   },
+   {
+    "keyword": "소득세계산기",
+    "requests": 14110,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "미국 서머타임 해제·미국 증시 시간 변경",
+  "score": 73.4,
+  "demand": 12580,
+  "bid": 2850,
+  "longtail": 2,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "미국증시개장시간",
+    "requests": 8940,
+    "bid": 560
+   },
+   {
+    "keyword": "서머타임",
+    "requests": 3500,
+    "bid": 2850
+   },
+   {
+    "keyword": "서머타임해제",
+    "requests": 140,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·재산세",
+  "score": 72.1,
+  "demand": 62280,
+  "bid": 30010,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "재산세",
+    "requests": 37600,
+    "bid": 30010
+   },
+   {
+    "keyword": "종부세",
+    "requests": 6530,
+    "bid": 2420
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 5510,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 4660,
+    "bid": 0
+   },
+   {
+    "keyword": "재산세계산기",
+    "requests": 4410,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산기",
+    "requests": 3570,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추",
+  "score": 67.9,
+  "demand": 213590,
+  "bid": 2190,
+  "longtail": 15,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 62100,
+    "bid": 2190
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 46730,
+    "bid": 1870
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 14260,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 14040,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 9720,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 8820,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 8640,
+    "bid": 0
+   },
+   {
+    "keyword": "김장",
+    "requests": 7660,
+    "bid": 580
+   }
+  ]
+ },
+ {
+  "name": "겨울철 차량 점검(타이어·부동액)",
+  "score": 66.8,
+  "demand": 49820,
+  "bid": 31220,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "타이어교체주기",
+    "requests": 17910,
+    "bid": 2480
+   },
+   {
+    "keyword": "부동액",
+    "requests": 16380,
+    "bid": 31220
+   },
+   {
+    "keyword": "윈터타이어",
+    "requests": 6280,
+    "bid": 3800
+   },
+   {
+    "keyword": "스노우체인",
+    "requests": 2950,
+    "bid": 4160
+   },
+   {
+    "keyword": "스노우타이어",
+    "requests": 2170,
+    "bid": 4290
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 2050,
+    "bid": 1560
+   },
+   {
+    "keyword": "윈터타이어보관",
+    "requests": 810,
+    "bid": 0
+   },
+   {
+    "keyword": "넥센윈터타이어",
+    "requests": 540,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "score": 66.6,
+  "demand": 138260,
+  "bid": 1150,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 88300,
+    "bid": 910
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 19000,
+    "bid": 600
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 9010,
+    "bid": 670
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 6540,
+    "bid": 1150
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 6380,
+    "bid": 1120
+   },
+   {
+    "keyword": "블프",
+    "requests": 4590,
+    "bid": 870
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 2520,
+    "bid": 0
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 1920,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "해외직구 관부가세·블프 직구",
+  "score": 66.0,
+  "demand": 3310,
+  "bid": 1160,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "관부가세",
+    "requests": 2990,
+    "bid": 1160
+   },
+   {
+    "keyword": "해외직구면세한도",
+    "requests": 320,
+    "bid": 700
+   }
+  ]
+ },
+ {
+  "name": "11월 달력",
+  "score": 59.8,
+  "demand": 202100,
+  "bid": 150,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 202100,
+    "bid": 150
+   }
+  ]
+ },
+ {
+  "name": "요소수 매점매석 금지 종료",
+  "score": 57.5,
+  "demand": 53160,
+  "bid": 9660,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "요소수",
+    "requests": 33620,
+    "bid": 9660
+   },
+   {
+    "keyword": "요소수10리터",
+    "requests": 7950,
+    "bid": 1470
+   },
+   {
+    "keyword": "유록스요소수",
+    "requests": 5430,
+    "bid": 1890
+   },
+   {
+    "keyword": "요소수가격",
+    "requests": 1460,
+    "bid": 970
+   },
+   {
+    "keyword": "ADBLUE",
+    "requests": 950,
+    "bid": 650
+   },
+   {
+    "keyword": "유록스요소수10리터",
+    "requests": 670,
+    "bid": 3080
+   },
+   {
+    "keyword": "요소컴요소수",
+    "requests": 570,
+    "bid": 230
+   },
+   {
+    "keyword": "요소수추천",
+    "requests": 390,
+    "bid": 590
+   }
+  ]
+ },
+ {
+  "name": "노란우산공제 소득공제",
+  "score": 57.0,
+  "demand": 120795,
+  "bid": 1990,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "노란우산공제",
+    "requests": 64700,
+    "bid": 1760
+   },
+   {
+    "keyword": "노란우산",
+    "requests": 43600,
+    "bid": 1990
+   },
+   {
+    "keyword": "노란우산혜택",
+    "requests": 1690,
+    "bid": 400
+   },
+   {
+    "keyword": "노란공제우산",
+    "requests": 1650,
+    "bid": 760
+   },
+   {
+    "keyword": "노란우산공제혜택",
+    "requests": 1560,
+    "bid": 670
+   },
+   {
+    "keyword": "노란우산공제이율",
+    "requests": 1120,
+    "bid": 760
+   },
+   {
+    "keyword": "노란우산가입",
+    "requests": 890,
+    "bid": 1540
+   },
+   {
+    "keyword": "노란공제",
+    "requests": 840,
+    "bid": 610
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이",
+  "score": 55.4,
+  "demand": 111210,
+  "bid": 740,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 48940,
+    "bid": 620
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 24740,
+    "bid": 510
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 13560,
+    "bid": 740
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 7980,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 5490,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 3940,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로주문",
+    "requests": 1090,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이이벤트",
+    "requests": 990,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 예방",
+  "score": 55.3,
+  "demand": 15755,
+  "bid": 5600,
+  "longtail": 7,
+  "timeliness": 0,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "수도꼭지교체",
+    "requests": 3920,
+    "bid": 2920
+   },
+   {
+    "keyword": "동파방지열선",
+    "requests": 3900,
+    "bid": 0
+   },
+   {
+    "keyword": "수도배관",
+    "requests": 2010,
+    "bid": 0
+   },
+   {
+    "keyword": "수도계량기보는법",
+    "requests": 1830,
+    "bid": 0
+   },
+   {
+    "keyword": "수도계량기교체",
+    "requests": 1760,
+    "bid": 0
+   },
+   {
+    "keyword": "세면대수도꼭지교체",
+    "requests": 1200,
+    "bid": 0
+   },
+   {
+    "keyword": "수도관",
+    "requests": 1050,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파",
+    "requests": 70,
+    "bid": 5600
+   }
+  ]
+ },
+ {
+  "name": "도시가스 요금·난방비",
+  "score": 45.8,
+  "demand": 1300,
+  "bid": 1100,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "도시가스요금",
+    "requests": 1300,
+    "bid": 1100
+   }
+  ]
+ },
+ {
+  "name": "첫눈",
+  "score": 33.0,
+  "demand": 10870,
+  "bid": 150,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 0,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "첫눈",
+    "requests": 10870,
+    "bid": 150
+   }
+  ]
+ }
+]
