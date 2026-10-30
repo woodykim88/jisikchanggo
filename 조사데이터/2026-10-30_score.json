@@ -1,0 +1,855 @@
+[
+ {
+  "name": "K패스 환급 계산",
+  "score": 88.5,
+  "demand": 542130,
+  "bid": 7950,
+  "longtail": 21,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "K패스",
+    "requests": 266400,
+    "bid": 4360
+   },
+   {
+    "keyword": "K패스교통카드",
+    "requests": 63090,
+    "bid": 7950
+   },
+   {
+    "keyword": "케이패스",
+    "requests": 52820,
+    "bid": 3890
+   },
+   {
+    "keyword": "기후동행카드",
+    "requests": 46060,
+    "bid": 1090
+   },
+   {
+    "keyword": "K패스환급",
+    "requests": 30980,
+    "bid": 490
+   },
+   {
+    "keyword": "K패스등록",
+    "requests": 16970,
+    "bid": 0
+   },
+   {
+    "keyword": "K-패스",
+    "requests": 11240,
+    "bid": 1400
+   },
+   {
+    "keyword": "K패스체크카드",
+    "requests": 7370,
+    "bid": 390
+   }
+  ]
+ },
+ {
+  "name": "자동차 정기검사 기간·예약",
+  "score": 81.8,
+  "demand": 313120,
+  "bid": 4330,
+  "longtail": 27,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "자동차검사소",
+    "requests": 76400,
+    "bid": 3150
+   },
+   {
+    "keyword": "자동차검사",
+    "requests": 54900,
+    "bid": 4330
+   },
+   {
+    "keyword": "자동차검사예약",
+    "requests": 47700,
+    "bid": 2250
+   },
+   {
+    "keyword": "자동차정기검사",
+    "requests": 21470,
+    "bid": 1530
+   },
+   {
+    "keyword": "자동차검사비용",
+    "requests": 12670,
+    "bid": 1060
+   },
+   {
+    "keyword": "자동차정기검사조회",
+    "requests": 10150,
+    "bid": 760
+   },
+   {
+    "keyword": "자동차종합검사",
+    "requests": 9510,
+    "bid": 1640
+   },
+   {
+    "keyword": "자동차검사과태료",
+    "requests": 9130,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "문화누리카드 연내 사용",
+  "score": 77.9,
+  "demand": 180880,
+  "bid": 680,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "문화누리카드",
+    "requests": 107500,
+    "bid": 300
+   },
+   {
+    "keyword": "문화누리카드사용처",
+    "requests": 39000,
+    "bid": 680
+   },
+   {
+    "keyword": "문화누리카드온라인",
+    "requests": 7600,
+    "bid": 390
+   },
+   {
+    "keyword": "문화누리카드잔액",
+    "requests": 7420,
+    "bid": 280
+   },
+   {
+    "keyword": "문화누리사용처",
+    "requests": 4710,
+    "bid": 390
+   },
+   {
+    "keyword": "문화누리카드온라인사용처",
+    "requests": 4650,
+    "bid": 390
+   },
+   {
+    "keyword": "문화누리카드가맹점",
+    "requests": 3570,
+    "bid": 610
+   },
+   {
+    "keyword": "문화누리카드신청",
+    "requests": 2660,
+    "bid": 320
+   }
+  ]
+ },
+ {
+  "name": "주담대 금리 상승·대출 이자",
+  "score": 77.0,
+  "demand": 697550,
+  "bid": 17620,
+  "longtail": 16,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 335300,
+    "bid": 2470
+   },
+   {
+    "keyword": "주택담보대출",
+    "requests": 92000,
+    "bid": 17620
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 43900,
+    "bid": 2470
+   },
+   {
+    "keyword": "주택담보대출상품정보",
+    "requests": 41000,
+    "bid": 7620
+   },
+   {
+    "keyword": "주담대금리",
+    "requests": 39100,
+    "bid": 3430
+   },
+   {
+    "keyword": "주택담보대출계산기",
+    "requests": 32520,
+    "bid": 3460
+   },
+   {
+    "keyword": "주택담보대출금리",
+    "requests": 27890,
+    "bid": 6720
+   },
+   {
+    "keyword": "주담대",
+    "requests": 21800,
+    "bid": 13660
+   }
+  ]
+ },
+ {
+  "name": "11월 청약 일정(일반분양 3.5만 가구)",
+  "score": 73.6,
+  "demand": 629040,
+  "bid": 1570,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "청약홈",
+    "requests": 550600,
+    "bid": 330
+   },
+   {
+    "keyword": "청약",
+    "requests": 43200,
+    "bid": 1570
+   },
+   {
+    "keyword": "주택청약",
+    "requests": 29470,
+    "bid": 0
+   },
+   {
+    "keyword": "청약일정",
+    "requests": 5770,
+    "bid": 1450
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 시간표",
+  "score": 72.4,
+  "demand": 345350,
+  "bid": 3810,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능디데이",
+    "requests": 147300,
+    "bid": 3810
+   },
+   {
+    "keyword": "수능일",
+    "requests": 60800,
+    "bid": 2780
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 50640,
+    "bid": 1410
+   },
+   {
+    "keyword": "수능선물",
+    "requests": 31550,
+    "bid": 3320
+   },
+   {
+    "keyword": "수능특강",
+    "requests": 10680,
+    "bid": 0
+   },
+   {
+    "keyword": "2025수능",
+    "requests": 10110,
+    "bid": 0
+   },
+   {
+    "keyword": "2025수능등급컷",
+    "requests": 6280,
+    "bid": 0
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 5700,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연차수당 계산(연말 연차 소진)",
+  "score": 72.3,
+  "demand": 111200,
+  "bid": 2220,
+  "longtail": 8,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 30600,
+    "bid": 2220
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 25460,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 15910,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수",
+    "requests": 12800,
+    "bid": 0
+   },
+   {
+    "keyword": "연차",
+    "requests": 11240,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당",
+    "requests": 8370,
+    "bid": 2210
+   },
+   {
+    "keyword": "연차계산법",
+    "requests": 4670,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산",
+    "requests": 2150,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·재산세",
+  "score": 71.1,
+  "demand": 42660,
+  "bid": 29700,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "재산세",
+    "requests": 23360,
+    "bid": 29700
+   },
+   {
+    "keyword": "종부세",
+    "requests": 6220,
+    "bid": 2390
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 4920,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 4280,
+    "bid": 0
+   },
+   {
+    "keyword": "재산세계산기",
+    "requests": 3880,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "퇴직급여 사외적립 의무화·퇴직금 계산",
+  "score": 69.8,
+  "demand": 429000,
+  "bid": 3780,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "퇴직금계산기",
+    "requests": 267800,
+    "bid": 900
+   },
+   {
+    "keyword": "퇴직금지급기준",
+    "requests": 35680,
+    "bid": 3780
+   },
+   {
+    "keyword": "퇴직연금",
+    "requests": 28700,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직연금DC형",
+    "requests": 24550,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금계산",
+    "requests": 22680,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금",
+    "requests": 21810,
+    "bid": 0
+   },
+   {
+    "keyword": "IRP퇴직연금",
+    "requests": 15090,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금중간정산",
+    "requests": 12690,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "난방기 전기요금",
+  "score": 69.6,
+  "demand": 191275,
+  "bid": 37710,
+  "longtail": 11,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "온풍기",
+    "requests": 55400,
+    "bid": 11860
+   },
+   {
+    "keyword": "전기히터",
+    "requests": 49160,
+    "bid": 7350
+   },
+   {
+    "keyword": "가정용온풍기",
+    "requests": 33100,
+    "bid": 1160
+   },
+   {
+    "keyword": "전기난로",
+    "requests": 21570,
+    "bid": 37710
+   },
+   {
+    "keyword": "전기요금",
+    "requests": 13890,
+    "bid": 950
+   },
+   {
+    "keyword": "PTC온풍기",
+    "requests": 5880,
+    "bid": 0
+   },
+   {
+    "keyword": "가정용온풍기추천",
+    "requests": 3500,
+    "bid": 0
+   },
+   {
+    "keyword": "소형온풍기",
+    "requests": 3490,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "국가장학금 2027 1학기 신청 기간",
+  "score": 69.5,
+  "demand": 49290,
+  "bid": 70,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "국가장학금",
+    "requests": 44400,
+    "bid": 70
+   },
+   {
+    "keyword": "국가장학금신청기간",
+    "requests": 4890,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추",
+  "score": 67.7,
+  "demand": 233310,
+  "bid": 2170,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 67300,
+    "bid": 2170
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 52710,
+    "bid": 1850
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 15890,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 15630,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 11250,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 9890,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 9560,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추20KG몇포기",
+    "requests": 8390,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "score": 67.3,
+  "demand": 165290,
+  "bid": 1140,
+  "longtail": 9,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 105000,
+    "bid": 910
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 20100,
+    "bid": 600
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 10730,
+    "bid": 1140
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 10050,
+    "bid": 670
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 7560,
+    "bid": 1100
+   },
+   {
+    "keyword": "블프",
+    "requests": 5630,
+    "bid": 870
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 2690,
+    "bid": 0
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 2400,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "운전면허 적성검사·갱신 연말 마감",
+  "score": 64.3,
+  "demand": 31360,
+  "bid": 330,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "운전면허적성검사",
+    "requests": 31350,
+    "bid": 330
+   },
+   {
+    "keyword": "운전면허갱신",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "겨울옷·경량패딩 꺼내기",
+  "score": 64.0,
+  "demand": 678790,
+  "bid": 4700,
+  "longtail": 13,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "경량패딩",
+    "requests": 359700,
+    "bid": 1070
+   },
+   {
+    "keyword": "후리스",
+    "requests": 113200,
+    "bid": 2390
+   },
+   {
+    "keyword": "여성경량패딩",
+    "requests": 41080,
+    "bid": 0
+   },
+   {
+    "keyword": "롱패딩",
+    "requests": 36870,
+    "bid": 1260
+   },
+   {
+    "keyword": "남자경량패딩",
+    "requests": 25850,
+    "bid": 0
+   },
+   {
+    "keyword": "남성경량패딩",
+    "requests": 17880,
+    "bid": 0
+   },
+   {
+    "keyword": "경량패딩조끼",
+    "requests": 17000,
+    "bid": 0
+   },
+   {
+    "keyword": "후리스집업",
+    "requests": 15730,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "11월·12월 달력",
+  "score": 62.9,
+  "demand": 287600,
+  "bid": 500,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 225200,
+    "bid": 150
+   },
+   {
+    "keyword": "12월달력",
+    "requests": 62400,
+    "bid": 500
+   }
+  ]
+ },
+ {
+  "name": "근로장려금 기한 후 신청",
+  "score": 62.6,
+  "demand": 73360,
+  "bid": 4010,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "근로장려금",
+    "requests": 59400,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금대상",
+    "requests": 8410,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금조건",
+    "requests": 1620,
+    "bid": 190
+   },
+   {
+    "keyword": "근로장려금신청방법",
+    "requests": 1410,
+    "bid": 210
+   },
+   {
+    "keyword": "국세청근로장려금상담센터",
+    "requests": 500,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금계산기",
+    "requests": 430,
+    "bid": 190
+   },
+   {
+    "keyword": "국가근로장려금",
+    "requests": 200,
+    "bid": 4010
+   },
+   {
+    "keyword": "근로장려금계산",
+    "requests": 150,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "광군제 알리 직구",
+  "score": 62.2,
+  "demand": 37300,
+  "bid": 25880,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "알리광군제",
+    "requests": 17650,
+    "bid": 25590
+   },
+   {
+    "keyword": "광군제",
+    "requests": 14240,
+    "bid": 4660
+   },
+   {
+    "keyword": "광군절",
+    "requests": 3420,
+    "bid": 380
+   },
+   {
+    "keyword": "알리익스프레스광군제",
+    "requests": 1010,
+    "bid": 24700
+   },
+   {
+    "keyword": "알리광군절",
+    "requests": 880,
+    "bid": 25710
+   },
+   {
+    "keyword": "광군제알리",
+    "requests": 100,
+    "bid": 25880
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이",
+  "score": 56.5,
+  "demand": 139260,
+  "bid": 740,
+  "longtail": 9,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 60100,
+    "bid": 620
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 30530,
+    "bid": 510
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 17690,
+    "bid": 740
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 10430,
+    "bid": 580
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 7020,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 5120,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로주문",
+    "requests": 1420,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로데이이벤트",
+    "requests": 1220,
+    "bid": 0
+   }
+  ]
+ }
+]

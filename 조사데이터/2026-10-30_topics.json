@@ -1,0 +1,21 @@
+[
+ {"name": "K패스 환급 계산", "roots": ["K패스", "케이패스", "K-패스", "기후동행", "경기패스"], "exclude": ["롯데카드고객센터"], "timeliness": 2, "action": 3, "format": "calculator"},
+ {"name": "국가장학금 2027 1학기 신청 기간", "roots": ["국가장학금", "한국장학재단"], "timeliness": 2, "action": 3, "format": "calendar"},
+ {"name": "운전면허 적성검사·갱신 연말 마감", "roots": ["적성검사", "운전면허갱신", "면허갱신"], "timeliness": 1, "action": 3, "format": "calendar"},
+ {"name": "자동차 정기검사 기간·예약", "roots": ["자동차검사", "자동차정기검사", "자동차종합검사"], "timeliness": 1, "action": 3, "format": "calendar"},
+ {"name": "문화누리카드 연내 사용", "roots": ["문화누리"], "timeliness": 2, "action": 3, "format": "calendar"},
+ {"name": "11월 청약 일정(일반분양 3.5만 가구)", "roots": ["청약"], "exclude": ["공모주"], "timeliness": 2, "action": 2, "format": "calendar"},
+ {"name": "퇴직급여 사외적립 의무화·퇴직금 계산", "roots": ["퇴직금", "퇴직연금", "퇴직급여"], "timeliness": 2, "action": 2, "penalty": 0.6, "format": "calculator"},
+ {"name": "연차수당 계산(연말 연차 소진)", "roots": ["연차"], "timeliness": 1, "action": 3, "format": "calculator"},
+ {"name": "주담대 금리 상승·대출 이자", "roots": ["주담대", "주택담보대출", "대출금리", "대출계산"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calculator"},
+ {"name": "블랙프라이데이·코세페 기간", "roots": ["블랙프라이데이", "블프", "코리아세일페스타"], "exclude": ["무신사"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "광군제 알리 직구", "roots": ["광군제", "광군절"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": ""},
+ {"name": "2027 수능 시간표", "roots": ["수능"], "timeliness": 2, "action": 2, "penalty": 0.5, "format": "calendar"},
+ {"name": "종부세 고지·재산세", "roots": ["종부세", "종합부동산세", "재산세"], "timeliness": 2, "action": 2, "penalty": 0.3, "format": "calculator"},
+ {"name": "근로장려금 기한 후 신청", "roots": ["근로장려금"], "timeliness": 1, "action": 2, "penalty": 0.2, "format": "calendar"},
+ {"name": "빼빼로데이", "roots": ["빼빼로"], "timeliness": 2, "action": 1, "format": ""},
+ {"name": "11월·12월 달력", "roots": ["11월달력", "12월달력"], "timeliness": 2, "action": 1, "format": "calendar"},
+ {"name": "겨울옷·경량패딩 꺼내기", "roots": ["경량패딩", "롱패딩", "패딩세탁", "후리스"], "timeliness": 2, "action": 1, "format": ""},
+ {"name": "김장 시기·절임배추", "roots": ["김장", "절임배추"], "timeliness": 2, "action": 2, "penalty": 0.8, "format": "calendar"},
+ {"name": "난방기 전기요금", "roots": ["전기히터", "온풍기", "전기난로", "전기요금"], "exclude": ["ESG"], "timeliness": 1, "action": 2, "penalty": 0.3, "format": "calculator"}
+]
