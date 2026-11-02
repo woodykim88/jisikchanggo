@@ -1,0 +1,793 @@
+[
+ {
+  "name": "자동차보험 갱신 할인(청년 경력인정·마일리지 특약)",
+  "score": 85.9,
+  "demand": 402810,
+  "bid": 43320,
+  "longtail": 34,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "자동차보험",
+    "requests": 112800,
+    "bid": 37310
+   },
+   {
+    "keyword": "자동차보험비교",
+    "requests": 61700,
+    "bid": 28640
+   },
+   {
+    "keyword": "자동차보험료비교견적사이트",
+    "requests": 53900,
+    "bid": 30560
+   },
+   {
+    "keyword": "다이렉트자동차보험",
+    "requests": 25940,
+    "bid": 40650
+   },
+   {
+    "keyword": "자동차보험다모아",
+    "requests": 18890,
+    "bid": 22090
+   },
+   {
+    "keyword": "자동차보험다이렉트",
+    "requests": 14950,
+    "bid": 33740
+   },
+   {
+    "keyword": "다이렉트자동차보험비교견적사이트",
+    "requests": 13350,
+    "bid": 28520
+   },
+   {
+    "keyword": "다이렉트자동차보험비교",
+    "requests": 8790,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 시간표",
+  "score": 83.3,
+  "demand": 915930,
+  "bid": 8500,
+  "longtail": 17,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능",
+    "requests": 548500,
+    "bid": 8500
+   },
+   {
+    "keyword": "수능디데이",
+    "requests": 143000,
+    "bid": 3150
+   },
+   {
+    "keyword": "수능일",
+    "requests": 66700,
+    "bid": 2880
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 53780,
+    "bid": 1440
+   },
+   {
+    "keyword": "수능선물",
+    "requests": 37770,
+    "bid": 3720
+   },
+   {
+    "keyword": "2025수능",
+    "requests": 10700,
+    "bid": 0
+   },
+   {
+    "keyword": "올해수능",
+    "requests": 7070,
+    "bid": 0
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 6700,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "보일러·전기 난방비 아끼기",
+  "score": 81.9,
+  "demand": 146945,
+  "bid": 15300,
+  "longtail": 25,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전기온수기",
+    "requests": 25370,
+    "bid": 4410
+   },
+   {
+    "keyword": "보일러",
+    "requests": 21500,
+    "bid": 8390
+   },
+   {
+    "keyword": "전기요금",
+    "requests": 13210,
+    "bid": 920
+   },
+   {
+    "keyword": "전기순간온수기",
+    "requests": 7910,
+    "bid": 4730
+   },
+   {
+    "keyword": "도시가스보일러",
+    "requests": 7890,
+    "bid": 3240
+   },
+   {
+    "keyword": "순간온수기",
+    "requests": 6720,
+    "bid": 1980
+   },
+   {
+    "keyword": "보일러분배기",
+    "requests": 5710,
+    "bid": 15300
+   },
+   {
+    "keyword": "전기보일러",
+    "requests": 5340,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "score": 78.3,
+  "demand": 992170,
+  "bid": 77860,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 557100,
+    "bid": 3820
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 120300,
+    "bid": 77860
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 86870,
+    "bid": 3850
+   },
+   {
+    "keyword": "독감",
+    "requests": 70600,
+    "bid": 7010
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 56870,
+    "bid": 2420
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 55780,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 24580,
+    "bid": 8070
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 19560,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기·세액공제 챙기기",
+  "score": 77.8,
+  "demand": 86360,
+  "bid": 21230,
+  "longtail": 9,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산",
+    "requests": 25500,
+    "bid": 8390
+   },
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 20900,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 10540,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 7630,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 6810,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 5580,
+    "bid": 0
+   },
+   {
+    "keyword": "IRP세액공제",
+    "requests": 5030,
+    "bid": 0
+   },
+   {
+    "keyword": "기부금세액공제",
+    "requests": 3110,
+    "bid": 21230
+   }
+  ]
+ },
+ {
+  "name": "근로장려금 퇴직자·기한 후 신청",
+  "score": 77.6,
+  "demand": 85030,
+  "bid": 1890,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "근로장려금",
+    "requests": 54600,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금기준",
+    "requests": 10740,
+    "bid": 160
+   },
+   {
+    "keyword": "근로장려금대상",
+    "requests": 7370,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금조건",
+    "requests": 1530,
+    "bid": 190
+   },
+   {
+    "keyword": "근로장려금기한후신청",
+    "requests": 1460,
+    "bid": 250
+   },
+   {
+    "keyword": "근로장려금신청방법",
+    "requests": 1200,
+    "bid": 170
+   },
+   {
+    "keyword": "근로장려금반기",
+    "requests": 860,
+    "bid": 80
+   },
+   {
+    "keyword": "자녀장려금기준",
+    "requests": 750,
+    "bid": 750
+   }
+  ]
+ },
+ {
+  "name": "주휴수당 계산",
+  "score": 72.7,
+  "demand": 156900,
+  "bid": 3990,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "주휴수당계산기",
+    "requests": 65400,
+    "bid": 720
+   },
+   {
+    "keyword": "주휴수당",
+    "requests": 51180,
+    "bid": 3990
+   },
+   {
+    "keyword": "주휴수당조건",
+    "requests": 32950,
+    "bid": 0
+   },
+   {
+    "keyword": "주휴수당계산법",
+    "requests": 7370,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "패딩 세탁·겨울옷 관리",
+  "score": 69.2,
+  "demand": 24620,
+  "bid": 4780,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "드라이클리닝",
+    "requests": 8860,
+    "bid": 3110
+   },
+   {
+    "keyword": "니트세탁",
+    "requests": 3520,
+    "bid": 1380
+   },
+   {
+    "keyword": "패딩세탁",
+    "requests": 2790,
+    "bid": 4780
+   },
+   {
+    "keyword": "패딩수선",
+    "requests": 2760,
+    "bid": 1840
+   },
+   {
+    "keyword": "오리털패딩세탁",
+    "requests": 1640,
+    "bid": 0
+   },
+   {
+    "keyword": "명품패딩세탁",
+    "requests": 1270,
+    "bid": 0
+   },
+   {
+    "keyword": "패딩이월상품",
+    "requests": 1210,
+    "bid": 0
+   },
+   {
+    "keyword": "패딩드라이클리닝",
+    "requests": 940,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추",
+  "score": 68.7,
+  "demand": 262600,
+  "bid": 3420,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 73700,
+    "bid": 3420
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 60280,
+    "bid": 2580
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 18090,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 16970,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 13210,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 11640,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 11090,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추20KG몇포기",
+    "requests": 9450,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "score": 68.2,
+  "demand": 214010,
+  "bid": 1230,
+  "longtail": 10,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 136900,
+    "bid": 820
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 20880,
+    "bid": 610
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 18080,
+    "bid": 1140
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 11120,
+    "bid": 670
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 9880,
+    "bid": 1230
+   },
+   {
+    "keyword": "블프",
+    "requests": 7580,
+    "bid": 1000
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 3350,
+    "bid": 0
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 2970,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연차수당 계산(연말 연차 소진)",
+  "score": 68.0,
+  "demand": 99170,
+  "bid": 1680,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 28800,
+    "bid": 0
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 24430,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 14850,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수",
+    "requests": 12080,
+    "bid": 0
+   },
+   {
+    "keyword": "연차",
+    "requests": 10870,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당",
+    "requests": 8140,
+    "bid": 1680
+   }
+  ]
+ },
+ {
+  "name": "11월 분양 4.4만 가구 청약 일정",
+  "score": 66.3,
+  "demand": 74840,
+  "bid": 1500,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "청약",
+    "requests": 41500,
+    "bid": 1500
+   },
+   {
+    "keyword": "주택청약",
+    "requests": 27740,
+    "bid": 0
+   },
+   {
+    "keyword": "청약일정",
+    "requests": 5600,
+    "bid": 1470
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·재산세",
+  "score": 65.4,
+  "demand": 30960,
+  "bid": 1560,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "재산세",
+    "requests": 12980,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세",
+    "requests": 5910,
+    "bid": 0
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 4480,
+    "bid": 1560
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 3960,
+    "bid": 0
+   },
+   {
+    "keyword": "재산세계산기",
+    "requests": 3630,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "겨울방학 윈터스쿨·겨울축제",
+  "score": 63.5,
+  "demand": 56740,
+  "bid": 27800,
+  "longtail": 12,
+  "timeliness": 1,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "윈터스쿨",
+    "requests": 17680,
+    "bid": 27800
+   },
+   {
+    "keyword": "산천어축제",
+    "requests": 6040,
+    "bid": 470
+   },
+   {
+    "keyword": "러셀윈터스쿨",
+    "requests": 5870,
+    "bid": 1400
+   },
+   {
+    "keyword": "겨울축제",
+    "requests": 5510,
+    "bid": 1380
+   },
+   {
+    "keyword": "빙어축제",
+    "requests": 3410,
+    "bid": 2220
+   },
+   {
+    "keyword": "예비고1윈터스쿨",
+    "requests": 2770,
+    "bid": 10580
+   },
+   {
+    "keyword": "이투스윈터스쿨",
+    "requests": 2620,
+    "bid": 0
+   },
+   {
+    "keyword": "빙어",
+    "requests": 2390,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 방지",
+  "score": 60.9,
+  "demand": 9980,
+  "bid": 13120,
+  "longtail": 2,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 4310,
+    "bid": 13120
+   },
+   {
+    "keyword": "해빙",
+    "requests": 2910,
+    "bid": 4040
+   },
+   {
+    "keyword": "해빙기",
+    "requests": 880,
+    "bid": 0
+   },
+   {
+    "keyword": "스팀해빙기",
+    "requests": 780,
+    "bid": 0
+   },
+   {
+    "keyword": "동파",
+    "requests": 650,
+    "bid": 12530
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 450,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "11월·12월 달력",
+  "score": 60.0,
+  "demand": 320000,
+  "bid": 480,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "11월달력",
+    "requests": 254300,
+    "bid": 140
+   },
+   {
+    "keyword": "12월달력",
+    "requests": 65700,
+    "bid": 480
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이",
+  "score": 58.6,
+  "demand": 190570,
+  "bid": 670,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 81900,
+    "bid": 670
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 41550,
+    "bid": 560
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 24130,
+    "bid": 620
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 14080,
+    "bid": 560
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 9830,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 7570,
+    "bid": 0
+   },
+   {
+    "keyword": "수제빼빼로주문",
+    "requests": 2050,
+    "bid": 0
+   },
+   {
+    "keyword": "빼빼로선물",
+    "requests": 1610,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "노로바이러스 겨울 식중독",
+  "score": 46.8,
+  "demand": 41410,
+  "bid": 0,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "노로바이러스",
+    "requests": 41410,
+    "bid": 0
+   }
+  ]
+ }
+]

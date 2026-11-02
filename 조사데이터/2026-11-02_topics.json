@@ -1,0 +1,228 @@
+[
+ {
+  "name": "자동차보험 갱신 할인(청년 경력인정·마일리지 특약)",
+  "roots": [
+   "자동차보험",
+   "마일리지특약",
+   "다모아"
+  ],
+  "exclude": [
+   "KB",
+   "DB",
+   "동부",
+   "캐롯",
+   "디비",
+   "케이비",
+   "삼성",
+   "현대",
+   "메리츠",
+   "한화",
+   "흥국",
+   "롯데",
+   "하나"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "근로장려금 퇴직자·기한 후 신청",
+  "roots": [
+   "근로장려금",
+   "자녀장려금"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar"
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "roots": [
+   "독감",
+   "대상포진"
+  ],
+  "exclude": [
+   "보험"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "penalty": 0.3,
+  "format": ""
+ },
+ {
+  "name": "연말정산 미리보기·세액공제 챙기기",
+  "roots": [
+   "연말정산",
+   "세액공제"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "penalty": 0.5,
+  "format": "calculator"
+ },
+ {
+  "name": "2027 수능 시간표",
+  "roots": [
+   "수능"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "penalty": 0.5,
+  "format": "calendar"
+ },
+ {
+  "name": "김장 시기·절임배추",
+  "roots": [
+   "김장",
+   "절임배추"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.8,
+  "format": "calendar"
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "roots": [
+   "블랙프라이데이",
+   "블프",
+   "코리아세일페스타"
+  ],
+  "exclude": [
+   "무신사"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.5,
+  "format": "calendar"
+ },
+ {
+  "name": "빼빼로데이",
+  "roots": [
+   "빼빼로"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "11월·12월 달력",
+  "roots": [
+   "11월달력",
+   "12월달력"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "penalty": 0.3,
+  "format": "calendar"
+ },
+ {
+  "name": "11월 분양 4.4만 가구 청약 일정",
+  "roots": [
+   "청약"
+  ],
+  "exclude": [
+   "공모주"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.3,
+  "format": "calendar"
+ },
+ {
+  "name": "종부세 고지·재산세",
+  "roots": [
+   "종부세",
+   "종합부동산세",
+   "재산세"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.3,
+  "format": "calculator"
+ },
+ {
+  "name": "보일러·전기 난방비 아끼기",
+  "roots": [
+   "보일러",
+   "전기요금",
+   "난방비",
+   "온수기",
+   "전기세"
+  ],
+  "exclude": [
+   "ESG",
+   "경동",
+   "나비엔",
+   "대성",
+   "셀틱",
+   "귀뚜라미",
+   "린나이",
+   "대우"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator"
+ },
+ {
+  "name": "패딩 세탁·겨울옷 관리",
+  "roots": [
+   "패딩",
+   "드라이클리닝",
+   "니트세탁"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "수도 동파 방지",
+  "roots": [
+   "동파",
+   "해빙"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "연차수당 계산(연말 연차 소진)",
+  "roots": [
+   "연차"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "penalty": 0.3,
+  "format": "calculator"
+ },
+ {
+  "name": "주휴수당 계산",
+  "roots": [
+   "주휴수당"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator"
+ },
+ {
+  "name": "노로바이러스 겨울 식중독",
+  "roots": [
+   "노로"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "겨울방학 윈터스쿨·겨울축제",
+  "roots": [
+   "윈터스쿨",
+   "겨울축제",
+   "산천어",
+   "빙어"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": "calendar"
+ }
+]
