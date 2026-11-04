@@ -1,0 +1,242 @@
+[
+ {
+  "name": "국가건강검진 연말 마감(대상자 조회)",
+  "roots": [
+   "건강검진"
+  ],
+  "exclude": [
+   "강아지",
+   "고양이",
+   "반려"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0.4
+ },
+ {
+  "name": "운전면허 적성검사·갱신 기간",
+  "roots": [
+   "적성검사",
+   "운전면허갱신",
+   "면허갱신"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar"
+ },
+ {
+  "name": "프리랜서 3.3% 세금·종합소득세 중간예납",
+  "roots": [
+   "3.3%",
+   "종합소득세",
+   "중간예납",
+   "소득세계산기"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calculator",
+  "exclude": [
+   "양도",
+   "퇴직"
+  ]
+ },
+ {
+  "name": "2027 정시 원서접수·수능 성적 발표 일정",
+  "roots": [
+   "정시",
+   "수능성적",
+   "등급컷",
+   "수능일정"
+  ],
+  "exclude": [
+   "정시퇴근",
+   "모의고사",
+   "9모",
+   "6모",
+   "2025",
+   "2024"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar"
+ },
+ {
+  "name": "2027 수능 시간표",
+  "roots": [
+   "수능"
+  ],
+  "exclude": [
+   "수능성적",
+   "수능일정",
+   "2025수능"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "penalty": 0.6,
+  "format": "calendar"
+ },
+ {
+  "name": "위험성평가 과태료 강화(사업주)",
+  "roots": [
+   "위험성평가",
+   "산업안전보건",
+   "중대재해"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "지역가입자 건강보험료 11월 조정",
+  "roots": [
+   "건강보험료",
+   "지역건강보험"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "연차수당 계산(연말 미사용 연차)",
+  "roots": [
+   "연차"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "penalty": 0.3,
+  "format": "calculator"
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "roots": [
+   "독감",
+   "대상포진"
+  ],
+  "exclude": [
+   "보험"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "penalty": 0.5,
+  "format": ""
+ },
+ {
+  "name": "김장·깍두기 담그기",
+  "roots": [
+   "절임배추",
+   "김장",
+   "깍두기",
+   "알타리"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.8,
+  "format": ""
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "roots": [
+   "블랙프라이데이",
+   "블프",
+   "코리아세일페스타"
+  ],
+  "exclude": [
+   "무신사"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "penalty": 0.6,
+  "format": "calendar"
+ },
+ {
+  "name": "연말정산 미리보기",
+  "roots": [
+   "연말정산"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "penalty": 0.6,
+  "format": "calculator"
+ },
+ {
+  "name": "종부세 고지·계산",
+  "roots": [
+   "종부세",
+   "종합부동산세"
+  ],
+  "timeliness": 1,
+  "action": 2,
+  "penalty": 0.3,
+  "format": "calculator"
+ },
+ {
+  "name": "전기요금·난방비",
+  "roots": [
+   "전기요금",
+   "난방비",
+   "전기세"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "penalty": 0.5,
+  "format": "calculator"
+ },
+ {
+  "name": "수도 동파·보일러 겨울 대비",
+  "roots": [
+   "동파",
+   "온도조절기"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "패딩·겨울옷 세탁",
+  "roots": [
+   "세탁",
+   "드라이클리닝",
+   "울샴푸"
+  ],
+  "exclude": [
+   "세탁기",
+   "다우니",
+   "세제"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "penalty": 0.6,
+  "format": ""
+ },
+ {
+  "name": "지분적립형 주택·전월세 안심신탁",
+  "roots": [
+   "지분적립형",
+   "안심신탁"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "QR 큐싱·바코드 보안",
+  "roots": [
+   "큐싱"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "11월 축제·겨울 나들이",
+  "roots": [
+   "11월축제",
+   "12월축제",
+   "크리스마스"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": ""
+ }
+]

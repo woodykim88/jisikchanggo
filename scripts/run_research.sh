@@ -23,6 +23,7 @@ source scripts/notify.sh
     exit 0
   fi
   out=$(claude -p "$(cat scripts/research_prompt.md)" --model opus --max-budget-usd 8 --no-session-persistence \
+    --strict-mcp-config --disable-slash-commands \
     --allowedTools "Read" "Glob" "Grep" "Edit(./**)" "WebFetch" "WebSearch" \
       "Bash(python3 scripts/*)" "Bash(python3 ./scripts/*)" \
       "Bash($HOME/Projects/블로그/구글블로그-정보마스터/.venv/bin/python scripts/collect_seeds.py)" \

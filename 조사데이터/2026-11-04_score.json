@@ -1,0 +1,795 @@
+[
+ {
+  "name": "프리랜서 3.3% 세금·종합소득세 중간예납",
+  "score": 82.9,
+  "demand": 89100,
+  "bid": 17970,
+  "longtail": 10,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "3.3%계산기",
+    "requests": 20880,
+    "bid": 1460
+   },
+   {
+    "keyword": "종합소득세",
+    "requests": 20630,
+    "bid": 17970
+   },
+   {
+    "keyword": "소득세계산기",
+    "requests": 12720,
+    "bid": 70
+   },
+   {
+    "keyword": "종합소득세세율",
+    "requests": 12450,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세율",
+    "requests": 5730,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세중간예납",
+    "requests": 4440,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세과세표준",
+    "requests": 4170,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세신고",
+    "requests": 4150,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "국가건강검진 연말 마감(대상자 조회)",
+  "score": 78.7,
+  "demand": 201020,
+  "bid": 11700,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 86500,
+    "bid": 11700
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 53000,
+    "bid": 4540
+   },
+   {
+    "keyword": "건강검진센터",
+    "requests": 22460,
+    "bid": 0
+   },
+   {
+    "keyword": "국민건강검진",
+    "requests": 17220,
+    "bid": 0
+   },
+   {
+    "keyword": "국가건강검진대상자",
+    "requests": 14750,
+    "bid": 1860
+   },
+   {
+    "keyword": "건강검진대상자",
+    "requests": 2960,
+    "bid": 1420
+   },
+   {
+    "keyword": "건강검진대상",
+    "requests": 1040,
+    "bid": 1610
+   },
+   {
+    "keyword": "국가건강검진대상",
+    "requests": 920,
+    "bid": 1350
+   }
+  ]
+ },
+ {
+  "name": "2027 정시 원서접수·수능 성적 발표 일정",
+  "score": 77.2,
+  "demand": 87030,
+  "bid": 26420,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "등급컷",
+    "requests": 41930,
+    "bid": 3990
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 7190,
+    "bid": 0
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 6750,
+    "bid": 11890
+   },
+   {
+    "keyword": "국어등급컷",
+    "requests": 5020,
+    "bid": 0
+   },
+   {
+    "keyword": "수능등급컷",
+    "requests": 4590,
+    "bid": 7030
+   },
+   {
+    "keyword": "정시",
+    "requests": 4490,
+    "bid": 26420
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 3380,
+    "bid": 10260
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 1910,
+    "bid": 1440
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "score": 76.2,
+  "demand": 979360,
+  "bid": 77090,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 545000,
+    "bid": 3780
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 119800,
+    "bid": 77090
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 86860,
+    "bid": 3820
+   },
+   {
+    "keyword": "독감",
+    "requests": 71100,
+    "bid": 6940
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 56720,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 55330,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 24810,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 19740,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "위험성평가 과태료 강화(사업주)",
+  "score": 75.7,
+  "demand": 113050,
+  "bid": 26450,
+  "longtail": 9,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "산업안전보건법",
+    "requests": 33160,
+    "bid": 15790
+   },
+   {
+    "keyword": "산업안전보건교육",
+    "requests": 19280,
+    "bid": 14250
+   },
+   {
+    "keyword": "중대재해처벌법",
+    "requests": 14100,
+    "bid": 18790
+   },
+   {
+    "keyword": "위험성평가",
+    "requests": 12580,
+    "bid": 26450
+   },
+   {
+    "keyword": "산업안전보건법시행규칙",
+    "requests": 9510,
+    "bid": 1150
+   },
+   {
+    "keyword": "산업안전보건기준에관한규칙",
+    "requests": 9400,
+    "bid": 0
+   },
+   {
+    "keyword": "산업안전보건법시행령",
+    "requests": 6140,
+    "bid": 0
+   },
+   {
+    "keyword": "중대재해",
+    "requests": 5610,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 시간표",
+  "score": 73.6,
+  "demand": 905640,
+  "bid": 8420,
+  "longtail": 11,
+  "timeliness": 3,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능",
+    "requests": 593700,
+    "bid": 8420
+   },
+   {
+    "keyword": "수능디데이",
+    "requests": 143500,
+    "bid": 3120
+   },
+   {
+    "keyword": "수능일",
+    "requests": 73700,
+    "bid": 2850
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 57370,
+    "bid": 1420
+   },
+   {
+    "keyword": "올해수능",
+    "requests": 7560,
+    "bid": 0
+   },
+   {
+    "keyword": "수능특강",
+    "requests": 6030,
+    "bid": 0
+   },
+   {
+    "keyword": "2025학년도수능등급컷",
+    "requests": 5800,
+    "bid": 0
+   },
+   {
+    "keyword": "수능시험",
+    "requests": 5340,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "운전면허 적성검사·갱신 기간",
+  "score": 71.2,
+  "demand": 32110,
+  "bid": 350,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "운전면허적성검사",
+    "requests": 32100,
+    "bid": 350
+   },
+   {
+    "keyword": "운전면허갱신",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "연차수당 계산(연말 미사용 연차)",
+  "score": 68.0,
+  "demand": 103810,
+  "bid": 1660,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 30400,
+    "bid": 0
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 25210,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 15490,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수",
+    "requests": 12510,
+    "bid": 0
+   },
+   {
+    "keyword": "연차",
+    "requests": 11240,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당",
+    "requests": 8430,
+    "bid": 1660
+   },
+   {
+    "keyword": "미사용연차수당",
+    "requests": 530,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "score": 67.7,
+  "demand": 236340,
+  "bid": 1210,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 151200,
+    "bid": 820
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 21400,
+    "bid": 610
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 20570,
+    "bid": 1120
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 11480,
+    "bid": 670
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 11100,
+    "bid": 1210
+   },
+   {
+    "keyword": "블프",
+    "requests": 8600,
+    "bid": 1000
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 3870,
+    "bid": 0
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 3120,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "지역가입자 건강보험료 11월 조정",
+  "score": 65.8,
+  "demand": 47920,
+  "bid": 18680,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "건강보험료",
+    "requests": 19620,
+    "bid": 18680
+   },
+   {
+    "keyword": "건강보험료조회",
+    "requests": 12520,
+    "bid": 16800
+   },
+   {
+    "keyword": "건강보험료계산",
+    "requests": 6310,
+    "bid": 0
+   },
+   {
+    "keyword": "건강보험료납부",
+    "requests": 5560,
+    "bid": 4870
+   },
+   {
+    "keyword": "건강보험료인상",
+    "requests": 2130,
+    "bid": 0
+   },
+   {
+    "keyword": "지역건강보험료",
+    "requests": 1780,
+    "bid": 240
+   }
+  ]
+ },
+ {
+  "name": "패딩·겨울옷 세탁",
+  "score": 65.8,
+  "demand": 221670,
+  "bid": 11340,
+  "longtail": 18,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "세탁소",
+    "requests": 125790,
+    "bid": 11340
+   },
+   {
+    "keyword": "근처세탁소",
+    "requests": 29370,
+    "bid": 5460
+   },
+   {
+    "keyword": "울샴푸",
+    "requests": 10430,
+    "bid": 1020
+   },
+   {
+    "keyword": "드라이클리닝",
+    "requests": 9100,
+    "bid": 0
+   },
+   {
+    "keyword": "신발세탁",
+    "requests": 6810,
+    "bid": 0
+   },
+   {
+    "keyword": "드라이클리닝가격",
+    "requests": 4700,
+    "bid": 0
+   },
+   {
+    "keyword": "카페트세탁",
+    "requests": 4610,
+    "bid": 0
+   },
+   {
+    "keyword": "니트세탁",
+    "requests": 3550,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기",
+  "score": 64.1,
+  "demand": 47680,
+  "bid": 70,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 25700,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 10770,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 8140,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산간소화",
+    "requests": 3070,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "전기요금·난방비",
+  "score": 63.5,
+  "demand": 16675,
+  "bid": 5720,
+  "longtail": 2,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전기요금",
+    "requests": 13720,
+    "bid": 920
+   },
+   {
+    "keyword": "전기요금할인",
+    "requests": 1820,
+    "bid": 5000
+   },
+   {
+    "keyword": "난방비",
+    "requests": 540,
+    "bid": 1890
+   },
+   {
+    "keyword": "전기세할인",
+    "requests": 390,
+    "bid": 5720
+   },
+   {
+    "keyword": "알뜰전기요금제",
+    "requests": 60,
+    "bid": 0
+   },
+   {
+    "keyword": "전기세절감",
+    "requests": 50,
+    "bid": 0
+   },
+   {
+    "keyword": "전기세절약",
+    "requests": 40,
+    "bid": 0
+   },
+   {
+    "keyword": "전기요금절감",
+    "requests": 30,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장·깍두기 담그기",
+  "score": 62.5,
+  "demand": 343930,
+  "bid": 3390,
+  "longtail": 18,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 77500,
+    "bid": 3390
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 64020,
+    "bid": 2560
+   },
+   {
+    "keyword": "깍두기담그기",
+    "requests": 32780,
+    "bid": 140
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 19190,
+    "bid": 430
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 17620,
+    "bid": 0
+   },
+   {
+    "keyword": "깍두기",
+    "requests": 15570,
+    "bid": 0
+   },
+   {
+    "keyword": "알타리김치",
+    "requests": 15550,
+    "bid": 1600
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 14060,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파·보일러 겨울 대비",
+  "score": 60.9,
+  "demand": 10010,
+  "bid": 12990,
+  "longtail": 2,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "온도조절기",
+    "requests": 5450,
+    "bid": 7240
+   },
+   {
+    "keyword": "동파방지열선",
+    "requests": 4470,
+    "bid": 12990
+   },
+   {
+    "keyword": "수도동파",
+    "requests": 90,
+    "bid": 5280
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·계산",
+  "score": 57.3,
+  "demand": 14860,
+  "bid": 2290,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종부세",
+    "requests": 6210,
+    "bid": 2290
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 4680,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 3970,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "11월 축제·겨울 나들이",
+  "score": 55.8,
+  "demand": 133250,
+  "bid": 1110,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "11월축제",
+    "requests": 63300,
+    "bid": 750
+   },
+   {
+    "keyword": "크리스마스",
+    "requests": 36670,
+    "bid": 1110
+   },
+   {
+    "keyword": "크리스마스장식",
+    "requests": 15560,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스리스",
+    "requests": 10040,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스트리나무",
+    "requests": 7680,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "QR 큐싱·바코드 보안",
+  "score": 52.1,
+  "demand": 320,
+  "bid": 4780,
+  "longtail": 0,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "큐싱",
+    "requests": 320,
+    "bid": 4780
+   }
+  ]
+ },
+ {
+  "name": "지분적립형 주택·전월세 안심신탁",
+  "score": 46.4,
+  "demand": 2940,
+  "bid": 530,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "전월세안심신탁",
+    "requests": 1690,
+    "bid": 530
+   },
+   {
+    "keyword": "지분적립형주택",
+    "requests": 1250,
+    "bid": 320
+   }
+  ]
+ }
+]
