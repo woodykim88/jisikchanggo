@@ -1,0 +1,773 @@
+[
+ {
+  "name": "2027 공무원시험 PSAT·일정",
+  "score": 86.9,
+  "demand": 140830,
+  "bid": 6360,
+  "longtail": 25,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "9급공무원시험",
+    "requests": 18750,
+    "bid": 4040
+   },
+   {
+    "keyword": "공무원시험",
+    "requests": 17500,
+    "bid": 4120
+   },
+   {
+    "keyword": "9급공무원",
+    "requests": 16470,
+    "bid": 3350
+   },
+   {
+    "keyword": "7급공무원",
+    "requests": 12970,
+    "bid": 3590
+   },
+   {
+    "keyword": "7급공무원시험",
+    "requests": 12760,
+    "bid": 2810
+   },
+   {
+    "keyword": "지방직공무원",
+    "requests": 6430,
+    "bid": 6360
+   },
+   {
+    "keyword": "PSAT",
+    "requests": 6420,
+    "bid": 3310
+   },
+   {
+    "keyword": "9급공무원시험과목",
+    "requests": 5720,
+    "bid": 3310
+   }
+  ]
+ },
+ {
+  "name": "프리랜서 3.3%·종합소득세 중간예납",
+  "score": 76.8,
+  "demand": 85800,
+  "bid": 17790,
+  "longtail": 7,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종합소득세",
+    "requests": 24940,
+    "bid": 17790
+   },
+   {
+    "keyword": "3.3%계산기",
+    "requests": 21530,
+    "bid": 1440
+   },
+   {
+    "keyword": "종합소득세세율",
+    "requests": 13720,
+    "bid": 2870
+   },
+   {
+    "keyword": "종합소득세중간예납",
+    "requests": 9840,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세율",
+    "requests": 6120,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세신고",
+    "requests": 4870,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세과세표준",
+    "requests": 4450,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세추계신고",
+    "requests": 330,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "score": 76.1,
+  "demand": 208290,
+  "bid": 11590,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 92100,
+    "bid": 11590
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 57500,
+    "bid": 4500
+   },
+   {
+    "keyword": "건강검진센터",
+    "requests": 23640,
+    "bid": 0
+   },
+   {
+    "keyword": "국민건강검진",
+    "requests": 18320,
+    "bid": 0
+   },
+   {
+    "keyword": "직장인건강검진",
+    "requests": 16730,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "보이스피싱·명의도용 방지",
+  "score": 75.2,
+  "demand": 38360,
+  "bid": 95090,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "보이스피싱",
+    "requests": 11970,
+    "bid": 95090
+   },
+   {
+    "keyword": "명의도용방지서비스",
+    "requests": 8090,
+    "bid": 49340
+   },
+   {
+    "keyword": "보이스피싱신고",
+    "requests": 7410,
+    "bid": 49160
+   },
+   {
+    "keyword": "보이스피싱변호사",
+    "requests": 4960,
+    "bid": 0
+   },
+   {
+    "keyword": "명의도용방지",
+    "requests": 2540,
+    "bid": 0
+   },
+   {
+    "keyword": "명의도용",
+    "requests": 1890,
+    "bid": 0
+   },
+   {
+    "keyword": "명의도용처벌",
+    "requests": 1500,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "score": 75.0,
+  "demand": 891190,
+  "bid": 76320,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 470000,
+    "bid": 3740
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 116000,
+    "bid": 76320
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 85210,
+    "bid": 3780
+   },
+   {
+    "keyword": "독감",
+    "requests": 69600,
+    "bid": 6870
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 53620,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 52370,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종",
+    "requests": 24630,
+    "bid": 0
+   },
+   {
+    "keyword": "대상포진예방접종가격",
+    "requests": 19760,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "내일배움카드·국비지원(AI 직업훈련)",
+  "score": 74.7,
+  "demand": 420530,
+  "bid": 25670,
+  "longtail": 19,
+  "timeliness": 1,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "내일배움카드",
+    "requests": 132400,
+    "bid": 25670
+   },
+   {
+    "keyword": "국민취업지원제도",
+    "requests": 90200,
+    "bid": 8880
+   },
+   {
+    "keyword": "내일배움카드신청",
+    "requests": 45200,
+    "bid": 13240
+   },
+   {
+    "keyword": "국민내일배움카드",
+    "requests": 37400,
+    "bid": 24640
+   },
+   {
+    "keyword": "내일배움카드교육",
+    "requests": 22710,
+    "bid": 10890
+   },
+   {
+    "keyword": "국비지원교육",
+    "requests": 17640,
+    "bid": 20230
+   },
+   {
+    "keyword": "국민내일배움카드신청",
+    "requests": 15620,
+    "bid": 13290
+   },
+   {
+    "keyword": "국비지원",
+    "requests": 10080,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수능 성적 발표·정시 원서접수 일정",
+  "score": 72.2,
+  "demand": 50720,
+  "bid": 26150,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "올해수능",
+    "requests": 8730,
+    "bid": 900
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 8030,
+    "bid": 1970
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 7150,
+    "bid": 11780
+   },
+   {
+    "keyword": "수능등급컷",
+    "requests": 5100,
+    "bid": 6960
+   },
+   {
+    "keyword": "정시",
+    "requests": 4610,
+    "bid": 26150
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 3610,
+    "bid": 10160
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 2090,
+    "bid": 1430
+   },
+   {
+    "keyword": "정시컨설팅",
+    "requests": 1460,
+    "bid": 19260
+   }
+  ]
+ },
+ {
+  "name": "등기부등본 열람·발급 수수료",
+  "score": 69.8,
+  "demand": 412200,
+  "bid": 1840,
+  "longtail": 18,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "등기부등본열람",
+    "requests": 188100,
+    "bid": 910
+   },
+   {
+    "keyword": "등기부등본",
+    "requests": 120800,
+    "bid": 1230
+   },
+   {
+    "keyword": "등기부등본발급",
+    "requests": 52300,
+    "bid": 710
+   },
+   {
+    "keyword": "건물등기부등본",
+    "requests": 7610,
+    "bid": 910
+   },
+   {
+    "keyword": "인터넷등기",
+    "requests": 4900,
+    "bid": 600
+   },
+   {
+    "keyword": "등기부등본확인",
+    "requests": 4880,
+    "bid": 1050
+   },
+   {
+    "keyword": "건물등기부등본발급",
+    "requests": 4860,
+    "bid": 1010
+   },
+   {
+    "keyword": "등기사항증명서",
+    "requests": 4250,
+    "bid": 850
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코세페 기간",
+  "score": 68.7,
+  "demand": 288940,
+  "bid": 1200,
+  "longtail": 13,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 186000,
+    "bid": 820
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 24500,
+    "bid": 1110
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 22250,
+    "bid": 610
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 13910,
+    "bid": 1200
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 12150,
+    "bid": 670
+   },
+   {
+    "keyword": "블프",
+    "requests": 11480,
+    "bid": 1000
+   },
+   {
+    "keyword": "나이키블랙프라이데이",
+    "requests": 5560,
+    "bid": 480
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 3380,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "종부세 고지·12월 납부",
+  "score": 67.0,
+  "demand": 18540,
+  "bid": 1530,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종부세",
+    "requests": 6640,
+    "bid": 0
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 5000,
+    "bid": 1530
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 3980,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산기",
+    "requests": 2900,
+    "bid": 690
+   },
+   {
+    "keyword": "종부세고지서",
+    "requests": 10,
+    "bid": 70
+   },
+   {
+    "keyword": "종부세납부기간",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "가상자산 과세 2년 유예",
+  "score": 66.5,
+  "demand": 91100,
+  "bid": 24550,
+  "longtail": 3,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "코인과세",
+    "requests": 44750,
+    "bid": 1790
+   },
+   {
+    "keyword": "가상자산과세",
+    "requests": 39740,
+    "bid": 24550
+   },
+   {
+    "keyword": "코인세금",
+    "requests": 6610,
+    "bid": 3770
+   }
+  ]
+ },
+ {
+  "name": "김장·절임배추·깍두기",
+  "score": 66.1,
+  "demand": 389480,
+  "bid": 3350,
+  "longtail": 19,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 87100,
+    "bid": 3350
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 75650,
+    "bid": 2530
+   },
+   {
+    "keyword": "깍두기담그기",
+    "requests": 35610,
+    "bid": 140
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 21810,
+    "bid": 430
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 19710,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 17200,
+    "bid": 0
+   },
+   {
+    "keyword": "깍두기",
+    "requests": 16050,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 15060,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 대비",
+  "score": 64.8,
+  "demand": 11170,
+  "bid": 12860,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 4950,
+    "bid": 12860
+   },
+   {
+    "keyword": "해빙",
+    "requests": 2850,
+    "bid": 3960
+   },
+   {
+    "keyword": "해빙기",
+    "requests": 980,
+    "bid": 780
+   },
+   {
+    "keyword": "스팀해빙기",
+    "requests": 850,
+    "bid": 0
+   },
+   {
+    "keyword": "동파",
+    "requests": 730,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 540,
+    "bid": 0
+   },
+   {
+    "keyword": "보일러동파",
+    "requests": 160,
+    "bid": 2710
+   },
+   {
+    "keyword": "수도동파",
+    "requests": 110,
+    "bid": 5220
+   }
+  ]
+ },
+ {
+  "name": "연봉 실수령액(숫자별)",
+  "score": 59.5,
+  "demand": 94380,
+  "bid": 160,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연봉실수령액",
+    "requests": 70000,
+    "bid": 160
+   },
+   {
+    "keyword": "연봉5000실수령액",
+    "requests": 9140,
+    "bid": 70
+   },
+   {
+    "keyword": "연봉4000실수령액",
+    "requests": 8890,
+    "bid": 70
+   },
+   {
+    "keyword": "연봉3000실수령액",
+    "requests": 6350,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "2027 최저임금",
+  "score": 57.1,
+  "demand": 63270,
+  "bid": 520,
+  "longtail": 2,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "최저임금",
+    "requests": 56400,
+    "bid": 520
+   },
+   {
+    "keyword": "2027최저임금",
+    "requests": 6870,
+    "bid": 460
+   }
+  ]
+ },
+ {
+  "name": "청년일자리도약장려금",
+  "score": 56.0,
+  "demand": 72650,
+  "bid": 3510,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "청년일자리도약장려금",
+    "requests": 42300,
+    "bid": 2850
+   },
+   {
+    "keyword": "청년지원금",
+    "requests": 22350,
+    "bid": 3510
+   },
+   {
+    "keyword": "중소기업청년지원금",
+    "requests": 8000,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "윈터타이어 교체",
+  "score": 54.1,
+  "demand": 22950,
+  "bid": 4120,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "윈터타이어",
+    "requests": 8680,
+    "bid": 3880
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 3330,
+    "bid": 1760
+   },
+   {
+    "keyword": "스노우타이어",
+    "requests": 2880,
+    "bid": 4120
+   },
+   {
+    "keyword": "윈터타이어보관",
+    "requests": 870,
+    "bid": 0
+   },
+   {
+    "keyword": "스노우타이어가격",
+    "requests": 720,
+    "bid": 0
+   },
+   {
+    "keyword": "넥센윈터타이어",
+    "requests": 720,
+    "bid": 0
+   },
+   {
+    "keyword": "미쉐린윈터타이어",
+    "requests": 680,
+    "bid": 0
+   },
+   {
+    "keyword": "테슬라윈터타이어",
+    "requests": 520,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "KTX·SRT 통합 할인",
+  "score": 40.9,
+  "demand": 10910,
+  "bid": 300,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "KTX할인",
+    "requests": 10910,
+    "bid": 300
+   }
+  ]
+ }
+]

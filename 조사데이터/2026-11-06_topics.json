@@ -1,0 +1,20 @@
+[
+ {"name": "종부세 고지·12월 납부", "roots": ["종부세", "종합부동산세"], "timeliness": 2, "action": 2, "format": "calculator"},
+ {"name": "연봉 실수령액(숫자별)", "roots": ["실수령액", "연봉계산기"], "timeliness": 1, "action": 2, "format": "calculator"},
+ {"name": "가상자산 과세 2년 유예", "roots": ["코인과세", "가상자산과세", "코인세금"], "timeliness": 3, "action": 1, "format": ""},
+ {"name": "2027 공무원시험 PSAT·일정", "roots": ["공무원시험", "9급공무원", "7급공무원", "PSAT", "지방직공무원"], "exclude": ["소방", "경찰"], "timeliness": 3, "action": 2, "format": "calendar"},
+ {"name": "등기부등본 열람·발급 수수료", "roots": ["등기부등본", "등기사항", "등기열람", "부동산등기", "인터넷등기"], "timeliness": 2, "action": 2, "format": ""},
+ {"name": "내일배움카드·국비지원(AI 직업훈련)", "roots": ["내일배움카드", "국비지원", "국민취업지원제도"], "timeliness": 1, "action": 3, "format": ""},
+ {"name": "청년일자리도약장려금", "roots": ["청년일자리도약", "청년지원금"], "timeliness": 1, "action": 2, "format": ""},
+ {"name": "보이스피싱·명의도용 방지", "roots": ["명의도용", "보이스피싱신고", "보이스피싱"], "timeliness": 2, "action": 3, "format": ""},
+ {"name": "2027 최저임금", "roots": ["최저임금", "최저시급"], "timeliness": 1, "action": 2, "format": "calculator", "penalty": 0.3},
+ {"name": "김장·절임배추·깍두기", "roots": ["김장", "절임배추", "깍두기"], "timeliness": 2, "action": 2, "format": "", "penalty": 0.5},
+ {"name": "수도 동파 대비", "roots": ["동파", "해빙"], "timeliness": 2, "action": 3, "format": "", "penalty": 0.3},
+ {"name": "윈터타이어 교체", "roots": ["윈터타이어", "겨울타이어", "스노우타이어"], "exclude": ["렌탈"], "timeliness": 1, "action": 2, "format": ""},
+ {"name": "수능 성적 발표·정시 원서접수 일정", "roots": ["정시", "수능성적", "수능등급컷", "수능일정", "올해수능"], "exclude": ["정시퇴근", "2025", "2024"], "timeliness": 2, "action": 2, "format": "calendar", "penalty": 0.4},
+ {"name": "독감·대상포진 예방접종", "roots": ["독감", "대상포진"], "timeliness": 2, "action": 3, "format": "", "penalty": 0.6},
+ {"name": "국가건강검진 연말 마감", "roots": ["건강검진"], "exclude": ["강아지", "고양이", "반려"], "timeliness": 2, "action": 3, "format": "calendar", "penalty": 0.6},
+ {"name": "프리랜서 3.3%·종합소득세 중간예납", "roots": ["3.3%", "종합소득세", "중간예납"], "exclude": ["양도", "퇴직"], "timeliness": 3, "action": 2, "format": "calculator", "penalty": 0.5},
+ {"name": "블랙프라이데이·코세페 기간", "roots": ["블랙프라이데이", "코리아세일페스타", "블프"], "exclude": ["무신사"], "timeliness": 2, "action": 2, "format": "calendar", "penalty": 0.6},
+ {"name": "KTX·SRT 통합 할인", "roots": ["KTX할인", "코레일할인", "SRT"], "timeliness": 1, "action": 1, "format": ""}
+]
