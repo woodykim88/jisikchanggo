@@ -1,0 +1,708 @@
+[
+ {
+  "name": "고향사랑기부제 연말 세액공제",
+  "score": 82.3,
+  "demand": 232590,
+  "bid": 14580,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "고향사랑기부제",
+    "requests": 150300,
+    "bid": 680
+   },
+   {
+    "keyword": "고향사랑E음",
+    "requests": 67700,
+    "bid": 70
+   },
+   {
+    "keyword": "고향사랑기부",
+    "requests": 12370,
+    "bid": 14580
+   },
+   {
+    "keyword": "고향사랑기부제세액공제",
+    "requests": 2220,
+    "bid": 320
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 D-10·시간표",
+  "score": 80.5,
+  "demand": 325020,
+  "bid": 2910,
+  "longtail": 5,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능디데이",
+    "requests": 133500,
+    "bid": 2460
+   },
+   {
+    "keyword": "수능일",
+    "requests": 105300,
+    "bid": 2910
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 68100,
+    "bid": 1390
+   },
+   {
+    "keyword": "올해수능",
+    "requests": 9540,
+    "bid": 930
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 8580,
+    "bid": 2060
+   }
+  ]
+ },
+ {
+  "name": "연차수당·연말 연차 소진",
+  "score": 79.7,
+  "demand": 122280,
+  "bid": 2490,
+  "longtail": 9,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 32800,
+    "bid": 2490
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 26200,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 16210,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수",
+    "requests": 12600,
+    "bid": 0
+   },
+   {
+    "keyword": "연차",
+    "requests": 11680,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당",
+    "requests": 8650,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수계산기",
+    "requests": 6860,
+    "bid": 0
+   },
+   {
+    "keyword": "연차계산법",
+    "requests": 5010,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "실업급여 반복수급 개편",
+  "score": 72.9,
+  "demand": 447430,
+  "bid": 5700,
+  "longtail": 15,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "실업급여조건",
+    "requests": 115500,
+    "bid": 330
+   },
+   {
+    "keyword": "실업급여",
+    "requests": 98900,
+    "bid": 4130
+   },
+   {
+    "keyword": "실업급여계산기",
+    "requests": 97500,
+    "bid": 2140
+   },
+   {
+    "keyword": "실업급여신청",
+    "requests": 67700,
+    "bid": 5700
+   },
+   {
+    "keyword": "실업급여신청방법",
+    "requests": 40800,
+    "bid": 5620
+   },
+   {
+    "keyword": "실업급여신청기간",
+    "requests": 6060,
+    "bid": 80
+   },
+   {
+    "keyword": "정년퇴직실업급여",
+    "requests": 3140,
+    "bid": 120
+   },
+   {
+    "keyword": "고용보험실업급여조건",
+    "requests": 2940,
+    "bid": 110
+   }
+  ]
+ },
+ {
+  "name": "빼빼로데이 11/11",
+  "score": 72.1,
+  "demand": 517060,
+  "bid": 3080,
+  "longtail": 21,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "빼빼로",
+    "requests": 216000,
+    "bid": 690
+   },
+   {
+    "keyword": "빼빼로데이",
+    "requests": 99800,
+    "bid": 540
+   },
+   {
+    "keyword": "빼빼로만들기",
+    "requests": 61370,
+    "bid": 500
+   },
+   {
+    "keyword": "빼빼로만들기키트",
+    "requests": 32510,
+    "bid": 570
+   },
+   {
+    "keyword": "빼빼로데이선물",
+    "requests": 31210,
+    "bid": 3080
+   },
+   {
+    "keyword": "수제빼빼로",
+    "requests": 24970,
+    "bid": 500
+   },
+   {
+    "keyword": "빼빼로선물",
+    "requests": 9000,
+    "bid": 0
+   },
+   {
+    "keyword": "포키빼빼로",
+    "requests": 6110,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기",
+  "score": 71.5,
+  "demand": 56610,
+  "bid": 910,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 41800,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 10960,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금",
+    "requests": 3560,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산미리보기서비스",
+    "requests": 290,
+    "bid": 910
+   }
+  ]
+ },
+ {
+  "name": "운전면허 적성검사·갱신",
+  "score": 71.4,
+  "demand": 35210,
+  "bid": 360,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "운전면허적성검사",
+    "requests": 35200,
+    "bid": 360
+   },
+   {
+    "keyword": "운전면허갱신",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "수능 도시락",
+  "score": 70.0,
+  "demand": 110070,
+  "bid": 1520,
+  "longtail": 7,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "보온도시락",
+    "requests": 44210,
+    "bid": 860
+   },
+   {
+    "keyword": "써모스보온도시락",
+    "requests": 23300,
+    "bid": 1520
+   },
+   {
+    "keyword": "수능도시락",
+    "requests": 17490,
+    "bid": 1120
+   },
+   {
+    "keyword": "보온도시락통",
+    "requests": 11420,
+    "bid": 1090
+   },
+   {
+    "keyword": "수능보온도시락",
+    "requests": 5480,
+    "bid": 0
+   },
+   {
+    "keyword": "수능도시락통",
+    "requests": 4990,
+    "bid": 0
+   },
+   {
+    "keyword": "보온도시락추천",
+    "requests": 3180,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수능 등급컷·성적 발표",
+  "score": 69.9,
+  "demand": 133430,
+  "bid": 8030,
+  "longtail": 13,
+  "timeliness": 2,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "등급컷",
+    "requests": 42500,
+    "bid": 4070
+   },
+   {
+    "keyword": "10월모의고사등급컷",
+    "requests": 24370,
+    "bid": 0
+   },
+   {
+    "keyword": "모의고사등급컷",
+    "requests": 17150,
+    "bid": 0
+   },
+   {
+    "keyword": "9모등급컷",
+    "requests": 9340,
+    "bid": 0
+   },
+   {
+    "keyword": "2025수능등급컷",
+    "requests": 8130,
+    "bid": 2690
+   },
+   {
+    "keyword": "2025학년도수능등급컷",
+    "requests": 8100,
+    "bid": 380
+   },
+   {
+    "keyword": "수능등급컷",
+    "requests": 5510,
+    "bid": 7200
+   },
+   {
+    "keyword": "국어등급컷",
+    "requests": 5330,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "초미세먼지 고농도 대비",
+  "score": 69.1,
+  "demand": 553820,
+  "bid": 13580,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "미세먼지",
+    "requests": 469900,
+    "bid": 13580
+   },
+   {
+    "keyword": "서울초미세먼지",
+    "requests": 33010,
+    "bid": 780
+   },
+   {
+    "keyword": "황사",
+    "requests": 26740,
+    "bid": 100
+   },
+   {
+    "keyword": "초미세먼지",
+    "requests": 23180,
+    "bid": 470
+   },
+   {
+    "keyword": "미세먼지방충망",
+    "requests": 990,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감 예방접종",
+  "score": 68.1,
+  "demand": 465050,
+  "bid": 7450,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 393500,
+    "bid": 3580
+   },
+   {
+    "keyword": "독감",
+    "requests": 60200,
+    "bid": 7450
+   },
+   {
+    "keyword": "독감백신",
+    "requests": 11350,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장·절임배추",
+  "score": 66.1,
+  "demand": 445950,
+  "bid": 4370,
+  "longtail": 20,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "절임배추",
+    "requests": 93900,
+    "bid": 4370
+   },
+   {
+    "keyword": "절임배추20KG",
+    "requests": 87680,
+    "bid": 3090
+   },
+   {
+    "keyword": "깍두기담그기",
+    "requests": 39550,
+    "bid": 130
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 23690,
+    "bid": 550
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 21270,
+    "bid": 0
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 20330,
+    "bid": 0
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 17990,
+    "bid": 0
+   },
+   {
+    "keyword": "깍두기",
+    "requests": 16530,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "신용점수 올리기(비금융정보)",
+  "score": 61.7,
+  "demand": 101280,
+  "bid": 9660,
+  "longtail": 13,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "신용점수",
+    "requests": 18970,
+    "bid": 8330
+   },
+   {
+    "keyword": "올크레딧",
+    "requests": 18300,
+    "bid": 610
+   },
+   {
+    "keyword": "신용점수조회",
+    "requests": 15200,
+    "bid": 3180
+   },
+   {
+    "keyword": "신용등급점수표",
+    "requests": 12300,
+    "bid": 6500
+   },
+   {
+    "keyword": "KCB신용점수",
+    "requests": 11660,
+    "bid": 130
+   },
+   {
+    "keyword": "신용정보원",
+    "requests": 7280,
+    "bid": 580
+   },
+   {
+    "keyword": "신용등급",
+    "requests": 4820,
+    "bid": 0
+   },
+   {
+    "keyword": "내신용점수조회",
+    "requests": 3550,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "가상자산 안심상속",
+  "score": 54.7,
+  "demand": 1430,
+  "bid": 4320,
+  "longtail": 0,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "안심상속",
+    "requests": 830,
+    "bid": 4320
+   },
+   {
+    "keyword": "안심상속서비스",
+    "requests": 600,
+    "bid": 2610
+   }
+  ]
+ },
+ {
+  "name": "전기요금 할인·차등화",
+  "score": 53.8,
+  "demand": 16585,
+  "bid": 5780,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "전기요금",
+    "requests": 14060,
+    "bid": 900
+   },
+   {
+    "keyword": "전기요금할인",
+    "requests": 1920,
+    "bid": 4860
+   },
+   {
+    "keyword": "전기세할인",
+    "requests": 390,
+    "bid": 5780
+   },
+   {
+    "keyword": "알뜰전기요금제",
+    "requests": 60,
+    "bid": 0
+   },
+   {
+    "keyword": "전기세절약",
+    "requests": 50,
+    "bid": 0
+   },
+   {
+    "keyword": "전기세절감",
+    "requests": 50,
+    "bid": 0
+   },
+   {
+    "keyword": "전기요금절감",
+    "requests": 30,
+    "bid": 0
+   },
+   {
+    "keyword": "전기요금절감컨설팅",
+    "requests": 15,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 방지",
+  "score": 50.2,
+  "demand": 11800,
+  "bid": 12900,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 5260,
+    "bid": 12900
+   },
+   {
+    "keyword": "해빙",
+    "requests": 2940,
+    "bid": 3760
+   },
+   {
+    "keyword": "해빙기",
+    "requests": 1060,
+    "bid": 0
+   },
+   {
+    "keyword": "스팀해빙기",
+    "requests": 1050,
+    "bid": 0
+   },
+   {
+    "keyword": "동파",
+    "requests": 850,
+    "bid": 12590
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 640,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "청년 구직활동지원금",
+  "score": 48.0,
+  "demand": 1400,
+  "bid": 3570,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "청년구직활동지원금",
+    "requests": 1330,
+    "bid": 3570
+   },
+   {
+    "keyword": "청년구직",
+    "requests": 70,
+    "bid": 1460
+   }
+  ]
+ },
+ {
+  "name": "난방비·에너지캐시백",
+  "score": 45.5,
+  "demand": 760,
+  "bid": 1950,
+  "longtail": 0,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "난방비",
+    "requests": 750,
+    "bid": 1950
+   },
+   {
+    "keyword": "에너지캐시백",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ }
+]
