@@ -1,0 +1,646 @@
+[
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "score": 80.8,
+  "demand": 422710,
+  "bid": 1790,
+  "longtail": 16,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 240900,
+    "bid": 780
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 28310,
+    "bid": 1090
+   },
+   {
+    "keyword": "무신사블프",
+    "requests": 27780,
+    "bid": 70
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 22980,
+    "bid": 660
+   },
+   {
+    "keyword": "무신사블랙프라이데이",
+    "requests": 20330,
+    "bid": 70
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 18300,
+    "bid": 1250
+   },
+   {
+    "keyword": "블프",
+    "requests": 16250,
+    "bid": 1110
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 12470,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 D-8·시간표·준비물",
+  "score": 80.6,
+  "demand": 347060,
+  "bid": 2880,
+  "longtail": 5,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능디데이",
+    "requests": 130400,
+    "bid": 2430
+   },
+   {
+    "keyword": "수능일",
+    "requests": 128700,
+    "bid": 2880
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 74600,
+    "bid": 1370
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 9100,
+    "bid": 0
+   },
+   {
+    "keyword": "수능준비물",
+    "requests": 4260,
+    "bid": 2060
+   }
+  ]
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "score": 80.1,
+  "demand": 206950,
+  "bid": 11870,
+  "longtail": 8,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 97600,
+    "bid": 11870
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 61700,
+    "bid": 4640
+   },
+   {
+    "keyword": "국민건강검진",
+    "requests": 19330,
+    "bid": 0
+   },
+   {
+    "keyword": "직장인건강검진",
+    "requests": 18040,
+    "bid": 0
+   },
+   {
+    "keyword": "건강검진대상자",
+    "requests": 3340,
+    "bid": 1440
+   },
+   {
+    "keyword": "건강검진비용",
+    "requests": 2850,
+    "bid": 0
+   },
+   {
+    "keyword": "건강검진대상",
+    "requests": 1190,
+    "bid": 1580
+   },
+   {
+    "keyword": "국가건강검진대상",
+    "requests": 1110,
+    "bid": 1560
+   }
+  ]
+ },
+ {
+  "name": "온풍기·전기난로 전기요금",
+  "score": 79.6,
+  "demand": 317820,
+  "bid": 27110,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "온풍기",
+    "requests": 88200,
+    "bid": 10250
+   },
+   {
+    "keyword": "전기히터",
+    "requests": 80600,
+    "bid": 10180
+   },
+   {
+    "keyword": "가정용온풍기",
+    "requests": 56600,
+    "bid": 1290
+   },
+   {
+    "keyword": "전기난로",
+    "requests": 37300,
+    "bid": 27110
+   },
+   {
+    "keyword": "발난로",
+    "requests": 24200,
+    "bid": 900
+   },
+   {
+    "keyword": "PTC온풍기",
+    "requests": 9470,
+    "bid": 0
+   },
+   {
+    "keyword": "소형온풍기",
+    "requests": 6910,
+    "bid": 0
+   },
+   {
+    "keyword": "가정용온풍기추천",
+    "requests": 5070,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "고향사랑기부 연말 세액공제",
+  "score": 78.1,
+  "demand": 176320,
+  "bid": 14430,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "고향사랑기부제",
+    "requests": 162700,
+    "bid": 680
+   },
+   {
+    "keyword": "고향사랑기부",
+    "requests": 13620,
+    "bid": 14430
+   }
+  ]
+ },
+ {
+  "name": "윈터타이어·스노우체인",
+  "score": 74.8,
+  "demand": 67540,
+  "bid": 40410,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "부동액",
+    "requests": 20560,
+    "bid": 40410
+   },
+   {
+    "keyword": "타이어교체주기",
+    "requests": 18330,
+    "bid": 2900
+   },
+   {
+    "keyword": "윈터타이어",
+    "requests": 10620,
+    "bid": 4230
+   },
+   {
+    "keyword": "스노우체인",
+    "requests": 6310,
+    "bid": 4870
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 3840,
+    "bid": 0
+   },
+   {
+    "keyword": "스노우타이어",
+    "requests": 3530,
+    "bid": 0
+   },
+   {
+    "keyword": "자동차스노우체인",
+    "requests": 1000,
+    "bid": 0
+   },
+   {
+    "keyword": "윈터타이어보관",
+    "requests": 950,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리 준비",
+  "score": 74.7,
+  "demand": 77120,
+  "bid": 8790,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산",
+    "requests": 39900,
+    "bid": 8790
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 11530,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 10980,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 8060,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 6650,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수능 응원 선물·찹쌀떡",
+  "score": 69.5,
+  "demand": 212250,
+  "bid": 14810,
+  "longtail": 10,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "수능선물",
+    "requests": 85600,
+    "bid": 3880
+   },
+   {
+    "keyword": "찹쌀떡",
+    "requests": 53300,
+    "bid": 1320
+   },
+   {
+    "keyword": "수능선물추천",
+    "requests": 24150,
+    "bid": 0
+   },
+   {
+    "keyword": "수능응원선물",
+    "requests": 11690,
+    "bid": 3080
+   },
+   {
+    "keyword": "수능선물세트",
+    "requests": 10730,
+    "bid": 5450
+   },
+   {
+    "keyword": "수능찹쌀떡",
+    "requests": 7100,
+    "bid": 610
+   },
+   {
+    "keyword": "고3수능선물",
+    "requests": 5250,
+    "bid": 14230
+   },
+   {
+    "keyword": "수능합격기원선물",
+    "requests": 5230,
+    "bid": 14810
+   }
+  ]
+ },
+ {
+  "name": "독감 예방접종",
+  "score": 68.6,
+  "demand": 522100,
+  "bid": 7380,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 367400,
+    "bid": 3550
+   },
+   {
+    "keyword": "독감",
+    "requests": 60300,
+    "bid": 7380
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 47980,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 46420,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수능 도시락",
+  "score": 68.5,
+  "demand": 122760,
+  "bid": 1500,
+  "longtail": 8,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "보온도시락",
+    "requests": 48000,
+    "bid": 860
+   },
+   {
+    "keyword": "써모스보온도시락",
+    "requests": 25520,
+    "bid": 1500
+   },
+   {
+    "keyword": "수능도시락",
+    "requests": 19910,
+    "bid": 1110
+   },
+   {
+    "keyword": "보온도시락통",
+    "requests": 11950,
+    "bid": 1080
+   },
+   {
+    "keyword": "수능보온도시락",
+    "requests": 6050,
+    "bid": 0
+   },
+   {
+    "keyword": "수능도시락통",
+    "requests": 5680,
+    "bid": 0
+   },
+   {
+    "keyword": "보온도시락추천",
+    "requests": 3430,
+    "bid": 0
+   },
+   {
+    "keyword": "스텐보온도시락",
+    "requests": 2220,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "패딩 세탁",
+  "score": 67.0,
+  "demand": 12970,
+  "bid": 4670,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "패딩세탁",
+    "requests": 4460,
+    "bid": 4670
+   },
+   {
+    "keyword": "패딩수선",
+    "requests": 4310,
+    "bid": 0
+   },
+   {
+    "keyword": "오리털패딩세탁",
+    "requests": 2490,
+    "bid": 0
+   },
+   {
+    "keyword": "패딩이월상품",
+    "requests": 1710,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "채무조정 제도",
+  "score": 64.0,
+  "demand": 105880,
+  "bid": 91390,
+  "longtail": 8,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "개인회생",
+    "requests": 50400,
+    "bid": 82450
+   },
+   {
+    "keyword": "신속채무조정",
+    "requests": 15430,
+    "bid": 91390
+   },
+   {
+    "keyword": "채무조정제도",
+    "requests": 11550,
+    "bid": 90670
+   },
+   {
+    "keyword": "개인워크아웃",
+    "requests": 11340,
+    "bid": 7900
+   },
+   {
+    "keyword": "신용회복위원회채무조정",
+    "requests": 5120,
+    "bid": 0
+   },
+   {
+    "keyword": "채무조정",
+    "requests": 4820,
+    "bid": 90160
+   },
+   {
+    "keyword": "개인워크아웃조건",
+    "requests": 4730,
+    "bid": 0
+   },
+   {
+    "keyword": "개인회생면책신청",
+    "requests": 2490,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "유류세 인하 연장",
+  "score": 63.2,
+  "demand": 45320,
+  "bid": 170,
+  "longtail": 3,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "휘발유가격",
+    "requests": 42410,
+    "bid": 170
+   },
+   {
+    "keyword": "유류세",
+    "requests": 1820,
+    "bid": 70
+   },
+   {
+    "keyword": "유류세인하",
+    "requests": 1090,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "제미나이 4 카본 출시",
+  "score": 57.2,
+  "demand": 3920,
+  "bid": 110,
+  "longtail": 1,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "제미나이4",
+    "requests": 3920,
+    "bid": 110
+   }
+  ]
+ },
+ {
+  "name": "건강보험료 조회·환급",
+  "score": 52.0,
+  "demand": 47160,
+  "bid": 17630,
+  "longtail": 5,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "건강보험료",
+    "requests": 20850,
+    "bid": 17630
+   },
+   {
+    "keyword": "건강보험료조회",
+    "requests": 13220,
+    "bid": 17290
+   },
+   {
+    "keyword": "건강보험료계산",
+    "requests": 6710,
+    "bid": 0
+   },
+   {
+    "keyword": "건강보험료환급금조회",
+    "requests": 4250,
+    "bid": 910
+   },
+   {
+    "keyword": "건강보험료인상",
+    "requests": 2130,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "지하철 파업",
+  "score": 39.6,
+  "demand": 20,
+  "bid": 70,
+  "longtail": 0,
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "서울지하철파업",
+    "requests": 10,
+    "bid": 70
+   },
+   {
+    "keyword": "지하철파업",
+    "requests": 10,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "청약 위장전입 적발",
+  "score": 34.7,
+  "demand": 50,
+  "bid": 70,
+  "longtail": 0,
+  "timeliness": 2,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "청약위장전입",
+    "requests": 50,
+    "bid": 70
+   }
+  ]
+ }
+]

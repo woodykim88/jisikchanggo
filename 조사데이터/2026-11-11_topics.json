@@ -1,0 +1,187 @@
+[
+ {
+  "name": "2027 수능 D-8·시간표·준비물",
+  "roots": [
+   "수능디데이",
+   "수능일",
+   "수능시간표",
+   "수능준비물",
+   "수능일정",
+   "올해수능"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar"
+ },
+ {
+  "name": "수능 응원 선물·찹쌀떡",
+  "roots": [
+   "수능선물",
+   "찹쌀떡",
+   "수능응원",
+   "수능합격",
+   "고3수능"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "수능 도시락",
+  "roots": [
+   "수능도시락",
+   "보온도시락"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "penalty": 0.2
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "roots": [
+   "블랙프라이데이",
+   "블프",
+   "코리아세일페스타"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.3
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "roots": [
+   "건강검진",
+   "공단검진"
+  ],
+  "exclude": [
+   "건강검진센터"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0.3
+ },
+ {
+  "name": "유류세 인하 연장",
+  "roots": [
+   "유류세",
+   "휘발유가격"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "독감 예방접종",
+  "roots": [
+   "독감"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0.6
+ },
+ {
+  "name": "고향사랑기부 연말 세액공제",
+  "roots": [
+   "고향사랑"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.3
+ },
+ {
+  "name": "연말정산 미리 준비",
+  "roots": [
+   "연말정산"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.5
+ },
+ {
+  "name": "윈터타이어·스노우체인",
+  "roots": [
+   "윈터타이어",
+   "스노우체인",
+   "스노우타이어",
+   "타이어교체주기",
+   "부동액"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "온풍기·전기난로 전기요금",
+  "roots": [
+   "온풍기",
+   "전기히터",
+   "전기난로",
+   "발난로"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator"
+ },
+ {
+  "name": "채무조정 제도",
+  "roots": [
+   "채무조정",
+   "개인워크아웃",
+   "개인회생"
+  ],
+  "timeliness": 1,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "패딩 세탁",
+  "roots": [
+   "패딩"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "건강보험료 조회·환급",
+  "roots": [
+   "건강보험료"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "제미나이 4 카본 출시",
+  "roots": [
+   "제미나이4"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "지하철 파업",
+  "roots": [
+   "지하철파업"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": ""
+ },
+ {
+  "name": "청약 위장전입 적발",
+  "roots": [
+   "위장전입"
+  ],
+  "timeliness": 2,
+  "action": 1,
+  "format": ""
+ }
+]
