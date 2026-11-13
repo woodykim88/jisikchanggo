@@ -1,0 +1,191 @@
+[
+ {
+  "name": "2027 수능 D-6·시간표·등급컷",
+  "roots": [
+   "수능일",
+   "수능디데이",
+   "수능시간표",
+   "수능일정",
+   "수능시험",
+   "수능등급컷",
+   "수능가채점"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.3
+ },
+ {
+  "name": "수능 응원 선물·찹쌀떡",
+  "roots": [
+   "수능선물",
+   "찹쌀떡",
+   "수능응원",
+   "수험생선물",
+   "수능합격",
+   "고3수능"
+  ],
+  "timeliness": 3,
+  "action": 1,
+  "format": "",
+  "penalty": 0.2
+ },
+ {
+  "name": "수능 끝 운전면허·수험생 할인",
+  "roots": [
+   "운전면허학원",
+   "운전면허필기",
+   "운전면허기능",
+   "운전면허시험장",
+   "수험생할인",
+   "수능이벤트"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "김장·절임배추",
+  "roots": [
+   "절임배추",
+   "김장",
+   "깍두기",
+   "총각김치",
+   "새우젓",
+   "고춧가루"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0.1
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타 기간",
+  "roots": [
+   "블랙프라이데이",
+   "블프",
+   "코리아세일페스타"
+  ],
+  "exclude": [
+   "무신사"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.4
+ },
+ {
+  "name": "연말정산 미리보기",
+  "roots": [
+   "연말정산"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.5
+ },
+ {
+  "name": "신용카드 포인트 지역화폐 전환·조회",
+  "roots": [
+   "카드포인트"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": ""
+ },
+ {
+  "name": "가짜 3.3 근로자·프리랜서 4대보험",
+  "roots": [
+   "3.3",
+   "프리랜서"
+  ],
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator"
+ },
+ {
+  "name": "국가건강검진 연말 마감",
+  "roots": [
+   "건강검진"
+  ],
+  "exclude": [
+   "건강검진센터"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0.4
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "roots": [
+   "독감",
+   "대상포진"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0.5
+ },
+ {
+  "name": "온풍기·전기난로 전기요금",
+  "roots": [
+   "온풍기",
+   "전기히터",
+   "전기난로",
+   "발난로"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "penalty": 0.4
+ },
+ {
+  "name": "보일러·수도 동파 예방",
+  "roots": [
+   "보일러",
+   "동파",
+   "해빙"
+  ],
+  "exclude": [
+   "대성셀틱",
+   "경동나비엔",
+   "나비엔"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": ""
+ },
+ {
+  "name": "패딩 세탁",
+  "roots": [
+   "패딩",
+   "드라이클리닝"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0.1
+ },
+ {
+  "name": "2027 달력·공휴일",
+  "roots": [
+   "2027달력",
+   "2027공휴일",
+   "12월공휴일"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.5
+ },
+ {
+  "name": "크리스마스 일정",
+  "roots": [
+   "크리스마스"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": ""
+ }
+]
