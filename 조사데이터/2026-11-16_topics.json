@@ -1,0 +1,17 @@
+[
+ {"name":"2027 수능 D-3·등급컷·성적 발표","roots":["수능일","수능디데이","수능시간표","수능일정","수능시험","수능등급컷","수능가채점","수능성적","올해수능"],"timeliness":3,"action":2,"format":"calendar","penalty":0.3},
+ {"name":"에너지바우처 대상·신청","roots":["에너지바우처","난방비지원","난방바우처"],"exclude":["2024"],"timeliness":2,"action":3,"format":"calendar","penalty":0},
+ {"name":"연말정산 미리보기·환급 계산","roots":["연말정산"],"timeliness":2,"action":3,"format":"calculator","penalty":0.1},
+ {"name":"김장·절임배추","roots":["절임배추","깍두기","김장","총각김치","갓김치","배추"],"timeliness":2,"action":3,"format":"","penalty":0.2},
+ {"name":"수도 동파·보일러 한파 대비","roots":["동파","보일러","수도계량기","해빙"],"exclude":["대성셀틱","경동나비엔","나비엔"],"timeliness":2,"action":3,"format":"","penalty":0.3},
+ {"name":"알뜰폰 요금제·통신비 줄이기","roots":["알뜰폰","알뜰요금제","통신비","요금제비교","ESIM"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"숙소 예약 일방 취소 배상","roots":["숙박취소","숙소예약취소","숙박위약금"],"timeliness":3,"action":2,"format":"","penalty":0},
+ {"name":"블랙프라이데이·코리아세일페스타","roots":["블랙프라이데이","코리아세일페스타","블프"],"exclude":["무신사"],"timeliness":2,"action":2,"format":"calendar","penalty":0.5},
+ {"name":"독감·대상포진 예방접종","roots":["독감","대상포진"],"timeliness":3,"action":3,"format":"","penalty":0.5},
+ {"name":"수능 끝 운전면허 비용","roots":["운전면허"],"timeliness":2,"action":3,"format":"calculator","penalty":0.4},
+ {"name":"2027 달력·공휴일","roots":["2027달력","2027년달력","2027공휴일"],"timeliness":1,"action":2,"format":"calendar","penalty":0.5},
+ {"name":"IRP 연말 납입 세액공제","roots":["IRP","퇴직연금"],"timeliness":2,"action":3,"format":"calculator","penalty":0.4},
+ {"name":"월세 세액공제","roots":["월세세액공제"],"timeliness":1,"action":3,"format":"calculator","penalty":0},
+ {"name":"연봉 실수령액·월급 계산","roots":["연봉실수령액","월급계산기","연봉계산기"],"timeliness":1,"action":2,"format":"calculator","penalty":0.2},
+ {"name":"겨울방학 축제","roots":["산천어축제","빙어축제","겨울축제"],"timeliness":1,"action":2,"format":"calendar","penalty":0}
+]
