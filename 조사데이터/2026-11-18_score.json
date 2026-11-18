@@ -1,0 +1,784 @@
+[
+ {
+  "name": "증여세 면제한도·자녀 증여 계산",
+  "score": 88.4,
+  "demand": 139130,
+  "bid": 85360,
+  "longtail": 16,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "증여세",
+    "requests": 31360,
+    "bid": 12150
+   },
+   {
+    "keyword": "증여세세율",
+    "requests": 24930,
+    "bid": 2460
+   },
+   {
+    "keyword": "증여세면제한도",
+    "requests": 17020,
+    "bid": 1830
+   },
+   {
+    "keyword": "자녀증여한도",
+    "requests": 16190,
+    "bid": 2640
+   },
+   {
+    "keyword": "증여세계산기",
+    "requests": 12470,
+    "bid": 53660
+   },
+   {
+    "keyword": "증여세신고",
+    "requests": 7140,
+    "bid": 0
+   },
+   {
+    "keyword": "증여세신고방법",
+    "requests": 5650,
+    "bid": 0
+   },
+   {
+    "keyword": "증여세율",
+    "requests": 5430,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "2027 수능 당일·가채점·등급컷·성적 발표",
+  "score": 82.2,
+  "demand": 504270,
+  "bid": 8470,
+  "longtail": 14,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능일",
+    "requests": 198500,
+    "bid": 2610
+   },
+   {
+    "keyword": "수능시간표",
+    "requests": 115900,
+    "bid": 1360
+   },
+   {
+    "keyword": "수능디데이",
+    "requests": 106700,
+    "bid": 1760
+   },
+   {
+    "keyword": "수능시험",
+    "requests": 16160,
+    "bid": 1870
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 13080,
+    "bid": 1980
+   },
+   {
+    "keyword": "올해수능",
+    "requests": 12920,
+    "bid": 940
+   },
+   {
+    "keyword": "수능시간",
+    "requests": 12380,
+    "bid": 3130
+   },
+   {
+    "keyword": "수능등급컷",
+    "requests": 8480,
+    "bid": 7010
+   }
+  ]
+ },
+ {
+  "name": "IRP·연금저축 세액공제",
+  "score": 79.6,
+  "demand": 198770,
+  "bid": 14170,
+  "longtail": 12,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "퇴직연금",
+    "requests": 35400,
+    "bid": 14150
+   },
+   {
+    "keyword": "IRP계좌",
+    "requests": 31150,
+    "bid": 14170
+   },
+   {
+    "keyword": "연금저축",
+    "requests": 28010,
+    "bid": 8660
+   },
+   {
+    "keyword": "연금저축펀드",
+    "requests": 19180,
+    "bid": 0
+   },
+   {
+    "keyword": "IRP",
+    "requests": 16360,
+    "bid": 0
+   },
+   {
+    "keyword": "IRP퇴직연금",
+    "requests": 15640,
+    "bid": 0
+   },
+   {
+    "keyword": "IRP계좌개설",
+    "requests": 12900,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직연금수령방법",
+    "requests": 12310,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기·환급 계산",
+  "score": 78.9,
+  "demand": 169180,
+  "bid": 8970,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 69300,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산",
+    "requests": 51500,
+    "bid": 8970
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 13400,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 11930,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 8590,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산준비",
+    "requests": 7440,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 7020,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "정시 원서접수 일정",
+  "score": 76.8,
+  "demand": 34670,
+  "bid": 56380,
+  "longtail": 11,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "정시원서접수",
+    "requests": 9930,
+    "bid": 12080
+   },
+   {
+    "keyword": "정시",
+    "requests": 5160,
+    "bid": 0
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 4490,
+    "bid": 0
+   },
+   {
+    "keyword": "정시컨설팅",
+    "requests": 2240,
+    "bid": 56380
+   },
+   {
+    "keyword": "서울여대정시등급",
+    "requests": 1710,
+    "bid": 0
+   },
+   {
+    "keyword": "정시3등급대학",
+    "requests": 1630,
+    "bid": 0
+   },
+   {
+    "keyword": "정시가나다군",
+    "requests": 1420,
+    "bid": 0
+   },
+   {
+    "keyword": "정시일정",
+    "requests": 1240,
+    "bid": 5800
+   }
+  ]
+ },
+ {
+  "name": "국가장학금 신청 기간",
+  "score": 75.1,
+  "demand": 70200,
+  "bid": 1210,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "국가장학금",
+    "requests": 57700,
+    "bid": 70
+   },
+   {
+    "keyword": "국가장학금신청기간",
+    "requests": 12230,
+    "bid": 70
+   },
+   {
+    "keyword": "국가장학금1차",
+    "requests": 270,
+    "bid": 1210
+   }
+  ]
+ },
+ {
+  "name": "에너지바우처 대상·신청",
+  "score": 74.7,
+  "demand": 96315,
+  "bid": 4670,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "에너지바우처",
+    "requests": 76100,
+    "bid": 230
+   },
+   {
+    "keyword": "에너지바우처대상",
+    "requests": 8540,
+    "bid": 180
+   },
+   {
+    "keyword": "에너지바우처신청",
+    "requests": 7650,
+    "bid": 70
+   },
+   {
+    "keyword": "난방비지원",
+    "requests": 3360,
+    "bid": 4670
+   },
+   {
+    "keyword": "난방바우처",
+    "requests": 170,
+    "bid": 160
+   },
+   {
+    "keyword": "에너지바우처조회",
+    "requests": 150,
+    "bid": 110
+   },
+   {
+    "keyword": "난방비지원금신청",
+    "requests": 130,
+    "bid": 390
+   },
+   {
+    "keyword": "난방비지원신청",
+    "requests": 110,
+    "bid": 920
+   }
+  ]
+ },
+ {
+  "name": "수능 선물·수험생 할인",
+  "score": 74.6,
+  "demand": 239260,
+  "bid": 9110,
+  "longtail": 7,
+  "timeliness": 3,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "수능선물",
+    "requests": 138700,
+    "bid": 3350
+   },
+   {
+    "keyword": "수능선물추천",
+    "requests": 41080,
+    "bid": 9110
+   },
+   {
+    "keyword": "수능선물세트",
+    "requests": 17730,
+    "bid": 3990
+   },
+   {
+    "keyword": "수능응원선물",
+    "requests": 16070,
+    "bid": 2890
+   },
+   {
+    "keyword": "수험생할인",
+    "requests": 12310,
+    "bid": 1910
+   },
+   {
+    "keyword": "수험생선물",
+    "requests": 10770,
+    "bid": 3050
+   },
+   {
+    "keyword": "수능이벤트",
+    "requests": 2170,
+    "bid": 1840
+   },
+   {
+    "keyword": "수험생할인핸드폰",
+    "requests": 180,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진 예방접종",
+  "score": 74.5,
+  "demand": 538760,
+  "bid": 77680,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 219000,
+    "bid": 3710
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 107600,
+    "bid": 77680
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 79110,
+    "bid": 4110
+   },
+   {
+    "keyword": "독감",
+    "requests": 60000,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 36890,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 36160,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "근로장려금 기한 후 신청 12/1 마감",
+  "score": 71.6,
+  "demand": 107795,
+  "bid": 710,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "근로장려금",
+    "requests": 88500,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금대상",
+    "requests": 10650,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금신청방법",
+    "requests": 2750,
+    "bid": 160
+   },
+   {
+    "keyword": "근로장려금조건",
+    "requests": 1960,
+    "bid": 190
+   },
+   {
+    "keyword": "국세청근로장려금상담센터",
+    "requests": 680,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금계산기",
+    "requests": 530,
+    "bid": 190
+   },
+   {
+    "keyword": "홈택스근로장려금신청",
+    "requests": 260,
+    "bid": 710
+   },
+   {
+    "keyword": "소상공인근로장려금",
+    "requests": 230,
+    "bid": 100
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이·코리아세일페스타",
+  "score": 71.3,
+  "demand": 442510,
+  "bid": 1300,
+  "longtail": 12,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 311900,
+    "bid": 940
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 29990,
+    "bid": 1100
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 23490,
+    "bid": 1300
+   },
+   {
+    "keyword": "블프",
+    "requests": 23320,
+    "bid": 1220
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 22330,
+    "bid": 690
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 11130,
+    "bid": 0
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 4410,
+    "bid": 0
+   },
+   {
+    "keyword": "삼성전자블랙프라이데이",
+    "requests": 4160,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "대출 이자 계산",
+  "score": 71.2,
+  "demand": 704230,
+  "bid": 9100,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 327700,
+    "bid": 2660
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 271700,
+    "bid": 2300
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 42300,
+    "bid": 2490
+   },
+   {
+    "keyword": "신용대출",
+    "requests": 32840,
+    "bid": 9100
+   },
+   {
+    "keyword": "대출금리",
+    "requests": 19030,
+    "bid": 5960
+   },
+   {
+    "keyword": "신용대출금리",
+    "requests": 6410,
+    "bid": 0
+   },
+   {
+    "keyword": "개인신용대출",
+    "requests": 4250,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "만보기·걷기 앱테크",
+  "score": 70.9,
+  "demand": 23640,
+  "bid": 13380,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "만보기",
+    "requests": 6770,
+    "bid": 0
+   },
+   {
+    "keyword": "앱테크",
+    "requests": 5470,
+    "bid": 2310
+   },
+   {
+    "keyword": "만보기어플",
+    "requests": 3430,
+    "bid": 2420
+   },
+   {
+    "keyword": "앱테크추천",
+    "requests": 3280,
+    "bid": 13380
+   },
+   {
+    "keyword": "걷기어플",
+    "requests": 1710,
+    "bid": 450
+   },
+   {
+    "keyword": "만보기앱",
+    "requests": 1080,
+    "bid": 0
+   },
+   {
+    "keyword": "만보기앱테크",
+    "requests": 1020,
+    "bid": 400
+   },
+   {
+    "keyword": "걷기앱테크",
+    "requests": 430,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "해외직구 알리·테무 환불",
+  "score": 63.9,
+  "demand": 63120,
+  "bid": 3840,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "타오바오직구방법",
+    "requests": 23870,
+    "bid": 2760
+   },
+   {
+    "keyword": "아마존직구",
+    "requests": 16690,
+    "bid": 1630
+   },
+   {
+    "keyword": "해외직구",
+    "requests": 8110,
+    "bid": 3840
+   },
+   {
+    "keyword": "직구",
+    "requests": 3780,
+    "bid": 0
+   },
+   {
+    "keyword": "직구사이트",
+    "requests": 3480,
+    "bid": 0
+   },
+   {
+    "keyword": "해외직구사이트",
+    "requests": 3300,
+    "bid": 0
+   },
+   {
+    "keyword": "타오바오직구",
+    "requests": 3190,
+    "bid": 0
+   },
+   {
+    "keyword": "알리익스프레스환불",
+    "requests": 700,
+    "bid": 270
+   }
+  ]
+ },
+ {
+  "name": "송년회·크리스마스",
+  "score": 59.1,
+  "demand": 328940,
+  "bid": 27700,
+  "longtail": 13,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "크리스마스",
+    "requests": 77100,
+    "bid": 1040
+   },
+   {
+    "keyword": "크리스마스장식",
+    "requests": 42000,
+    "bid": 2150
+   },
+   {
+    "keyword": "파티룸",
+    "requests": 40750,
+    "bid": 1650
+   },
+   {
+    "keyword": "크리스마스리스",
+    "requests": 29210,
+    "bid": 0
+   },
+   {
+    "keyword": "송년회",
+    "requests": 23450,
+    "bid": 27700
+   },
+   {
+    "keyword": "크리스마스선물",
+    "requests": 18290,
+    "bid": 0
+   },
+   {
+    "keyword": "서울파티룸",
+    "requests": 14870,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스트리장식",
+    "requests": 14400,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "건강보험료 조회·환급",
+  "score": 58.3,
+  "demand": 50440,
+  "bid": 33920,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "건강보험료",
+    "requests": 20230,
+    "bid": 17230
+   },
+   {
+    "keyword": "건강보험료조회",
+    "requests": 12910,
+    "bid": 17830
+   },
+   {
+    "keyword": "건강보험료계산",
+    "requests": 6540,
+    "bid": 0
+   },
+   {
+    "keyword": "건강보험요율",
+    "requests": 5150,
+    "bid": 33920
+   },
+   {
+    "keyword": "건강보험료환급금조회",
+    "requests": 2960,
+    "bid": 1020
+   },
+   {
+    "keyword": "건강보험료인상",
+    "requests": 2130,
+    "bid": 6750
+   },
+   {
+    "keyword": "지역가입자건강보험료",
+    "requests": 520,
+    "bid": 3880
+   }
+  ]
+ }
+]
