@@ -1,0 +1,795 @@
+[
+ {
+  "name": "주담대 금리·대출 이자 계산 (코픽스 3.62%)",
+  "score": 98.5,
+  "demand": 1086900,
+  "bid": 26030,
+  "longtail": 21,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 321200,
+    "bid": 2630
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 265700,
+    "bid": 2280
+   },
+   {
+    "keyword": "이자계산기",
+    "requests": 169000,
+    "bid": 2000
+   },
+   {
+    "keyword": "주택담보대출",
+    "requests": 83900,
+    "bid": 26030
+   },
+   {
+    "keyword": "금리계산기",
+    "requests": 44780,
+    "bid": 4920
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 41200,
+    "bid": 2470
+   },
+   {
+    "keyword": "주담대금리",
+    "requests": 30410,
+    "bid": 3920
+   },
+   {
+    "keyword": "주택담보대출계산기",
+    "requests": 28710,
+    "bid": 3460
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추",
+  "score": 90.8,
+  "demand": 706130,
+  "bid": 4950,
+  "longtail": 29,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추20KG",
+    "requests": 140000,
+    "bid": 3430
+   },
+   {
+    "keyword": "절임배추",
+    "requests": 119700,
+    "bid": 4950
+   },
+   {
+    "keyword": "배추",
+    "requests": 41130,
+    "bid": 600
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 31590,
+    "bid": 2400
+   },
+   {
+    "keyword": "괴산절임배추20KG",
+    "requests": 28930,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 27290,
+    "bid": 0
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 26320,
+    "bid": 0
+   },
+   {
+    "keyword": "배추김치",
+    "requests": 23050,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수능 등급컷·성적 통지",
+  "score": 79.3,
+  "demand": 667470,
+  "bid": 11960,
+  "longtail": 8,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능등급컷",
+    "requests": 372400,
+    "bid": 6940
+   },
+   {
+    "keyword": "수능답지",
+    "requests": 146010,
+    "bid": 330
+   },
+   {
+    "keyword": "수능난이도",
+    "requests": 98100,
+    "bid": 1030
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 23100,
+    "bid": 0
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 12500,
+    "bid": 11960
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 7200,
+    "bid": 1450
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 5350,
+    "bid": 10670
+   },
+   {
+    "keyword": "수능성적발표",
+    "requests": 2810,
+    "bid": 8390
+   }
+  ]
+ },
+ {
+  "name": "블랙프라이데이 기간 11/27",
+  "score": 79.0,
+  "demand": 464550,
+  "bid": 1280,
+  "longtail": 12,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "블랙프라이데이",
+    "requests": 332200,
+    "bid": 940
+   },
+   {
+    "keyword": "코리아세일페스타",
+    "requests": 29640,
+    "bid": 1090
+   },
+   {
+    "keyword": "블프",
+    "requests": 25580,
+    "bid": 1200
+   },
+   {
+    "keyword": "블프기간",
+    "requests": 24910,
+    "bid": 1280
+   },
+   {
+    "keyword": "블랙프라이데이기간",
+    "requests": 21720,
+    "bid": 690
+   },
+   {
+    "keyword": "한국블랙프라이데이",
+    "requests": 10780,
+    "bid": 0
+   },
+   {
+    "keyword": "미국블랙프라이데이",
+    "requests": 4510,
+    "bid": 0
+   },
+   {
+    "keyword": "LG블랙프라이데이",
+    "requests": 4190,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "전세대출·청년전세대출",
+  "score": 78.5,
+  "demand": 201970,
+  "bid": 13110,
+  "longtail": 14,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전세대출",
+    "requests": 46400,
+    "bid": 2910
+   },
+   {
+    "keyword": "청년전세대출",
+    "requests": 37260,
+    "bid": 2760
+   },
+   {
+    "keyword": "전세자금대출",
+    "requests": 27430,
+    "bid": 2580
+   },
+   {
+    "keyword": "신혼부부전세대출",
+    "requests": 19920,
+    "bid": 13110
+   },
+   {
+    "keyword": "전세대출조건",
+    "requests": 16430,
+    "bid": 0
+   },
+   {
+    "keyword": "전세자금대출한도",
+    "requests": 10790,
+    "bid": 0
+   },
+   {
+    "keyword": "전세대출금리",
+    "requests": 8830,
+    "bid": 0
+   },
+   {
+    "keyword": "전세대출이자계산기",
+    "requests": 7950,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "건강검진 연말 마감",
+  "score": 78.2,
+  "demand": 189160,
+  "bid": 11840,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 100500,
+    "bid": 11840
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 66100,
+    "bid": 4580
+   },
+   {
+    "keyword": "건강검진센터",
+    "requests": 22560,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기",
+  "score": 76.6,
+  "demand": 104120,
+  "bid": 8880,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산",
+    "requests": 54800,
+    "bid": 8880
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 14200,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 12000,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 8580,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산준비",
+    "requests": 7430,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 7110,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연봉 실수령액",
+  "score": 76.1,
+  "demand": 554100,
+  "bid": 7490,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연봉계산기",
+    "requests": 326200,
+    "bid": 210
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 101500,
+    "bid": 5960
+   },
+   {
+    "keyword": "연봉실수령액",
+    "requests": 67800,
+    "bid": 160
+   },
+   {
+    "keyword": "급여계산기",
+    "requests": 58600,
+    "bid": 7490
+   }
+  ]
+ },
+ {
+  "name": "겨울 차량 준비 (윈터타이어·스노우체인·부동액)",
+  "score": 75.8,
+  "demand": 64580,
+  "bid": 42890,
+  "longtail": 10,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "부동액",
+    "requests": 22230,
+    "bid": 42890
+   },
+   {
+    "keyword": "윈터타이어",
+    "requests": 14130,
+    "bid": 4570
+   },
+   {
+    "keyword": "스노우체인",
+    "requests": 9680,
+    "bid": 4950
+   },
+   {
+    "keyword": "스노우타이어",
+    "requests": 4760,
+    "bid": 4130
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 4010,
+    "bid": 2010
+   },
+   {
+    "keyword": "자동차스노우체인",
+    "requests": 2450,
+    "bid": 0
+   },
+   {
+    "keyword": "블랙아이스",
+    "requests": 2100,
+    "bid": 70
+   },
+   {
+    "keyword": "스노우타이어가격",
+    "requests": 1470,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감·대상포진",
+  "score": 74.3,
+  "demand": 499650,
+  "bid": 76900,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 189900,
+    "bid": 3670
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 105300,
+    "bid": 76900
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 77080,
+    "bid": 4070
+   },
+   {
+    "keyword": "독감",
+    "requests": 60100,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 33760,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 33510,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "퇴직금 계산",
+  "score": 74.1,
+  "demand": 387790,
+  "bid": 13440,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "퇴직금계산기",
+    "requests": 277200,
+    "bid": 1200
+   },
+   {
+    "keyword": "퇴직금지급기준",
+    "requests": 35080,
+    "bid": 4180
+   },
+   {
+    "keyword": "퇴직금계산",
+    "requests": 28000,
+    "bid": 3620
+   },
+   {
+    "keyword": "퇴직금",
+    "requests": 25040,
+    "bid": 13440
+   },
+   {
+    "keyword": "퇴직금중간정산",
+    "requests": 12990,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금세금",
+    "requests": 9480,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수험생 할인·수능 끝 혜택",
+  "score": 72.9,
+  "demand": 29250,
+  "bid": 1890,
+  "longtail": 2,
+  "timeliness": 3,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "수험생할인",
+    "requests": 24860,
+    "bid": 1890
+   },
+   {
+    "keyword": "수능할인",
+    "requests": 3660,
+    "bid": 1000
+   },
+   {
+    "keyword": "수험생할인핸드폰",
+    "requests": 280,
+    "bid": 0
+   },
+   {
+    "keyword": "갤럭시수험생할인",
+    "requests": 270,
+    "bid": 0
+   },
+   {
+    "keyword": "수험생할인아이폰",
+    "requests": 130,
+    "bid": 0
+   },
+   {
+    "keyword": "휴대폰수능할인",
+    "requests": 50,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 방지",
+  "score": 70.2,
+  "demand": 16990,
+  "bid": 12730,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 7100,
+    "bid": 12550
+   },
+   {
+    "keyword": "해빙",
+    "requests": 2890,
+    "bid": 3790
+   },
+   {
+    "keyword": "보일러고장",
+    "requests": 1560,
+    "bid": 1350
+   },
+   {
+    "keyword": "동파",
+    "requests": 1360,
+    "bid": 12730
+   },
+   {
+    "keyword": "스팀해빙기",
+    "requests": 1300,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 1240,
+    "bid": 0
+   },
+   {
+    "keyword": "해빙기",
+    "requests": 1220,
+    "bid": 0
+   },
+   {
+    "keyword": "보일러동파",
+    "requests": 320,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "종부세·양도세",
+  "score": 69.4,
+  "demand": 83290,
+  "bid": 6550,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "양도소득세",
+    "requests": 20560,
+    "bid": 6550
+   },
+   {
+    "keyword": "양도소득세계산기",
+    "requests": 18930,
+    "bid": 860
+   },
+   {
+    "keyword": "종부세",
+    "requests": 16310,
+    "bid": 0
+   },
+   {
+    "keyword": "양도소득세세율",
+    "requests": 7650,
+    "bid": 0
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 7270,
+    "bid": 1310
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 6540,
+    "bid": 0
+   },
+   {
+    "keyword": "양도소득세율",
+    "requests": 5850,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세납부",
+    "requests": 180,
+    "bid": 1590
+   }
+  ]
+ },
+ {
+  "name": "청약 가점 계산",
+  "score": 67.8,
+  "demand": 49360,
+  "bid": 1230,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "청약",
+    "requests": 42400,
+    "bid": 1230
+   },
+   {
+    "keyword": "청약일정",
+    "requests": 6300,
+    "bid": 0
+   },
+   {
+    "keyword": "청약가점",
+    "requests": 540,
+    "bid": 430
+   },
+   {
+    "keyword": "청약가점계산",
+    "requests": 120,
+    "bid": 270
+   }
+  ]
+ },
+ {
+  "name": "12월 달력·공휴일",
+  "score": 67.1,
+  "demand": 165420,
+  "bid": 600,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "12월달력",
+    "requests": 138200,
+    "bid": 550
+   },
+   {
+    "keyword": "1월달력",
+    "requests": 25200,
+    "bid": 600
+   },
+   {
+    "keyword": "12월공휴일",
+    "requests": 2020,
+    "bid": 470
+   }
+  ]
+ },
+ {
+  "name": "국가장학금 신청",
+  "score": 60.8,
+  "demand": 59600,
+  "bid": 70,
+  "longtail": 1,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "국가장학금",
+    "requests": 59600,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "축의금 금액·결혼식 식대",
+  "score": 55.6,
+  "demand": 13780,
+  "bid": 520,
+  "longtail": 1,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "축의금",
+    "requests": 13370,
+    "bid": 70
+   },
+   {
+    "keyword": "축의금금액",
+    "requests": 410,
+    "bid": 520
+   }
+  ]
+ },
+ {
+  "name": "크리스마스·연말 나들이",
+  "score": 53.7,
+  "demand": 287170,
+  "bid": 2130,
+  "longtail": 11,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "크리스마스",
+    "requests": 84100,
+    "bid": 1040
+   },
+   {
+    "keyword": "크리스마스장식",
+    "requests": 46500,
+    "bid": 2130
+   },
+   {
+    "keyword": "크리스마스리스",
+    "requests": 32760,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스선물",
+    "requests": 21340,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스소품",
+    "requests": 15750,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스트리장식",
+    "requests": 15480,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스오너먼트",
+    "requests": 15330,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스공연",
+    "requests": 15140,
+    "bid": 0
+   }
+  ]
+ }
+]

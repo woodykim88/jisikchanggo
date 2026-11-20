@@ -1,0 +1,21 @@
+[
+ {"name":"주담대 금리·대출 이자 계산 (코픽스 3.62%)","roots":["대출이자계산","대출계산기","이자계산기","주담대금리","주택담보대출","대출금리","코픽스","금리계산기"],"exclude":["DTI"],"timeliness":3,"action":3,"format":"calculator","penalty":0},
+ {"name":"수능 등급컷·성적 통지","roots":["수능등급컷","수능성적","수능답지","수능난이도","수능일정","정시원서접수"],"exclude":["2024","2025"],"timeliness":3,"action":2,"format":"calendar","penalty":0.6},
+ {"name":"수험생 할인·수능 끝 혜택","roots":["수험생할인","수능할인","수험생혜택"],"timeliness":3,"action":3,"format":"","penalty":0},
+ {"name":"블랙프라이데이 기간 11/27","roots":["블랙프라이데이","블프","코리아세일페스타"],"exclude":["무신사","나이키","삼성"],"timeliness":3,"action":2,"format":"calendar","penalty":0.3},
+ {"name":"김장 시기·절임배추","roots":["김장","절임배추","배추"],"exclude":["해남"],"timeliness":2,"action":3,"format":"calendar","penalty":0},
+ {"name":"연봉 실수령액","roots":["연봉실수령액","연봉계산기","월급계산기","급여계산기"],"exclude":["실업급여"],"timeliness":1,"action":3,"format":"calculator","penalty":0},
+ {"name":"퇴직금 계산","roots":["퇴직금"],"timeliness":1,"action":3,"format":"calculator","penalty":0.3},
+ {"name":"12월 달력·공휴일","roots":["12월달력","12월공휴일","1월달력"],"timeliness":2,"action":2,"format":"calendar","penalty":0.2},
+ {"name":"축의금 금액·결혼식 식대","roots":["축의금"],"timeliness":2,"action":2,"format":"","penalty":0},
+ {"name":"청약 가점 계산","roots":["청약가점","청약"],"exclude":["주택청약"],"timeliness":2,"action":2,"format":"calculator","penalty":0},
+ {"name":"전세대출·청년전세대출","roots":["전세대출","전세자금대출","청년전세대출"],"timeliness":2,"action":2,"format":"calculator","penalty":0},
+ {"name":"겨울 차량 준비 (윈터타이어·스노우체인·부동액)","roots":["윈터타이어","스노우체인","스노우타이어","부동액","블랙아이스"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"수도 동파 방지","roots":["동파","해빙","보일러고장"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"건강검진 연말 마감","roots":["건강검진"],"timeliness":2,"action":3,"format":"calendar","penalty":0.3},
+ {"name":"연말정산 미리보기","roots":["연말정산"],"timeliness":2,"action":3,"format":"calculator","penalty":0.4},
+ {"name":"국가장학금 신청","roots":["국가장학금"],"timeliness":1,"action":3,"format":"calendar","penalty":0.2},
+ {"name":"종부세·양도세","roots":["종부세","종합부동산세","양도소득세"],"timeliness":2,"action":2,"format":"calculator","penalty":0.4},
+ {"name":"크리스마스·연말 나들이","roots":["크리스마스"],"timeliness":1,"action":1,"format":"","penalty":0},
+ {"name":"독감·대상포진","roots":["독감","대상포진"],"timeliness":2,"action":3,"format":"","penalty":0.5}
+]
