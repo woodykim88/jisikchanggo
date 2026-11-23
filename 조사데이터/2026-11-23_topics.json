@@ -1,0 +1,22 @@
+[
+ {"name":"퇴직금 계산 (연말 퇴사)","roots":["퇴직금"],"exclude":["퇴직연금"],"timeliness":1,"action":3,"format":"calculator","penalty":0.2},
+ {"name":"실업급여 계산·신청","roots":["실업급여"],"exclude":["부정수급"],"timeliness":1,"action":3,"format":"calculator","penalty":0.3},
+ {"name":"수능 등급컷·성적 통지·정시","roots":["수능등급컷","수능성적","수능등급","정시원서접수","정시4등급","정시3등급","배치표","수능예상등급컷","수능국어등급컷"],"exclude":["2024","2025"],"timeliness":3,"action":2,"format":"calendar","penalty":0.6},
+ {"name":"연말정산 미리보기·환급","roots":["연말정산"],"timeliness":2,"action":3,"format":"calculator","penalty":0.5},
+ {"name":"블랙프라이데이 기간 11/27","roots":["블랙프라이데이","블프","코리아세일페스타"],"exclude":["무신사","나이키","삼성"],"timeliness":3,"action":2,"format":"calendar","penalty":0.3},
+ {"name":"김장 시기·절임배추","roots":["김장","절임배추","배추","깍두기","갓김치"],"exclude":["해남"],"timeliness":2,"action":3,"format":"calendar","penalty":0.3},
+ {"name":"독감 유행·예방접종 (입원 1000명)","roots":["독감","대상포진"],"timeliness":3,"action":3,"format":"","penalty":0.5},
+ {"name":"국가장학금 1학기 신청","roots":["국가장학금"],"timeliness":1,"action":3,"format":"calendar","penalty":0.2},
+ {"name":"국민연금 유족연금 선택 (중복급여)","roots":["유족연금","노령연금","국민연금"],"timeliness":3,"action":3,"format":"","penalty":0},
+ {"name":"생계급여 기준 확대","roots":["생계급여"],"timeliness":3,"action":2,"format":"","penalty":0.7},
+ {"name":"난방기 전기요금","roots":["전기히터","온풍기","전기난로","발난로","난로"],"exclude":["오방"],"timeliness":2,"action":2,"format":"calculator","penalty":0.3},
+ {"name":"수도 동파 방지","roots":["동파","해빙"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"12월 달력·공휴일","roots":["12월달력","12월공휴일","1월달력"],"timeliness":2,"action":2,"format":"calendar","penalty":0.3},
+ {"name":"크리스마스·송년회","roots":["크리스마스","송년회"],"timeliness":1,"action":1,"format":"","penalty":0},
+ {"name":"건강검진 12/31 마감","roots":["건강검진"],"timeliness":2,"action":3,"format":"calendar","penalty":0.5},
+ {"name":"자동차세 연납","roots":["자동차세"],"timeliness":1,"action":3,"format":"calculator","penalty":0},
+ {"name":"기름값·유류세","roots":["기름값","유류세"],"timeliness":2,"action":2,"format":"","penalty":0},
+ {"name":"12월 아파트 입주·청약","roots":["청약","분양가상한제","아파트분양"],"exclude":["주택청약"],"timeliness":2,"action":1,"format":"","penalty":0},
+ {"name":"계란 등급 표기 변경","roots":["계란등급"],"timeliness":2,"action":2,"format":"","penalty":0},
+ {"name":"시급·주휴수당 계산","roots":["시급계산기","주휴수당","최저임금"],"timeliness":1,"action":3,"format":"calculator","penalty":0.4}
+]

@@ -22,7 +22,7 @@ source scripts/notify.sh
     notify "⚠️ 네이버 검색광고 API 확인 실패(코드 $code). 로그: $LOG"
     exit 0
   fi
-  out=$(claude -p "$(cat scripts/research_prompt.md)" --model opus --max-budget-usd 8 --no-session-persistence \
+  out=$(claude-auto -p "$(cat scripts/research_prompt.md)" --model opus --max-budget-usd 8 --no-session-persistence \
     --strict-mcp-config --disable-slash-commands \
     --allowedTools "Read" "Glob" "Grep" "Edit(./**)" "WebFetch" "WebSearch" \
       "Bash(python3 scripts/*)" "Bash(python3 ./scripts/*)" \
