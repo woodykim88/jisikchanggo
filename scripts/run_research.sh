@@ -16,10 +16,10 @@ source scripts/notify.sh
   python3 scripts/naver_keywords.py --check
   code=$?
   if [ $code -eq 3 ]; then
-    notify "⚠️ 네이버 검색광고 API 키 문제로 조사를 건너뜁니다. 로그: $LOG"
+    notify fail "⚠️ 네이버 검색광고 API 키 문제로 조사를 건너뜁니다. 로그: $LOG"
     exit 0
   elif [ $code -ne 0 ]; then
-    notify "⚠️ 네이버 검색광고 API 확인 실패(코드 $code). 로그: $LOG"
+    notify warn "⚠️ 네이버 검색광고 API 확인 실패(코드 $code). 로그: $LOG"
     exit 0
   fi
   out=$(claude-auto -p "$(cat scripts/research_prompt.md)" --model opus --max-budget-usd 8 --no-session-persistence \
@@ -31,9 +31,9 @@ source scripts/notify.sh
   status=$?
   echo "$out"
   if [ $status -eq 0 ]; then
-    notify "✅ $(echo "$out" | tail -8)"
+    notify ok "✅ $(echo "$out" | tail -8)"
   else
-    notify "❌ 조사 실패(코드 $status). $(echo "$out" | tail -3)"
+    notify fail "❌ 조사 실패(코드 $status). $(echo "$out" | tail -3)"
   fi
   echo "=== $(date '+%F %T') 끝 (코드 $status)"
 } >> "$LOG" 2>&1

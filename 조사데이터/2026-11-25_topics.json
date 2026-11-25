@@ -1,0 +1,22 @@
+[
+ {"name":"모두의카드·K패스 환급 (청소년 확대)","roots":["모두의카드","K패스","케이패스","기후동행카드"],"exclude":["롯데"],"timeliness":3,"action":3,"format":"calculator","penalty":0.1},
+ {"name":"주담대 금리 5%·대출 이자 계산","roots":["대출계산기","대출이자","이자계산기","금리계산기","주택담보대출","주담대","대출금리"],"exclude":["사업자"],"timeliness":3,"action":3,"format":"calculator","penalty":0.4},
+ {"name":"김장 시기·절임배추 양","roots":["김장","절임배추","깍두기","갓김치"],"timeliness":2,"action":3,"format":"calendar","penalty":0.4},
+ {"name":"수능 성적 통지·정시 원서접수","roots":["수능등급컷","수능성적","정시원서접수","정시4등급","정시3등급","수능일정"],"exclude":["2025"],"timeliness":3,"action":2,"format":"calendar","penalty":0.4},
+ {"name":"문화누리카드 잔액·연말 사용","roots":["문화누리"],"timeliness":3,"action":3,"format":"calendar","penalty":0.1},
+ {"name":"연차 개수·미사용 연차수당","roots":["연차계산기","연차수당","연차발생","연차개수"],"timeliness":2,"action":3,"format":"calculator","penalty":0.1},
+ {"name":"난방기 전기요금","roots":["전기히터","온풍기","전기난로","히터","오방난로"],"exclude":["욕실"],"timeliness":2,"action":2,"format":"calculator","penalty":0.5},
+ {"name":"퇴직금 계산 (연말 퇴사)","roots":["퇴직금"],"exclude":["퇴직연금"],"timeliness":1,"action":3,"format":"calculator","penalty":0.4},
+ {"name":"12월 달력·공휴일","roots":["12월달력","12월공휴일","1월달력","2027공휴일"],"timeliness":2,"action":2,"format":"calendar","penalty":0.3},
+ {"name":"독감 유행·예방접종","roots":["독감","대상포진"],"timeliness":2,"action":3,"format":"","penalty":0.6},
+ {"name":"건강검진 12/31 마감","roots":["건강검진"],"timeliness":2,"action":3,"format":"calendar","penalty":0.6},
+ {"name":"동지 팥죽 12/22","roots":["동지","동짓날","팥죽"],"timeliness":1,"action":1,"format":"calendar","penalty":0},
+ {"name":"윈터타이어·겨울 타이어 교체","roots":["윈터타이어","타이어교체"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"수도 동파 방지","roots":["동파","해빙"],"timeliness":2,"action":3,"format":"","penalty":0},
+ {"name":"자동차보험 겨울 손해율·갱신","roots":["자동차보험"],"exclude":["KB","캐롯","케이비"],"timeliness":1,"action":2,"format":"","penalty":0},
+ {"name":"녹내장 (40대 이하 실손)","roots":["녹내장","황반변성"],"timeliness":1,"action":2,"format":"","penalty":0},
+ {"name":"크리스마스·송년회","roots":["크리스마스","송년회","망년회"],"timeliness":1,"action":1,"format":"","penalty":0},
+ {"name":"겨울방학·겨울축제","roots":["겨울축제","산천어축제","빙어축제"],"timeliness":1,"action":2,"format":"calendar","penalty":0},
+ {"name":"출산지원금·국민행복카드 (출생아 증가)","roots":["출산지원금","국민행복카드","임신바우처","부모급여"],"timeliness":2,"action":2,"format":"","penalty":0},
+ {"name":"도시가스 요금","roots":["도시가스요금","도시가스신청"],"timeliness":1,"action":2,"format":"","penalty":0}
+]

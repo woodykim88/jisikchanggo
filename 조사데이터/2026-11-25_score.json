@@ -1,0 +1,892 @@
+[
+ {
+  "name": "주담대 금리 5%·대출 이자 계산",
+  "score": 96.3,
+  "demand": 1103260,
+  "bid": 33130,
+  "longtail": 25,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 316900,
+    "bid": 2690
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 261900,
+    "bid": 2260
+   },
+   {
+    "keyword": "이자계산기",
+    "requests": 166600,
+    "bid": 1970
+   },
+   {
+    "keyword": "주택담보대출",
+    "requests": 83200,
+    "bid": 33130
+   },
+   {
+    "keyword": "금리계산기",
+    "requests": 44230,
+    "bid": 4580
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 40800,
+    "bid": 2490
+   },
+   {
+    "keyword": "주담대금리",
+    "requests": 29310,
+    "bid": 4390
+   },
+   {
+    "keyword": "주택담보대출계산기",
+    "requests": 27860,
+    "bid": 3500
+   }
+  ]
+ },
+ {
+  "name": "모두의카드·K패스 환급 (청소년 확대)",
+  "score": 91.8,
+  "demand": 573520,
+  "bid": 5110,
+  "longtail": 16,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "K패스",
+    "requests": 198300,
+    "bid": 3100
+   },
+   {
+    "keyword": "모두의카드",
+    "requests": 174200,
+    "bid": 900
+   },
+   {
+    "keyword": "K패스교통카드",
+    "requests": 53380,
+    "bid": 5110
+   },
+   {
+    "keyword": "케이패스",
+    "requests": 40700,
+    "bid": 2010
+   },
+   {
+    "keyword": "기후동행카드",
+    "requests": 33190,
+    "bid": 680
+   },
+   {
+    "keyword": "K패스환급",
+    "requests": 22100,
+    "bid": 570
+   },
+   {
+    "keyword": "모두의카드환급",
+    "requests": 15870,
+    "bid": 420
+   },
+   {
+    "keyword": "K패스등록",
+    "requests": 11340,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추 양",
+  "score": 85.4,
+  "demand": 790850,
+  "bid": 4950,
+  "longtail": 24,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추20KG",
+    "requests": 157100,
+    "bid": 3000
+   },
+   {
+    "keyword": "절임배추",
+    "requests": 129300,
+    "bid": 4950
+   },
+   {
+    "keyword": "깍두기담그기",
+    "requests": 55550,
+    "bid": 140
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 38260,
+    "bid": 2530
+   },
+   {
+    "keyword": "갓김치",
+    "requests": 35810,
+    "bid": 1530
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 35580,
+    "bid": 750
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 30770,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 28470,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "문화누리카드 잔액·연말 사용",
+  "score": 83.7,
+  "demand": 246310,
+  "bid": 550,
+  "longtail": 8,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "문화누리카드",
+    "requests": 144300,
+    "bid": 180
+   },
+   {
+    "keyword": "문화누리카드사용처",
+    "requests": 54040,
+    "bid": 550
+   },
+   {
+    "keyword": "문화누리카드온라인",
+    "requests": 10540,
+    "bid": 350
+   },
+   {
+    "keyword": "문화누리카드잔액",
+    "requests": 9120,
+    "bid": 300
+   },
+   {
+    "keyword": "문화누리사용처",
+    "requests": 6720,
+    "bid": 360
+   },
+   {
+    "keyword": "문화누리카드온라인사용처",
+    "requests": 6180,
+    "bid": 420
+   },
+   {
+    "keyword": "문화누리카드신청",
+    "requests": 5280,
+    "bid": 280
+   },
+   {
+    "keyword": "문화누리카드가맹점",
+    "requests": 4980,
+    "bid": 530
+   }
+  ]
+ },
+ {
+  "name": "수능 성적 통지·정시 원서접수",
+  "score": 81.8,
+  "demand": 764590,
+  "bid": 11560,
+  "longtail": 9,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능등급컷",
+    "requests": 675400,
+    "bid": 6320
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 24600,
+    "bid": 1970
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 21330,
+    "bid": 11110
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 13720,
+    "bid": 1290
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 9360,
+    "bid": 10180
+   },
+   {
+    "keyword": "수능성적발표",
+    "requests": 6200,
+    "bid": 5010
+   },
+   {
+    "keyword": "정시4등급대학",
+    "requests": 6130,
+    "bid": 11560
+   },
+   {
+    "keyword": "정시3등급대학",
+    "requests": 5940,
+    "bid": 7160
+   }
+  ]
+ },
+ {
+  "name": "난방기 전기요금",
+  "score": 78.7,
+  "demand": 740810,
+  "bid": 20440,
+  "longtail": 20,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전기히터",
+    "requests": 131300,
+    "bid": 14060
+   },
+   {
+    "keyword": "온풍기",
+    "requests": 121500,
+    "bid": 7760
+   },
+   {
+    "keyword": "가정용온풍기",
+    "requests": 78600,
+    "bid": 1460
+   },
+   {
+    "keyword": "전기난로",
+    "requests": 52900,
+    "bid": 20440
+   },
+   {
+    "keyword": "히터",
+    "requests": 50600,
+    "bid": 10950
+   },
+   {
+    "keyword": "오방난로",
+    "requests": 39560,
+    "bid": 1290
+   },
+   {
+    "keyword": "가정용전기히터",
+    "requests": 27110,
+    "bid": 1800
+   },
+   {
+    "keyword": "신일히터",
+    "requests": 24730,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연차 개수·미사용 연차수당",
+  "score": 77.5,
+  "demand": 105840,
+  "bid": 2510,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연차계산기",
+    "requests": 36900,
+    "bid": 2510
+   },
+   {
+    "keyword": "연차발생기준",
+    "requests": 27590,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산기",
+    "requests": 17920,
+    "bid": 0
+   },
+   {
+    "keyword": "연차개수",
+    "requests": 12290,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당",
+    "requests": 9000,
+    "bid": 0
+   },
+   {
+    "keyword": "연차수당계산",
+    "requests": 2140,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "건강검진 12/31 마감",
+  "score": 74.7,
+  "demand": 172300,
+  "bid": 11800,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 102900,
+    "bid": 11800
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 69400,
+    "bid": 4720
+   }
+  ]
+ },
+ {
+  "name": "독감 유행·예방접종",
+  "score": 73.1,
+  "demand": 451790,
+  "bid": 77670,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 148200,
+    "bid": 3720
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 104400,
+    "bid": 77670
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 75470,
+    "bid": 4060
+   },
+   {
+    "keyword": "독감",
+    "requests": 65300,
+    "bid": 5930
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 29670,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 28750,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "윈터타이어·겨울 타이어 교체",
+  "score": 71.0,
+  "demand": 63130,
+  "bid": 5950,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "타이어교체주기",
+    "requests": 19010,
+    "bid": 3400
+   },
+   {
+    "keyword": "윈터타이어",
+    "requests": 16270,
+    "bid": 4750
+   },
+   {
+    "keyword": "타이어교체",
+    "requests": 13540,
+    "bid": 5950
+   },
+   {
+    "keyword": "타이어교체비용",
+    "requests": 5900,
+    "bid": 0
+   },
+   {
+    "keyword": "타이어교체시기",
+    "requests": 4630,
+    "bid": 0
+   },
+   {
+    "keyword": "윈터타이어교체시기",
+    "requests": 3780,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 방지",
+  "score": 70.1,
+  "demand": 19480,
+  "bid": 12450,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 8490,
+    "bid": 11800
+   },
+   {
+    "keyword": "해빙",
+    "requests": 2880,
+    "bid": 3930
+   },
+   {
+    "keyword": "동파",
+    "requests": 2040,
+    "bid": 12450
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 1850,
+    "bid": 12080
+   },
+   {
+    "keyword": "스팀해빙기",
+    "requests": 1580,
+    "bid": 0
+   },
+   {
+    "keyword": "해빙기",
+    "requests": 1440,
+    "bid": 0
+   },
+   {
+    "keyword": "보일러동파",
+    "requests": 540,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파",
+    "requests": 350,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "자동차보험 겨울 손해율·갱신",
+  "score": 69.2,
+  "demand": 352150,
+  "bid": 40310,
+  "longtail": 21,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "자동차보험",
+    "requests": 117300,
+    "bid": 34930
+   },
+   {
+    "keyword": "자동차보험비교",
+    "requests": 64200,
+    "bid": 27980
+   },
+   {
+    "keyword": "자동차보험료비교견적사이트",
+    "requests": 47200,
+    "bid": 27780
+   },
+   {
+    "keyword": "다이렉트자동차보험",
+    "requests": 26720,
+    "bid": 40310
+   },
+   {
+    "keyword": "자동차보험다이렉트",
+    "requests": 15200,
+    "bid": 30950
+   },
+   {
+    "keyword": "다이렉트자동차보험비교",
+    "requests": 10300,
+    "bid": 0
+   },
+   {
+    "keyword": "자동차보험료계산",
+    "requests": 8460,
+    "bid": 0
+   },
+   {
+    "keyword": "다이렉트자동차보험비교견적사이트",
+    "requests": 7450,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "퇴직금 계산 (연말 퇴사)",
+  "score": 68.0,
+  "demand": 375090,
+  "bid": 900,
+  "longtail": 5,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "퇴직금계산기",
+    "requests": 273500,
+    "bid": 900
+   },
+   {
+    "keyword": "퇴직금지급기준",
+    "requests": 34550,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금계산",
+    "requests": 29300,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금",
+    "requests": 24810,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금중간정산",
+    "requests": 12930,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "출산지원금·국민행복카드 (출생아 증가)",
+  "score": 67.9,
+  "demand": 113410,
+  "bid": 11620,
+  "longtail": 10,
+  "timeliness": 2,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "국민행복카드",
+    "requests": 48300,
+    "bid": 11620
+   },
+   {
+    "keyword": "부모급여",
+    "requests": 19800,
+    "bid": 3460
+   },
+   {
+    "keyword": "출산지원금",
+    "requests": 10960,
+    "bid": 1320
+   },
+   {
+    "keyword": "국민행복카드발급",
+    "requests": 8970,
+    "bid": 11260
+   },
+   {
+    "keyword": "국민행복카드바우처",
+    "requests": 6020,
+    "bid": 6780
+   },
+   {
+    "keyword": "국민행복카드비교",
+    "requests": 5820,
+    "bid": 8620
+   },
+   {
+    "keyword": "임신바우처",
+    "requests": 4500,
+    "bid": 980
+   },
+   {
+    "keyword": "임신바우처신청",
+    "requests": 4310,
+    "bid": 7010
+   }
+  ]
+ },
+ {
+  "name": "12월 달력·공휴일",
+  "score": 67.2,
+  "demand": 221110,
+  "bid": 670,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "12월달력",
+    "requests": 183200,
+    "bid": 640
+   },
+   {
+    "keyword": "1월달력",
+    "requests": 30500,
+    "bid": 670
+   },
+   {
+    "keyword": "2027공휴일",
+    "requests": 4290,
+    "bid": 380
+   },
+   {
+    "keyword": "12월공휴일",
+    "requests": 3120,
+    "bid": 360
+   }
+  ]
+ },
+ {
+  "name": "녹내장 (40대 이하 실손)",
+  "score": 61.0,
+  "demand": 99530,
+  "bid": 20400,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "녹내장",
+    "requests": 38660,
+    "bid": 20400
+   },
+   {
+    "keyword": "황반변성",
+    "requests": 19380,
+    "bid": 17120
+   },
+   {
+    "keyword": "녹내장증상",
+    "requests": 12620,
+    "bid": 0
+   },
+   {
+    "keyword": "황반변성증상",
+    "requests": 10010,
+    "bid": 0
+   },
+   {
+    "keyword": "녹내장초기증상",
+    "requests": 7370,
+    "bid": 0
+   },
+   {
+    "keyword": "녹내장치료",
+    "requests": 6310,
+    "bid": 0
+   },
+   {
+    "keyword": "황반변성치료",
+    "requests": 5180,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "겨울방학·겨울축제",
+  "score": 61.0,
+  "demand": 24920,
+  "bid": 1990,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "겨울축제",
+    "requests": 8580,
+    "bid": 1210
+   },
+   {
+    "keyword": "산천어축제",
+    "requests": 8570,
+    "bid": 570
+   },
+   {
+    "keyword": "빙어축제",
+    "requests": 7770,
+    "bid": 1990
+   }
+  ]
+ },
+ {
+  "name": "크리스마스·송년회",
+  "score": 59.9,
+  "demand": 414220,
+  "bid": 28540,
+  "longtail": 14,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "크리스마스",
+    "requests": 105400,
+    "bid": 980
+   },
+   {
+    "keyword": "크리스마스장식",
+    "requests": 57300,
+    "bid": 1950
+   },
+   {
+    "keyword": "크리스마스리스",
+    "requests": 41570,
+    "bid": 790
+   },
+   {
+    "keyword": "송년회",
+    "requests": 31350,
+    "bid": 28540
+   },
+   {
+    "keyword": "크리스마스선물",
+    "requests": 29600,
+    "bid": 0
+   },
+   {
+    "keyword": "망년회",
+    "requests": 20210,
+    "bid": 70
+   },
+   {
+    "keyword": "크리스마스소품",
+    "requests": 19200,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스공연",
+    "requests": 19020,
+    "bid": 2940
+   }
+  ]
+ },
+ {
+  "name": "동지 팥죽 12/22",
+  "score": 57.9,
+  "demand": 119190,
+  "bid": 1340,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "동지",
+    "requests": 85500,
+    "bid": 230
+   },
+   {
+    "keyword": "팥죽",
+    "requests": 11830,
+    "bid": 1340
+   },
+   {
+    "keyword": "동짓날",
+    "requests": 11410,
+    "bid": 120
+   },
+   {
+    "keyword": "단팥죽",
+    "requests": 3450,
+    "bid": 0
+   },
+   {
+    "keyword": "팥죽맛집",
+    "requests": 2870,
+    "bid": 0
+   },
+   {
+    "keyword": "동지팥죽",
+    "requests": 2420,
+    "bid": 0
+   },
+   {
+    "keyword": "본죽팥죽",
+    "requests": 1370,
+    "bid": 0
+   },
+   {
+    "keyword": "팥죽끓이는법",
+    "requests": 340,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "도시가스 요금",
+  "score": 50.4,
+  "demand": 9730,
+  "bid": 1420,
+  "longtail": 2,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "도시가스신청",
+    "requests": 6980,
+    "bid": 1360
+   },
+   {
+    "keyword": "도시가스요금",
+    "requests": 2070,
+    "bid": 1420
+   },
+   {
+    "keyword": "부산도시가스신청",
+    "requests": 680,
+    "bid": 810
+   }
+  ]
+ }
+]
