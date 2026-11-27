@@ -1,0 +1,958 @@
+[
+ {
+  "name": "종합소득세 중간예납 11/30 마감",
+  "score": 90.9,
+  "demand": 120180,
+  "bid": 16190,
+  "longtail": 13,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종합소득세",
+    "requests": 37020,
+    "bid": 16190
+   },
+   {
+    "keyword": "종합소득세중간예납",
+    "requests": 27100,
+    "bid": 3280
+   },
+   {
+    "keyword": "종합소득세세율",
+    "requests": 16350,
+    "bid": 0
+   },
+   {
+    "keyword": "종소세중간예납",
+    "requests": 7400,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세신고",
+    "requests": 6490,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세율",
+    "requests": 6360,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세과세표준",
+    "requests": 4140,
+    "bid": 0
+   },
+   {
+    "keyword": "종합소득세신고기간",
+    "requests": 2700,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "주담대 7%·대출 이자 계산",
+  "score": 86.4,
+  "demand": 857830,
+  "bid": 4530,
+  "longtail": 7,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "대출계산기",
+    "requests": 313200,
+    "bid": 2660
+   },
+   {
+    "keyword": "대출이자계산기",
+    "requests": 259500,
+    "bid": 2240
+   },
+   {
+    "keyword": "이자계산기",
+    "requests": 166100,
+    "bid": 1950
+   },
+   {
+    "keyword": "금리계산기",
+    "requests": 44230,
+    "bid": 4530
+   },
+   {
+    "keyword": "대출금리계산기",
+    "requests": 40500,
+    "bid": 2470
+   },
+   {
+    "keyword": "대출금리",
+    "requests": 19510,
+    "bid": 0
+   },
+   {
+    "keyword": "대출이자",
+    "requests": 14790,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "근로·자녀장려금 기한 후 신청 12/1 마감",
+  "score": 84.1,
+  "demand": 134500,
+  "bid": 1320,
+  "longtail": 5,
+  "timeliness": 3,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "근로장려금",
+    "requests": 107000,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금대상",
+    "requests": 12580,
+    "bid": 70
+   },
+   {
+    "keyword": "근로장려금기한후신청",
+    "requests": 4250,
+    "bid": 270
+   },
+   {
+    "keyword": "근로장려금신청방법",
+    "requests": 4030,
+    "bid": 170
+   },
+   {
+    "keyword": "근로장려금조건",
+    "requests": 2000,
+    "bid": 190
+   },
+   {
+    "keyword": "근로장려금계산기",
+    "requests": 560,
+    "bid": 190
+   },
+   {
+    "keyword": "국세청근로장려금상담센터",
+    "requests": 540,
+    "bid": 70
+   },
+   {
+    "keyword": "홈텍스근로장려금",
+    "requests": 440,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "수능 성적 통지·정시 원서접수",
+  "score": 82.2,
+  "demand": 794290,
+  "bid": 11440,
+  "longtail": 10,
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "수능등급컷",
+    "requests": 696300,
+    "bid": 6260
+   },
+   {
+    "keyword": "수능일정",
+    "requests": 24500,
+    "bid": 1950
+   },
+   {
+    "keyword": "정시원서접수",
+    "requests": 23420,
+    "bid": 11000
+   },
+   {
+    "keyword": "수능성적표",
+    "requests": 15090,
+    "bid": 1280
+   },
+   {
+    "keyword": "정시원서접수기간",
+    "requests": 10540,
+    "bid": 10080
+   },
+   {
+    "keyword": "수능성적발표",
+    "requests": 7200,
+    "bid": 0
+   },
+   {
+    "keyword": "정시4등급대학",
+    "requests": 6490,
+    "bid": 11440
+   },
+   {
+    "keyword": "정시3등급대학",
+    "requests": 6250,
+    "bid": 7090
+   }
+  ]
+ },
+ {
+  "name": "난방기 전기요금",
+  "score": 79.0,
+  "demand": 603020,
+  "bid": 20240,
+  "longtail": 22,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "전기히터",
+    "requests": 138200,
+    "bid": 13920
+   },
+   {
+    "keyword": "온풍기",
+    "requests": 125500,
+    "bid": 7690
+   },
+   {
+    "keyword": "가정용온풍기",
+    "requests": 81700,
+    "bid": 1440
+   },
+   {
+    "keyword": "전기난로",
+    "requests": 55000,
+    "bid": 20240
+   },
+   {
+    "keyword": "히터",
+    "requests": 52000,
+    "bid": 10840
+   },
+   {
+    "keyword": "발난로",
+    "requests": 35200,
+    "bid": 1070
+   },
+   {
+    "keyword": "전기온풍기",
+    "requests": 22360,
+    "bid": 11340
+   },
+   {
+    "keyword": "사무실온풍기",
+    "requests": 13460,
+    "bid": 6420
+   }
+  ]
+ },
+ {
+  "name": "연말정산 미리보기",
+  "score": 77.3,
+  "demand": 217460,
+  "bid": 8900,
+  "longtail": 7,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연말정산미리보기",
+    "requests": 96200,
+    "bid": 70
+   },
+   {
+    "keyword": "연말정산",
+    "requests": 67600,
+    "bid": 8900
+   },
+   {
+    "keyword": "연말정산기간",
+    "requests": 17680,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산소득공제",
+    "requests": 12440,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산계산기",
+    "requests": 8610,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산준비",
+    "requests": 7470,
+    "bid": 0
+   },
+   {
+    "keyword": "연말정산환급금조회",
+    "requests": 7460,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "김장 시기·절임배추 양",
+  "score": 77.3,
+  "demand": 767800,
+  "bid": 4900,
+  "longtail": 23,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "절임배추20KG",
+    "requests": 159700,
+    "bid": 2970
+   },
+   {
+    "keyword": "절임배추",
+    "requests": 129700,
+    "bid": 4900
+   },
+   {
+    "keyword": "깍두기담그기",
+    "requests": 55590,
+    "bid": 140
+   },
+   {
+    "keyword": "김장김치",
+    "requests": 39650,
+    "bid": 2510
+   },
+   {
+    "keyword": "해남절임배추20KG",
+    "requests": 35850,
+    "bid": 750
+   },
+   {
+    "keyword": "절임배추10KG",
+    "requests": 31890,
+    "bid": 0
+   },
+   {
+    "keyword": "괴산절임배추",
+    "requests": 28430,
+    "bid": 0
+   },
+   {
+    "keyword": "김장",
+    "requests": 27810,
+    "bid": 750
+   }
+  ]
+ },
+ {
+  "name": "12월 분양·공공주택 청약",
+  "score": 76.1,
+  "demand": 314630,
+  "bid": 2430,
+  "longtail": 13,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "LH임대주택",
+    "requests": 72300,
+    "bid": 1280
+   },
+   {
+    "keyword": "행복주택",
+    "requests": 55000,
+    "bid": 320
+   },
+   {
+    "keyword": "청약",
+    "requests": 43300,
+    "bid": 1160
+   },
+   {
+    "keyword": "LH청약",
+    "requests": 36380,
+    "bid": 1090
+   },
+   {
+    "keyword": "LH행복주택",
+    "requests": 34400,
+    "bid": 500
+   },
+   {
+    "keyword": "주택청약",
+    "requests": 26420,
+    "bid": 0
+   },
+   {
+    "keyword": "아파트청약",
+    "requests": 10640,
+    "bid": 2430
+   },
+   {
+    "keyword": "청약홈페이지",
+    "requests": 10270,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "건강검진 12/31 마감",
+  "score": 74.7,
+  "demand": 172500,
+  "bid": 11680,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "건강검진",
+    "requests": 102700,
+    "bid": 11680
+   },
+   {
+    "keyword": "국가건강검진",
+    "requests": 69800,
+    "bid": 4670
+   }
+  ]
+ },
+ {
+  "name": "주휴수당·시급 계산",
+  "score": 74.0,
+  "demand": 280500,
+  "bid": 4620,
+  "longtail": 4,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "시급계산기",
+    "requests": 152100,
+    "bid": 4620
+   },
+   {
+    "keyword": "주휴수당계산기",
+    "requests": 65700,
+    "bid": 640
+   },
+   {
+    "keyword": "주휴수당",
+    "requests": 55380,
+    "bid": 0
+   },
+   {
+    "keyword": "주휴수당계산법",
+    "requests": 7320,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "독감 유행·예방접종",
+  "score": 73.0,
+  "demand": 428410,
+  "bid": 76890,
+  "longtail": 6,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "독감예방접종",
+    "requests": 129300,
+    "bid": 3680
+   },
+   {
+    "keyword": "대상포진",
+    "requests": 103400,
+    "bid": 76890
+   },
+   {
+    "keyword": "대상포진증상",
+    "requests": 74080,
+    "bid": 4010
+   },
+   {
+    "keyword": "독감",
+    "requests": 67200,
+    "bid": 0
+   },
+   {
+    "keyword": "독감주사",
+    "requests": 27910,
+    "bid": 0
+   },
+   {
+    "keyword": "독감예방접종가격",
+    "requests": 26520,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "연봉 실수령액",
+  "score": 72.2,
+  "demand": 501700,
+  "bid": 5960,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "연봉계산기",
+    "requests": 320800,
+    "bid": 210
+   },
+   {
+    "keyword": "월급계산기",
+    "requests": 100200,
+    "bid": 5960
+   },
+   {
+    "keyword": "실수령액계산기",
+    "requests": 80700,
+    "bid": 290
+   }
+  ]
+ },
+ {
+  "name": "국가장학금 1학기 신청",
+  "score": 72.0,
+  "demand": 189070,
+  "bid": 70,
+  "longtail": 2,
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "국가장학금",
+    "requests": 166500,
+    "bid": 70
+   },
+   {
+    "keyword": "국가장학금신청기간",
+    "requests": 22570,
+    "bid": 70
+   }
+  ]
+ },
+ {
+  "name": "퇴직금 계산 (연말 퇴사)",
+  "score": 70.9,
+  "demand": 382420,
+  "bid": 3780,
+  "longtail": 6,
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "퇴직금계산기",
+    "requests": 272000,
+    "bid": 900
+   },
+   {
+    "keyword": "퇴직금지급기준",
+    "requests": 34150,
+    "bid": 3780
+   },
+   {
+    "keyword": "퇴직금계산",
+    "requests": 29600,
+    "bid": 3340
+   },
+   {
+    "keyword": "퇴직금",
+    "requests": 24760,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금중간정산",
+    "requests": 12620,
+    "bid": 0
+   },
+   {
+    "keyword": "퇴직금세금",
+    "requests": 9290,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "수도 동파 방지",
+  "score": 69.5,
+  "demand": 16510,
+  "bid": 12450,
+  "longtail": 5,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "동파방지열선",
+    "requests": 8790,
+    "bid": 0
+   },
+   {
+    "keyword": "동파",
+    "requests": 2160,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파방지",
+    "requests": 1910,
+    "bid": 0
+   },
+   {
+    "keyword": "동파방지",
+    "requests": 1850,
+    "bid": 12450
+   },
+   {
+    "keyword": "수도동파방지열선",
+    "requests": 1010,
+    "bid": 0
+   },
+   {
+    "keyword": "동파방지히터",
+    "requests": 420,
+    "bid": 0
+   },
+   {
+    "keyword": "수도동파",
+    "requests": 370,
+    "bid": 6210
+   }
+  ]
+ },
+ {
+  "name": "종부세 12월 납부",
+  "score": 67.4,
+  "demand": 82590,
+  "bid": 2150,
+  "longtail": 4,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "top_keywords": [
+   {
+    "keyword": "종부세",
+    "requests": 38810,
+    "bid": 2150
+   },
+   {
+    "keyword": "종합부동산세",
+    "requests": 19720,
+    "bid": 1380
+   },
+   {
+    "keyword": "종부세기준",
+    "requests": 15850,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세계산기",
+    "requests": 7250,
+    "bid": 0
+   },
+   {
+    "keyword": "종부세납부",
+    "requests": 960,
+    "bid": 1490
+   }
+  ]
+ },
+ {
+  "name": "12월 달력·공휴일",
+  "score": 67.1,
+  "demand": 248210,
+  "bid": 670,
+  "longtail": 3,
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "12월달력",
+    "requests": 210400,
+    "bid": 640
+   },
+   {
+    "keyword": "1월달력",
+    "requests": 33700,
+    "bid": 670
+   },
+   {
+    "keyword": "12월공휴일",
+    "requests": 4110,
+    "bid": 360
+   }
+  ]
+ },
+ {
+  "name": "동지 팥죽 12/22",
+  "score": 58.1,
+  "demand": 128220,
+  "bid": 1330,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 1,
+  "format": "calendar",
+  "top_keywords": [
+   {
+    "keyword": "동지",
+    "requests": 93600,
+    "bid": 230
+   },
+   {
+    "keyword": "팥죽",
+    "requests": 12140,
+    "bid": 1330
+   },
+   {
+    "keyword": "동짓날",
+    "requests": 12070,
+    "bid": 120
+   },
+   {
+    "keyword": "단팥죽",
+    "requests": 3520,
+    "bid": 0
+   },
+   {
+    "keyword": "팥죽맛집",
+    "requests": 2940,
+    "bid": 0
+   },
+   {
+    "keyword": "동지팥죽",
+    "requests": 2540,
+    "bid": 870
+   },
+   {
+    "keyword": "본죽팥죽",
+    "requests": 1410,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "국민연금 가입내역 조회 (사업주 체납)",
+  "score": 57.3,
+  "demand": 1390,
+  "bid": 410,
+  "longtail": 0,
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "국민연금가입내역조회",
+    "requests": 930,
+    "bid": 410
+   },
+   {
+    "keyword": "국민연금체납",
+    "requests": 460,
+    "bid": 290
+   }
+  ]
+ },
+ {
+  "name": "트래블카드·해외결제 (해외 카드 사용 최대)",
+  "score": 57.0,
+  "demand": 67790,
+  "bid": 6680,
+  "longtail": 3,
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "트래블카드",
+    "requests": 37660,
+    "bid": 6680
+   },
+   {
+    "keyword": "신한트래블카드",
+    "requests": 18860,
+    "bid": 0
+   },
+   {
+    "keyword": "일본트래블카드추천",
+    "requests": 10330,
+    "bid": 0
+   },
+   {
+    "keyword": "해외결제수수료",
+    "requests": 940,
+    "bid": 1460
+   }
+  ]
+ },
+ {
+  "name": "크리스마스 준비",
+  "score": 55.8,
+  "demand": 401930,
+  "bid": 4070,
+  "longtail": 12,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "크리스마스",
+    "requests": 114900,
+    "bid": 980
+   },
+   {
+    "keyword": "크리스마스장식",
+    "requests": 61800,
+    "bid": 1930
+   },
+   {
+    "keyword": "크리스마스리스",
+    "requests": 45600,
+    "bid": 790
+   },
+   {
+    "keyword": "크리스마스선물",
+    "requests": 33900,
+    "bid": 4070
+   },
+   {
+    "keyword": "크리스마스소품",
+    "requests": 20800,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스공연",
+    "requests": 20520,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스오르골",
+    "requests": 20120,
+    "bid": 0
+   },
+   {
+    "keyword": "크리스마스트리장식",
+    "requests": 19380,
+    "bid": 0
+   }
+  ]
+ },
+ {
+  "name": "계란·쌀 장바구니 물가 (AI 항원)",
+  "score": 51.6,
+  "demand": 194770,
+  "bid": 2060,
+  "longtail": 7,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "쌀20KG",
+    "requests": 68200,
+    "bid": 2060
+   },
+   {
+    "keyword": "쌀10KG",
+    "requests": 63900,
+    "bid": 1830
+   },
+   {
+    "keyword": "계란",
+    "requests": 37720,
+    "bid": 1120
+   },
+   {
+    "keyword": "신동진쌀20KG",
+    "requests": 8210,
+    "bid": 0
+   },
+   {
+    "keyword": "쌀20KG가격",
+    "requests": 7630,
+    "bid": 0
+   },
+   {
+    "keyword": "계란죽",
+    "requests": 7190,
+    "bid": 0
+   },
+   {
+    "keyword": "계란가격",
+    "requests": 1920,
+    "bid": 590
+   }
+  ]
+ },
+ {
+  "name": "딸기 제철·가격",
+  "score": 51.6,
+  "demand": 109040,
+  "bid": 550,
+  "longtail": 17,
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "top_keywords": [
+   {
+    "keyword": "딸기제철",
+    "requests": 30820,
+    "bid": 550
+   },
+   {
+    "keyword": "딸기케이크",
+    "requests": 15770,
+    "bid": 0
+   },
+   {
+    "keyword": "설향딸기",
+    "requests": 7980,
+    "bid": 0
+   },
+   {
+    "keyword": "딸기잼",
+    "requests": 6910,
+    "bid": 0
+   },
+   {
+    "keyword": "딸기청",
+    "requests": 5440,
+    "bid": 0
+   },
+   {
+    "keyword": "딸기1KG",
+    "requests": 5030,
+    "bid": 0
+   },
+   {
+    "keyword": "금실딸기",
+    "requests": 4900,
+    "bid": 0
+   },
+   {
+    "keyword": "딸기농장",
+    "requests": 4820,
+    "bid": 0
+   }
+  ]
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "name": "종합소득세 중간예납 11/30 마감",
+  "roots": [
+   "중간예납",
+   "종합소득세"
+  ],
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0
+ },
+ {
+  "name": "근로·자녀장려금 기한 후 신청 12/1 마감",
+  "roots": [
+   "근로장려금",
+   "자녀장려금"
+  ],
+  "timeliness": 3,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0
+ },
+ {
+  "name": "국가장학금 1학기 신청",
+  "roots": [
+   "국가장학금"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0
+ },
+ {
+  "name": "연말정산 미리보기",
+  "roots": [
+   "연말정산"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.5
+ },
+ {
+  "name": "종부세 12월 납부",
+  "roots": [
+   "종부세",
+   "종합부동산세"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "penalty": 0.3
+ },
+ {
+  "name": "12월 분양·공공주택 청약",
+  "roots": [
+   "청약",
+   "공공분양",
+   "LH임대",
+   "행복주택"
+  ],
+  "exclude": [
+   "공모주"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0
+ },
+ {
+  "name": "수능 성적 통지·정시 원서접수",
+  "roots": [
+   "수능등급컷",
+   "수능성적",
+   "정시원서접수",
+   "정시4등급",
+   "정시3등급",
+   "수능일정"
+  ],
+  "exclude": [
+   "2025"
+  ],
+  "timeliness": 3,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.4
+ },
+ {
+  "name": "12월 달력·공휴일",
+  "roots": [
+   "12월달력",
+   "12월공휴일",
+   "1월달력"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calendar",
+  "penalty": 0.3
+ },
+ {
+  "name": "주담대 7%·대출 이자 계산",
+  "roots": [
+   "대출계산기",
+   "대출이자",
+   "이자계산기",
+   "금리계산기",
+   "대출금리"
+  ],
+  "timeliness": 3,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.4
+ },
+ {
+  "name": "김장 시기·절임배추 양",
+  "roots": [
+   "김장",
+   "절임배추",
+   "깍두기"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0.5
+ },
+ {
+  "name": "난방기 전기요금",
+  "roots": [
+   "전기히터",
+   "온풍기",
+   "전기난로",
+   "발난로",
+   "히터"
+  ],
+  "exclude": [
+   "욕실"
+  ],
+  "timeliness": 2,
+  "action": 2,
+  "format": "calculator",
+  "penalty": 0.5
+ },
+ {
+  "name": "수도 동파 방지",
+  "roots": [
+   "동파"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "계란·쌀 장바구니 물가 (AI 항원)",
+  "roots": [
+   "계란",
+   "쌀20",
+   "쌀10"
+  ],
+  "exclude": [
+   "계란찜",
+   "구운계란"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "딸기 제철·가격",
+  "roots": [
+   "딸기"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "크리스마스 준비",
+  "roots": [
+   "크리스마스"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "동지 팥죽 12/22",
+  "roots": [
+   "동지",
+   "동짓날",
+   "팥죽"
+  ],
+  "timeliness": 1,
+  "action": 1,
+  "format": "calendar",
+  "penalty": 0
+ },
+ {
+  "name": "독감 유행·예방접종",
+  "roots": [
+   "독감",
+   "대상포진"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0.6
+ },
+ {
+  "name": "건강검진 12/31 마감",
+  "roots": [
+   "건강검진"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "calendar",
+  "penalty": 0.6
+ },
+ {
+  "name": "주휴수당·시급 계산",
+  "roots": [
+   "주휴수당",
+   "시급계산기"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0
+ },
+ {
+  "name": "트래블카드·해외결제 (해외 카드 사용 최대)",
+  "roots": [
+   "트래블카드",
+   "해외결제"
+  ],
+  "timeliness": 1,
+  "action": 2,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "국민연금 가입내역 조회 (사업주 체납)",
+  "roots": [
+   "국민연금가입",
+   "국민연금체납"
+  ],
+  "timeliness": 2,
+  "action": 3,
+  "format": "",
+  "penalty": 0
+ },
+ {
+  "name": "연봉 실수령액",
+  "roots": [
+   "실수령액",
+   "연봉계산기",
+   "월급계산기"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.3
+ },
+ {
+  "name": "퇴직금 계산 (연말 퇴사)",
+  "roots": [
+   "퇴직금"
+  ],
+  "exclude": [
+   "퇴직연금"
+  ],
+  "timeliness": 1,
+  "action": 3,
+  "format": "calculator",
+  "penalty": 0.4
+ }
+]
